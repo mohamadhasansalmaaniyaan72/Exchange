@@ -1,5 +1,6 @@
 Barnaame Ekschange: 
-Baraaye Hesaabdaari ye Burs Va Ramz Arz.
+
+ٍهد Baraaye Hesaabdaari ye Burs Va Ramz Arz.
 Ein Barnaame Mitavanad Kharid Va Forush ee Shomaa Raa Dar Burs 
 Va Kharid Va Forush Ramz Arz Modiriyat Konad Va Sud Va Zarar ee Shomaa Mohaasebe Konad.
 
