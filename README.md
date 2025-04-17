@@ -4,6 +4,8 @@ Ein Barnaame Baraaye Hesaabdaari ye Burs Va Ramz Arz Hast.
 Ein Barnaame Mitavanad Kharid Va Forush ee Shomaa Raa Dar Burs 
 Va Kharid Va Forush Ramz Arz Modiriyat Konad Va Sud Va Zarar ee Shomaa Raa Mohaasebe Konad.
 
+Baraaye Kharid Ein Code Da'vat Raa Vaared Konid: 1000000001
+
 #C-Sharp-Winform,#.netCore7
 
 ![2](https://github.com/user-attachments/assets/a4fb5aaa-78ca-495e-b9c4-c33cf011522e)
