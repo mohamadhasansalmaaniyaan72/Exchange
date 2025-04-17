@@ -1,6 +1,8 @@
 Barnaame Ekschange: 
 Baraaye Hesaabdaari ye Burs Va Ramz Arz.
-Ein Barnaame Mitavanad Kharid Va Forush ee Shomaa Raa Dar Burs Va Kharid Va Forush Ramz Arz Modiriyat Konad Va Sud Va Zarar ee Shomaa Mohaasebe Konad.
+Ein Barnaame Mitavanad Kharid Va Forush ee Shomaa Raa Dar Burs 
+Va Kharid Va Forush Ramz Arz Modiriyat Konad Va Sud Va Zarar ee Shomaa Mohaasebe Konad.
+
 #C-Sharp-Winform,#.netCore7
 
 Download Part1: https://www.dropbox.com/scl/fi/q0anhah6jxs0mp35457s6/Exchange.part1.rar?rlkey=mabnfjp58ejttuhu3kr32aihq&st=vxkp7gy3&dl=1
