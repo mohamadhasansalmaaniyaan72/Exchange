@@ -1,4 +1,5 @@
 Barnaame Ekschange: Baraaye Hesaabdaari ye Burs Va Ramz Arz
+#C-Sharp-Winform,#.netCore7
 
 Download Part1: https://www.dropbox.com/scl/fi/q0anhah6jxs0mp35457s6/Exchange.part1.rar?rlkey=mabnfjp58ejttuhu3kr32aihq&st=vxkp7gy3&dl=1
 
