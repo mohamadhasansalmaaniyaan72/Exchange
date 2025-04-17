@@ -4,7 +4,7 @@ Ein Barnaame Baraaye Hesaabdaari ye Burs Va Ramz Arz Hast.
 Ein Barnaame Mitavanad Kharid Va Forush ee Shomaa Raa Dar Burs 
 Va Kharid Va Forush Ramz Arz Modiriyat Konad Va Sud Va Zarar ee Shomaa Raa Mohaasebe Konad.
 
-Baraaye Kharid Ein Code ee Da'vat Raa Vaared Konid: 1000000001
+Baraaye Kharid, Ein Code ee Da'vat Raa Vaared Konid: 1000000001
 
 C#,WinForm,.NetCore7
 
