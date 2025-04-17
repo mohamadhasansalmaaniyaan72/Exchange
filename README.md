@@ -6,7 +6,7 @@ Va Kharid Va Forush Ramz Arz Modiriyat Konad Va Sud Va Zarar ee Shomaa Raa Mohaa
 
 Baraaye Kharid Ein Code ee Da'vat Raa Vaared Konid: 1000000001
 
-#C-Sharp-Winform,#.netCore7
+C#,WinForm,.NetCore7
 
 ![2](https://github.com/user-attachments/assets/a4fb5aaa-78ca-495e-b9c4-c33cf011522e)
 
