@@ -9,7 +9,7 @@ Baraaye Kharid, Ein Code ee Da'vat Raa Vaared Konid: 1000000001
 System ee Pishnahaad i:
 Windows 8.1 Va Baalaa tar
 
-Qabla Az Ejraa ye Barnaame Ein Barnaame Nast Shabvad:
+Qabla Az Ejraa ye Barnaame Ein Barnaame Nast Shabvad,
 Ein Barnaame Baraaye Ejraa ye Barnaame haaye .NetCore Estefaade Mishavad:
 
 https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.20-windows-x86-installer 
