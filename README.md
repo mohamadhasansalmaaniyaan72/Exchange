@@ -1,6 +1,6 @@
-Barnaame Ekschange: 
-
 ![Exchange](https://github.com/user-attachments/assets/e3a7e3ec-bebc-4a75-9a73-8019eef6d595)
+
+Barnaame Ekschange: 
 
 
 Ein Barnaame Baraaye Hesaabdaari ye Burs Va Ramz Arz Hast.
