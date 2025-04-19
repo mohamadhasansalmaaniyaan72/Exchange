@@ -6,6 +6,13 @@ Va Kharid Va Forush Ramz Arz Modiriyat Konad Va Sud Va Zarar ee Shomaa Raa Mohaa
 
 Baraaye Kharid, Ein Code ee Da'vat Raa Vaared Konid: 1000000001
 
+System ee Pishnahaad i:
+Windows 8.1 Be Baalaa
+
+Qabla Az Ejraa ye Barnaame Ein Barnaame Nast Shabvad:
+Ein Barnaame Baraaye Ejraa ye Barnaame haaye .NetCore Estefaade Mishavad:
+https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.20-windows-x86-installer 
+
 C#,WinForm,.NetCore7
 
 ![2](https://github.com/user-attachments/assets/a4fb5aaa-78ca-495e-b9c4-c33cf011522e)
