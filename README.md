@@ -12,7 +12,9 @@ Windows 8.1 Va Baalaa tar
 Qabla Az Ejraa ye Barnaame Ein Barnaame Nast Shabvad,
 Ein Barnaame Baraaye Ejraa ye Barnaame haaye .NetCore Estefaade Mishavad:
 
-https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.20-windows-x86-installer 
+https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.20-windows-x86-installer
+
+Dar Surat ee Har Gune Moshkel Dar Beruz Resaani Dobaare Noskhe Asli az Einjaa Download Kon id.
 
 C#,WinForm,.NetCore7
 
