@@ -7,7 +7,7 @@ Va Kharid Va Forush Ramz Arz Modiriyat Konad Va Sud Va Zarar ee Shomaa Raa Mohaa
 Baraaye Kharid, Ein Code ee Da'vat Raa Vaared Konid: 1000000001
 
 System ee Pishnahaad i:
-Windows 8.1 Be Baalaa
+Windows 8.1 Va Baalaa tar
 
 Qabla Az Ejraa ye Barnaame Ein Barnaame Nast Shabvad:
 Ein Barnaame Baraaye Ejraa ye Barnaame haaye .NetCore Estefaade Mishavad:
