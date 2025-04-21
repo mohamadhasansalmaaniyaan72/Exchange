@@ -1,4 +1,4 @@
-<img width="1000" alt="Github_Exchange_Ekschange_Mohamad Hasan Salmaaniyaan" src="https://github.com/user-attachments/assets/e3a7e3ec-bebc-4a75-9a73-8019eef6d595" />
+<img width="500" alt="Github_Exchange_Ekschange_Mohamad Hasan Salmaaniyaan" src="https://github.com/user-attachments/assets/e3a7e3ec-bebc-4a75-9a73-8019eef6d595" />
 
 Ekschange: 
 
