@@ -23,7 +23,7 @@ C#,WinForm,.NetCore7
 
 ![2](https://github.com/user-attachments/assets/a4fb5aaa-78ca-495e-b9c4-c33cf011522e)
 
-<img width="500" alt="Github_Exchange_Ekschange_Mohamad Hasan Salmaaniyaan" src="https://github.com/user-attachments/assets/9f9ff397-e859-49d2-bf24-b1d0ac0e8e33" />
+<img width="400" alt="Github_Exchange_Ekschange_Mohamad Hasan Salmaaniyaan" src="https://github.com/user-attachments/assets/9f9ff397-e859-49d2-bf24-b1d0ac0e8e33" />
 
 
-<img width="312" alt="Github_Exchange_Ekschange_Mohamad Hasan Salmaaniyaan" src="https://github.com/user-attachments/assets/d849dd79-0ff2-4782-bf2a-f51222527849" />
+<img width="400" alt="Github_Exchange_Ekschange_Mohamad Hasan Salmaaniyaan" src="https://github.com/user-attachments/assets/d849dd79-0ff2-4782-bf2a-f51222527849" />
