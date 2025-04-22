@@ -28,8 +28,8 @@ C#,WinForm,.NetCore7
 
 <img width="800" alt="Github_Exchange_Ekschange_Mohamad Hasan Salmaaniyaan" src="https://github.com/user-attachments/assets/7959d9c8-fb73-48e4-aeac-43b84b3f0528" />
 
-<img style="width: 50%; max-width: 200px; height: auto;" alt="Github_Exchange_Ekschange_Mohamad Hasan Salmaaniyaan" src="https://github.com/user-attachments/assets/9f9ff397-e859-49d2-bf24-b1d0ac0e8e33" />
+<img style="width: 40%; max-width: 200px; height: auto;" alt="Github_Exchange_Ekschange_Mohamad Hasan Salmaaniyaan" src="https://github.com/user-attachments/assets/9f9ff397-e859-49d2-bf24-b1d0ac0e8e33" />
 
-<img  style="width: 50%; max-width: 200px; height: auto;" width="292" alt="Github_Exchange_Ekschange_Mohamad Hasan Salmaaniyaan" src="https://github.com/user-attachments/assets/d849dd79-0ff2-4782-bf2a-f51222527849" />
+<img  style="width: 60%; max-width: 150px; height: auto;" width="292" alt="Github_Exchange_Ekschange_Mohamad Hasan Salmaaniyaan" src="https://github.com/user-attachments/assets/d849dd79-0ff2-4782-bf2a-f51222527849" />
 
 <img width="800" alt="Github_Exchange_Ekschange_Mohamad Hasan Salmaaniyaan" src="https://github.com/user-attachments/assets/fa0b2a48-54f0-40c7-a4e7-b98acba5ed21" />
