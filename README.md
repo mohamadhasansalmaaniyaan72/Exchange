@@ -1,10 +1,10 @@
-<center>
-  <img width="500" alt="Github_Exchange_Ekschange_Mohamad Hasan Salmaaniyaan" src="https://github.com/user-attachments/assets/e3a7e3ec-bebc-4a75-9a73-8019eef6d595" />
-</center>
+<p align="center">
+ <img width="500" alt="Github_Exchange_Ekschange_Mohamad Hasan Salmaaniyaan" src="https://github.com/user-attachments/assets/e3a7e3ec-bebc-4a75-9a73-8019eef6d595" />
+</p>
 
-
-Ekschange: 
-
+<p align="center">
+  Ekschange: 
+</p>
 
 Ein Barnaame Baraaye Hesaabdaari ye Burs Va Ramz Arz Hast.
 Ein Barnaame Mitavaanad Kharid Va Forush ee Shomaa Raa Dar Burs 
