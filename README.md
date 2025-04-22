@@ -26,7 +26,7 @@ Dar Surat ee Har Gune Moshkel Dar Beruz Resaani Dobaare Noskhe Raa az Einjaa Dow
 
 C#,WinForm,.NetCore7
 
-<img style="width: 85%; height: 510px; margin: 0 8px;" alt="Github_Exchange_Ekschange_Mohamad Hasan Salmaaniyaan" src="https://github.com/user-attachments/assets/7959d9c8-fb73-48e4-aeac-43b84b3f0528" />
+<img style="width: 88%; height: 510px; margin: 0 8px;" alt="Github_Exchange_Ekschange_Mohamad Hasan Salmaaniyaan" src="https://github.com/user-attachments/assets/7959d9c8-fb73-48e4-aeac-43b84b3f0528" />
 
 <p>
   <img style="width: 50%; height: 510px; margin: 0 10px;" alt="Github_Exchange_Ekschange_Mohamad Hasan Salmaaniyaan" src="https://github.com/user-attachments/assets/9f9ff397-e859-49d2-bf24-b1d0ac0e8e33" />
