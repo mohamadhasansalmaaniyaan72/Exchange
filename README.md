@@ -31,9 +31,8 @@ C#,WinForm,.NetCore7
 
   <img style="width: 279px; height: 173px; margin: 0 10px;" alt="Github_Exchange_Ekschange_Mohamad Hasan Salmaaniyaan" src="https://github.com/user-attachments/assets/9f9ff397-e859-49d2-bf24-b1d0ac0e8e33" />
 
- <img  style="width: 145px; height: 173px; margin: 0 10px;" alt="Github_Exchange_Ekschange_Mohamad Hasan Salmaaniyaan" src="https://github.com/user-attachments/assets/d849dd79-0ff2-4782-bf2a-f51222527849" />
+ <img  style="width: 130px; height: 173px; margin: 0 10px;" alt="Github_Exchange_Ekschange_Mohamad Hasan Salmaaniyaan" src="https://github.com/user-attachments/assets/d849dd79-0ff2-4782-bf2a-f51222527849" />
 
-<p align="center">
-<img style="width: 279; height: 173px; margin: 0 10px;" alt="Github_Exchange_Ekschange_Mohamad Hasan Salmaaniyaan" src="https://github.com/user-attachments/assets/fa0b2a48-54f0-40c7-a4e7-b98acba5ed21" />
-</p>
+<img style="width: 279px; height: 173px; margin: 0 10px;" alt="Github_Exchange_Ekschange_Mohamad Hasan Salmaaniyaan" src="https://github.com/user-attachments/assets/fa0b2a48-54f0-40c7-a4e7-b98acba5ed21" />
+
 
