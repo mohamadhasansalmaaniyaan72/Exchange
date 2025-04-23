@@ -45,7 +45,8 @@ If you experience any problems with updates, please download the latest version 
 C#,WinForm,.NetCore7
 
 
- <img style="width: 279px; height: 210px; margin: 0 10px;" alt="Github_Exchange_Ekschange_Mohamad Hasan Salmaaniyaan" src="https://github.com/user-attachments/assets/7959d9c8-fb73-48e4-aeac-43b84b3f0528" />
+<img style="width: 279px; height: 210px; margin: 0 10px;" alt="Github_Exchange_Ekschange_Mohamad Hasan Salmaaniyaan" src="https://github.com/user-attachments/assets/11cdb80e-9da4-4d5f-b275-de970f06c352" />
+
 
   <img style="width: 279px; height: 210px; margin: 0 10px;" alt="Github_Exchange_Ekschange_Mohamad Hasan Salmaaniyaan" src="https://github.com/user-attachments/assets/9f9ff397-e859-49d2-bf24-b1d0ac0e8e33" />
 
