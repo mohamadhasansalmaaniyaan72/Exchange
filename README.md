@@ -23,6 +23,24 @@ Ein Barnaame Baraaye Ejraa ye Barnaame haaye .NetCore Estefaade Mishavad:
 https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.20-windows-x86-installer
 
 Dar Surat ee Har Gune Moshkel Dar Beruz Resaani Dobaare Noskhe Raa az Einjaa Download Kon id.
+------------------------------------------------------------------------
+<p align="center">
+ <strong>
+    Exchange:
+ </strong>
+</p>
+
+This is a program for managing stock and cryptocurrency accounting. The program can manage your stock exchange and cryptocurrency buy/sell activities and calculate your profits and losses.
+
+To make a purchase, enter this invitation code: 1000000001
+
+Recommended System: Windows 8.1 or higher
+
+Before running the program, please install the following prerequisite. This program uses .NET Core to run:
+
+https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.20-windows-x86-installer
+
+If you experience any problems with updates, please download the latest version again from this link.
 
 C#,WinForm,.NetCore7
 
@@ -33,6 +51,6 @@ C#,WinForm,.NetCore7
 
  <img  style="width: 125px; height: 210px; margin: 0 10px;" alt="Github_Exchange_Ekschange_Mohamad Hasan Salmaaniyaan" src="https://github.com/user-attachments/assets/d849dd79-0ff2-4782-bf2a-f51222527849" />
 
-<img style="width: 279px; height: 210px; margin: 0 10px;" alt="Github_Exchange_Ekschange_Mohamad Hasan Salmaaniyaan" src="https://github.com/user-attachments/assets/fa0b2a48-54f0-40c7-a4e7-b98acba5ed21" />
+<img style="width: 279px; height: 210px; margin: 0 10px;" alt="Github_Exchange_Ekschange_Mohamad Hasan Salmaaniyaan" src="https://github.com/user-attachments/assets/3da151d0-3b66-403c-af47-3947329bd80c" />
 
 
