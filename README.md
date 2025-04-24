@@ -1,5 +1,5 @@
 <p align="center">
- <img width="500" alt="Github_Exchange_Ekschange_Mohamad Hasan Salmaaniyaan" src="https://i.imgur.com/hpz1VLG.png" />
+ <img width="500" alt="Github_Exchange_Ekschange_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/blob/main/assets/1.png" />
 </p>
 
 <p align="center">
@@ -51,8 +51,6 @@ C#,WinForm,.NetCore7
   <img style="width: 279px; height: 210px; margin: 0 10px;" alt="Github_Exchange_Ekschange_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/blob/main/assets/3.png" />
 
   <img style="width: 279px; height: 210px; margin: 0 10px;" alt="Github_Exchange_Ekschange_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/blob/main/assets/4.png" />
-
-   <img style="width: 279px; height: 210px; margin: 0 10px;" alt="Github_Exchange_Ekschange_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/blob/main/assets/5.png" />
 </p>
 
   
