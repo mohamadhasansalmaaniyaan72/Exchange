@@ -43,8 +43,10 @@ https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0
 
 If you experience any problems with updates, please download the latest version again from this link.
 
+---------------------------------------------------------
+Current Version (Noskhe ye Jaari): 1.0.1.9
 C#,WinForm,.NetCore7
-
+---------------------------------------------------------
 <p>
   <img style="width: 279px; height: 210px;" alt="Github_Exchange_Ekschange_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/blob/main/assets/2.png" />
 
