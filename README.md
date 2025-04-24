@@ -1,8 +1,5 @@
 <p align="center">
- <img width="500" alt="Github_Exchange_Ekschange_Mohamad Hasan Salmaaniyaan" src="https://drive.usercontent.google.com/download?id=1l6ukt6easgcEmm52lImSAXlHfRJ4bCB4&export=view&authuser=1" />
-
-
- <blockquote class="imgur-embed-pub" lang="en" data-id="hpz1VLG"><a href="https://imgur.com/hpz1VLG">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+ <img width="500" alt="Github_Exchange_Ekschange_Mohamad Hasan Salmaaniyaan" src="https://imgur.com/hpz1VLG" />
 </p>
 
 <p align="center">
