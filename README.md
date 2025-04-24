@@ -1,5 +1,5 @@
 <p align="center">
- <img width="500" alt="Github_Exchange_Ekschange_Mohamad Hasan Salmaaniyaan" src="https://imgur.com/hpz1VLG" />
+ <img width="500" alt="Github_Exchange_Ekschange_Mohamad Hasan Salmaaniyaan" src="https://i.imgur.com/hpz1VLG.png" />
 </p>
 
 <p align="center">
