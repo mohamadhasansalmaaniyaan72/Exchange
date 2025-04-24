@@ -44,7 +44,7 @@ https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0
 If you experience any problems with updates, please download the latest version again from this link.
 
 ---------------------------------------------------------
-Current Version (Noskhe ye Jaari): 1.0.1.9
+Updated Version (Noskhe ye Beruz): 1.0.1.9
 
 C#,WinForm,.NetCore7
 
