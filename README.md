@@ -51,7 +51,7 @@ If you experience any problems with updates, please download the latest version 
 ---------------------------------------------------------
 Updated Version (Noskhe ye Beruz): 1.0.3.9
 
-C#,WinForm,.NetCore7
+C#,WinForm,.NetCore
 
 ---------------------------------------------------------
 <p>
