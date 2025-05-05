@@ -9,7 +9,7 @@
 
 <p align="center">
  <strong>
-    Ekschange:
+    EKSCHENJ:
  </strong>
 </p>
 
@@ -32,7 +32,7 @@ Dar Surat ee Har Gune Moshkel Dar Beruz Resaani Dobaare Noskhe Raa az Einjaa Dow
 ------------------------------------------------------------------------
 <p align="center">
  <strong>
-    Exchange:
+    EXCHANGE:
  </strong>
 </p>
 
