@@ -55,14 +55,14 @@ C#,WinForm,.NetCore
 
 ---------------------------------------------------------
 <p>
-  <img style="width: 270px; height: 210px;" alt="Github_Exchange_Ekschange_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/blob/main/assets/2.png" />
+  <img style="width: 300px; height: 200px;" alt="Github_Exchange_Ekschange_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/blob/main/assets/2.png" />
 
-  <img style="width: 270px; height: 210px;" alt="Github_Exchange_Ekschange_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/blob/main/assets/3.png" />
+  <img style="width: 300px; height: 200px;" alt="Github_Exchange_Ekschange_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/blob/main/assets/3.png" />
 </p>
 <p>
-  <img style="width: 270px; height: 210px;" alt="Github_Exchange_Ekschange_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/blob/main/assets/4.png" />
+  <img style="width: 300px; height: 200px;" alt="Github_Exchange_Ekschange_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/blob/main/assets/4.png" />
 
-  <img style="width: 270px; height: 210px;" alt="Github_Exchange_Ekschange_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/blob/main/assets/5.png" />
+  <img style="width: 300px; height: 200px;" alt="Github_Exchange_Ekschange_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/blob/main/assets/5.png" />
 </p>
 <p>
  <img style="width: 155px; height: 210px;" alt="Github_Exchange_Ekschange_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/blob/main/assets/6.png" />
@@ -70,7 +70,7 @@ C#,WinForm,.NetCore
   <img style="width: 155px; height: 210px;" alt="Github_Exchange_Ekschange_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/blob/main/assets/7.png" />
 </p>
 <p>
- <img style="width: 290px; height: 200px;" alt="Github_Exchange_Ekschange_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/blob/main/assets/8.png" />
+ <img style="width: 300px; height: 200px;" alt="Github_Exchange_Ekschange_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/blob/main/assets/8.png" />
 </p>
 </body>
 </html>
