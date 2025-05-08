@@ -55,22 +55,22 @@ C#,WinForm,.NetCore
 
 ---------------------------------------------------------
 <p>
-  <img style="width: 300px; height: 200px; border-radius: 10%;" alt="Github_Exchange_Ekschange_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/blob/main/assets/2.png?2025-05-08 20:42" />
+  <img style="width: 300px; height: 200px; border-radius: 10px;" alt="Github_Exchange_Ekschange_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/blob/main/assets/2.png?2025-05-08 20:42" />
 
-  <img style="width: 300px; height: 200px; border-radius: 10%;" alt="Github_Exchange_Ekschange_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/blob/main/assets/3.png" />
+  <img style="width: 300px; height: 200px; border-radius: 10px;" alt="Github_Exchange_Ekschange_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/blob/main/assets/3.png" />
 </p>
 <p>
-  <img style="width: 300px; height: 200px; border-radius: 10%;" alt="Github_Exchange_Ekschange_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/blob/main/assets/4.png" />
+  <img style="width: 300px; height: 200px; border-radius: 10px;" alt="Github_Exchange_Ekschange_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/blob/main/assets/4.png" />
 
-  <img style="width: 300px; height: 200px; border-radius: 10%;" alt="Github_Exchange_Ekschange_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/blob/main/assets/5.png" />
+  <img style="width: 300px; height: 200px; border-radius: 10px;" alt="Github_Exchange_Ekschange_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/blob/main/assets/5.png" />
 </p>
 <p>
- <img style="width: 155px; height: 210px; border-radius: 10%;" alt="Github_Exchange_Ekschange_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/blob/main/assets/6.png" />
+ <img style="width: 155px; height: 210px; border-radius: 10px;" alt="Github_Exchange_Ekschange_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/blob/main/assets/6.png" />
 
-  <img style="width: 155px; height: 210px; border-radius: 10%;" alt="Github_Exchange_Ekschange_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/blob/main/assets/7.png" />
+  <img style="width: 155px; height: 210px; border-radius: 10px;" alt="Github_Exchange_Ekschange_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/blob/main/assets/7.png" />
 </p>
 <p>
- <img style="width: 300px; height: 200px; border-radius: 10%;" alt="Github_Exchange_Ekschange_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/blob/main/assets/8.png" />
+ <img style="width: 300px; height: 200px; border-radius: 10px;" alt="Github_Exchange_Ekschange_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/blob/main/assets/8.png" />
 </p>
 </body>
 </html>
