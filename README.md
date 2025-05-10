@@ -49,6 +49,9 @@ https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0
 If you experience any problems with updates, please download the latest version again from this link.
 
 ---------------------------------------------------------
+
+Support Address (Address ee Poshtibaan i): mh.salmanian@yahoo.com 
+
 Updated Version (Noskhe ye Beruz): 1.2.9.9
 
 C#,WinForm,.NetCore
