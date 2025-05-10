@@ -4,7 +4,7 @@
 </head>
 <body>
  <p align="center">
- <img width="500" alt="Github_Exchange_Ekschange_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/blob/main/assets/1.png" />
+ <img width="500" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/blob/main/assets/1.png" />
 </p>
 
 <p align="center">
