@@ -29,6 +29,8 @@ https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0
 
 Dar Surat ee Har Gune Moshkel Dar Beruz Resaani Dobaare Noskhe Raa az Einjaa Download Kon id.
 
+Dar Haal ee Haazer Hame ye Plan haaye Qeymat i 5 Maah ee Hastand.
+
 ------------------------------------------------------------------------
 <p align="center">
  <strong>
@@ -47,6 +49,8 @@ Before running the program, please install the following prerequisite. This prog
 https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.20-windows-x86-installer
 
 If you experience any problems with updates, please download the latest version again from this link.
+
+Currently, all pricing plans are 5 months.
 
 ---------------------------------------------------------
 
