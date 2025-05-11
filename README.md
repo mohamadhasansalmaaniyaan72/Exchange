@@ -29,7 +29,7 @@ https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0
 
 Dar Surat ee Har Gune Moshkel Dar Beruz Resaani Dobaare Noskhe Raa az Einjaa Download Kon id.
 
-Dar Haal ee Haazer Hame ye Plan haaye Qeymat i 5 Maah ee Hastand.
+<strong>Dar Haal ee Haazer Hame ye Plan haaye Qeymat i 5 Maah ee Hastand.</strong>
 
 ------------------------------------------------------------------------
 <p align="center">
@@ -50,7 +50,7 @@ https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0
 
 If you experience any problems with updates, please download the latest version again from this link.
 
-Currently, all pricing plans are 5 months.
+<strong>Currently, all pricing plans are 5 months.</strong>
 
 ---------------------------------------------------------
 
