@@ -29,7 +29,7 @@ https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0
 
 Dar Surat ee Har Gune Moshkel Dar Beruz Resaani Dobaare Noskhe Raa az Einjaa Download Kon id.
 
-<strong>Dar Haal ee Haazer Hame ye Plan haaye Qeymat i 5 Maah ee Hastand.</strong>
+<strong>Dar Haal ee Haazer Modat ee E'tebaar ee Har Enerxi 5 Maah ee Ast.</strong>
 
 ------------------------------------------------------------------------
 <p align="center">
@@ -50,7 +50,7 @@ https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0
 
 If you experience any problems with updates, please download the latest version again from this link.
 
-<strong>Currently, all pricing plans are 5 months.</strong>
+<strong>Currently, the validity period of each energy is 5 months.</strong>
 
 ---------------------------------------------------------
 
