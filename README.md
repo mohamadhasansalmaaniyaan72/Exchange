@@ -56,7 +56,7 @@ If you experience any problems with updates, please download the latest version 
 
 Support Address (Address ee Poshtibaan i): mh.salmanian@yahoo.com 
 
-Updated Version (Noskhe ye Beruz): 1.2.9.9
+Updated Version (Noskhe ye Beruz): 1.3.9.9
 
 C#,WinForm,.NetCore
 
