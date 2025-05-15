@@ -53,6 +53,7 @@ If you experience any problems with updates, please download the latest version 
 <strong>Currently, the validity period of each energy is 5 months.</strong>
 
 ---------------------------------------------------------
+File Size (Hajm ee File): 91.5
 
 Support Address (Address ee Poshtibaan i): mh.salmanian@yahoo.com 
 
