@@ -57,7 +57,7 @@ File Size (Hajm ee File): 91.6MB
 
 Support Address (Address ee Poshtibaan i): mh.salmanian@yahoo.com 
 
-Updated Version (Noskhe ye Beruz): 1.4.9.9
+Updated Version (Noskhe ye Beruz): 1.5.9.9
 
 C#,WinForm,.NetCore
 
