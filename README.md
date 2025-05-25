@@ -27,7 +27,7 @@ Ein Barnaame Baraaye Ejraa ye Barnaame haaye .NetCore Estefaade Mishavad:
 
 https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.20-windows-x86-installer
 
-Dar Surat ee Har Gune Moshkel Dar Beruz Resaani Dobaare Noskhe Raa az Einjaa Download Kon id.
+Dar Surat ee Har Gune Moshkel Be Email ee Daad ee Shod e Payaam Bedahid Yaa Dar Hesaab ee Kaarbar iye <a href="https://x.com/salmaaniyaan72/status/1912920912770261313">Twitter (X)</a> Payaam Begozaarid Va Dar Surat ee Moshkel Dar Beruz Resaani Dobaare Noskhe Raa Az Hamin Address Download Kon id.
 
 <strong>Dar Haal ee Haazer Modat ee E'tebaar ee Har Enerxi 5 Maah ee Ast.</strong>
 
@@ -48,7 +48,7 @@ Before running the program, please install the following prerequisite. This prog
 
 https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.20-windows-x86-installer
 
-If you experience any problems with updates, please download the latest version again from this link.
+If you encounter any problems, send an email or leave a message on the user's account on <a href="https://x.com/salmaaniyaan72/status/1912920912770261313">Twitter (X)</a>. If you have trouble updating, download the file again from the same address.
 
 <strong>Currently, the validity period of each energy is 5 months.</strong>
 
