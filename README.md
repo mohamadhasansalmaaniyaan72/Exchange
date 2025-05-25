@@ -56,6 +56,7 @@ If you encounter any problems, send an email or leave a message on the user's ac
 File Size (Hajm ee File): 91.6MB
 
 Support Address (Address ee Poshtibaan i): mh.salmanian@yahoo.com
+
 Twitter (X): https://x.com/salmaaniyaan72/status/1912920912770261313
 
 Updated Version (Noskhe ye Beruz): 1.5.9.9
