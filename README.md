@@ -68,11 +68,11 @@ File Size (Hajm ee File): 94.255MB
 
 ---------------------------------------------------------
 <p>
-  <img style="width: 300px; height: 200px;" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/2.png?2025-05-08-20:42-123455646498789789" />
+  <img style="width: 300px; height: 200px;" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/2.png?2025-07-0742-123455646498789789" />
   <img style="width: 300px; height: 200px;" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/3.png" />
 </p>
 <p>
-  <img style="width: 300px; height: 200px;" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/4.png?2025-05-15 12:54" />
+  <img style="width: 300px; height: 200px;" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/4.png?2025-07-07 17:25" />
   <img style="width: 300px; height: 200px;" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/5.png" />
 </p>
 <p>
