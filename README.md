@@ -59,6 +59,7 @@ Support Address (Address ee Powtibaan i): https://github.com/mohamadhasansalmaan
 Twitter (X): https://x.com/salmaaniyaan72/status/1912920912770261313
 
 Version (Noskhe): 1.6.9.9
+
 File Size (Hajm ee File): 94.255MB 
 
 In-app update (Noskhe ye Update Darun Barnaame): 1.7.9.9
