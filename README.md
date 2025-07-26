@@ -62,6 +62,7 @@ Version (Noskhe): 1.6.9.9
 File Size (Hajm ee File): 94.255MB 
 
 In-app update (Noskhe ye Update Darun Barnaame): 1.7.9.9
+
 File Size (Hajm ee File): 82.1MB
 
 C#,WinForm,.NetCore
