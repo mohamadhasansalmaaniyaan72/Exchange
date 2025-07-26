@@ -27,7 +27,7 @@ Ein Barnaame Baraaye Ejraa ye Barnaame haaye .NetCore Estefaade Miwavad:
 
 https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.20-windows-x86-installer
 
-Dar Surat ee Har Gune Mowkel Be Email ee Daad ee Wod e Payaam Bedahid Yaa Dar Hesaab ee Kaarbar iye <a href="https://x.com/salmaaniyaan72/status/1912920912770261313">Twitter (X)</a> Payaam Begozaarid Va Dar Surat ee Mowkel Dar Beruz Resaani Dobaare Noskhe Raa Az Hamin Address Download Kon id.
+Dar Surat ee Har Gune Mowkel Be Email ee Daad ee Wod e Payaam Bedahid Yaa Dar Hesaab ee Kaarbar iye <a href="https://x.com/salmaaniyaan72/status/1912920912770261313">Twitter (X)</a>, <a href="https://www.facebook.com/share/p/1G2jCtZ1tF/">FaceBook (FB)</a> Comment Begozaarid Va Dar Surat ee Mowkel Dar Beruz Resaani Dobaare Noskhe Raa Az Hamin Address Download Kon id.
 
 <strong>Dar Haal ee Haazer Modat ee E'tebaar ee Har Enerxi 5 Maah ee Ast.</strong>
 
@@ -48,7 +48,7 @@ Before running the program, please install the following prerequisite. This prog
 
 https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.20-windows-x86-installer
 
-If you encounter any problems, send an email or leave a message on the user's account on <a href="https://x.com/salmaaniyaan72/status/1912920912770261313">Twitter (X)</a>. If you have trouble updating, download the file again from the same address.
+If you encounter any problems, send an email or leave a comment on the user's account on <a href="https://x.com/salmaaniyaan72/status/1912920912770261313">Twitter (X)</a>, <a href="https://www.facebook.com/share/p/1G2jCtZ1tF/">FaceBook (FB)</a>. If you have trouble updating, download the file again from the same address.
 
 <strong>Currently, the validity period of each energy is 5 months.</strong>
 
@@ -57,6 +57,8 @@ If you encounter any problems, send an email or leave a message on the user's ac
 Support Address (Address ee Powtibaan i): https://github.com/mohamadhasansalmaaniyaan72/Portfolio-Nemune-Kaar-haa-
 
 Twitter (X): https://x.com/salmaaniyaan72/status/1912920912770261313
+
+FaceBook (FB): https://www.facebook.com/share/p/1G2jCtZ1tF/
 
 Version (Noskhe): 1.6.9.9
 
