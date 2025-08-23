@@ -55,7 +55,6 @@ In-app update (Noskhe ye Update Darun Barnaame): 1.7.9.9
 
 File Size (Hajm ee File): 94.255MB 
 
-C#,WinForm,.NetCore
 
 <strong>Download:</strong>
 
