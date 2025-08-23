@@ -22,10 +22,6 @@ Baraaye KHarid, Ein Code ee Da'vat Raa Vaared Konid: 1000000001
 System ee Piwnahaad i:
 Windows 8.1 Va Baalaa tar
 
-Qabl Az Ejraa ye Barnaame Ein Barnaame Nast Wavad,
-Ein Barnaame Baraaye Ejraa ye Barnaame haaye .NetCore Estefaade Miwavad:
-
-https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.20-windows-x86-installer
 
 Dar Surat ee Har Gune Mowkel Be Email ee Daad ee Wod e Payaam Bedahid Yaa Dar Hesaab ee Kaarbar iye <a href="https://x.com/salmaaniyaan72/status/1912920912770261313">Twitter (X)</a>, <a href="https://www.facebook.com/share/p/1G2jCtZ1tF/">FaceBook (FB)</a> Comment Begozaarid Va Dar Surat ee Mowkel Dar Beruz Resaani Dobaare Noskhe Raa Az Hamin Address Download Kon id.
 
@@ -46,7 +42,6 @@ Recommended System: Windows 8.1 or higher
 
 Before running the program, please install the following prerequisite. This program uses .NET Core to run:
 
-https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.20-windows-x86-installer
 
 If you encounter any problems, send an email or leave a comment on the user's account on <a href="https://x.com/salmaaniyaan72/status/1912920912770261313">Twitter (X)</a>, <a href="https://www.facebook.com/share/p/1G2jCtZ1tF/">FaceBook (FB)</a>. If you have trouble updating, download the file again from the same address.
 
@@ -62,14 +57,17 @@ FaceBook (FB): https://www.facebook.com/share/p/1G2jCtZ1tF/
 
 Version (Noskhe): 1.6.9.9
 
-File Size (Hajm ee File): 94.255MB 
-
 In-app update (Noskhe ye Update Darun Barnaame): 1.7.9.9
+
+File Size (Hajm ee File): 94.255MB 
 
 C#,WinForm,.NetCore
 
+Download:
 
-<a href="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/main/Exchange.exe" class="prc-Button-ButtonBase-c50BI BlobEditor-module__Button--c1rQR">Download</a>
+<a href="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/main/Exchange.exe"><kbd> <br> Exhcange-1.6.9.9 <br> </kbd></a>
+
+<a href="https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.20-windows-x86-installer"><kbd> <br> Runtime-Desktop-7.0.20 <br> </kbd></a>
 
 ---------------------------------------------------------
 <p>
