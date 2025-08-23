@@ -49,12 +49,6 @@ If you encounter any problems, send an email or leave a comment on the user's ac
 
 ---------------------------------------------------------
 
-Support Address (Address ee Powtibaan i): https://github.com/mohamadhasansalmaaniyaan72/Portfolio-Nemune-Kaar-haa-
-
-Twitter (X): https://x.com/salmaaniyaan72/status/1912920912770261313
-
-FaceBook (FB): https://www.facebook.com/share/p/1G2jCtZ1tF/
-
 Version (Noskhe): 1.6.9.9
 
 In-app update (Noskhe ye Update Darun Barnaame): 1.7.9.9
@@ -63,13 +57,20 @@ File Size (Hajm ee File): 94.255MB
 
 C#,WinForm,.NetCore
 
-Download:
+<strong>Download:</strong>
 
 <a href="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/main/Exchange.exe"><kbd> <br> Exhcange-1.6.9.9 <br> </kbd></a>
 
 <a href="https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.20-windows-x86-installer"><kbd> <br> Runtime-Desktop-7.0.20 <br> </kbd></a>
 
----------------------------------------------------------
+<strong>Suppport links:</strong>
+
+<a href="https://github.com/mohamadhasansalmaaniyaan72/Portfolio-Nemune-Kaar-haa-"><kbd> <br> Main <br> </kbd></a>
+<a href="https://x.com/salmaaniyaan72/status/1912920912770261313"><kbd> <br> X <br> </kbd></a>
+<a href="https://Twitter.com/salmaaniyaan72/status/1912920912770261313"><kbd> <br> Twitter <br> </kbd></a>
+<a href="https://www.facebook.com/share/p/1G2jCtZ1tF/"><kbd> <br> Facebook <br> </kbd></a>
+
+
 <p>
   <img style="width: 300px; height: 200px;" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/2.png?2025-07-0742-123455646498789789" />
   <img style="width: 300px; height: 200px;" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/3.png" />
