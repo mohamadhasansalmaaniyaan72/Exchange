@@ -72,7 +72,7 @@ C#,WinForm,.NetCore
 
 
 <p>
-  <img style="width: 300px; height: 200px;" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/2.png?2025-07-0742-123455646498789789" />
+  <img style="width: 300px; height: 200px;" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/2.png?2025-08-23-132189789" />
   <img style="width: 300px; height: 200px;" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/3.png" />
 </p>
 <p>
