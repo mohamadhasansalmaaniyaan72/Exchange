@@ -62,7 +62,7 @@ File Size (Hajm ee File): 94.255MB
 
 <a href="https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.20-windows-x86-installer"><kbd> <br> Runtime-Desktop-7.0.20 <br> </kbd></a>
 
-<strong>Suppport links:</strong>
+<strong>Support links:</strong>
 
 <a href="https://github.com/mohamadhasansalmaaniyaan72/Portfolio-Nemune-Kaar-haa-"><kbd> <br> Main <br> </kbd></a>
 <a href="https://x.com/salmaaniyaan72/status/1912920912770261313"><kbd> <br> X <br> </kbd></a>
