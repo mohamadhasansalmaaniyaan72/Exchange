@@ -68,7 +68,7 @@ File Size (Hajm ee File): 94.255MB
 <a href="https://x.com/salmaaniyaan72/status/1912920912770261313"><kbd> <br> X <br> </kbd></a>
 <a href="https://Twitter.com/salmaaniyaan72/status/1912920912770261313"><kbd> <br> Twitter <br> </kbd></a>
 <a href="https://www.facebook.com/share/p/1G2jCtZ1tF/"><kbd> <br> Facebook <br> </kbd></a>
-<a href="https://www.facebook.com/share/p/1G2jCtZ1tF/"><kbd> <br> Youtube <br> </kbd></a>
+<a href="https://www.youtube.com/watch?v=n9qx_lEy00U"><kbd> <br> Youtube <br> </kbd></a>
 
 
 <p>
