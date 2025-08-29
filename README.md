@@ -22,8 +22,7 @@ Baraaye KHarid, Ein Code ee Da'vat Raa Vaared Konid: 1000000001
 System ee Piwnahaad i:
 Windows 8.1 Va Baalaa tar
 
-
-Dar Surat ee Har Gune Mowkel Be Email ee Daad ee Wod e Payaam Bedahid Yaa Dar Hesaab ee Kaarbar iye <a href="https://x.com/salmaaniyaan72/status/1912920912770261313">Twitter (X)</a>, <a href="https://www.facebook.com/share/p/1G2jCtZ1tF/">FaceBook (FB)</a> Comment Begozaarid Va Dar Surat ee Mowkel Dar Beruz Resaani Dobaare Noskhe Raa Az Hamin Address Download Kon id.
+Dar Surat ee Har Gune Mowkel Be Email ee Mojud Dar Barnaame Payaam KHod Raa Ersaal Konid Yaa Payaam KHod Raa Dar Link haaye Eraa'e Wod e Benevis id.
 
 <strong>Dar Haal ee Haazer Modat ee E'tebaar ee Har Enerxi 5 Maah ee Ast.</strong>
 
@@ -43,7 +42,7 @@ Recommended System: Windows 8.1 or higher
 Before running the program, please install the following prerequisite. This program uses .NET Core to run:
 
 
-If you encounter any problems, send an email or leave a comment on the user's account on <a href="https://x.com/salmaaniyaan72/status/1912920912770261313">Twitter (X)</a>, <a href="https://www.facebook.com/share/p/1G2jCtZ1tF/">FaceBook (FB)</a>. If you have trouble updating, download the file again from the same address.
+If you have any problems, send a message to the email in the app or write your message in the links provided.
 
 <strong>Currently, the validity period of each energy is 5 months.</strong>
 
