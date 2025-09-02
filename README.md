@@ -26,6 +26,12 @@ Dar Surat ee Har Gune Mowkel Be Email ee Mojud Dar Barnaame Payaam KHod Raa Ersa
 
 <strong>Dar Haal ee Haazer Modat ee E'tebaar ee Har Enerxi 5 Maah ee Ast.</strong>
 
+<strong>Vixegi haaye Jadid ee Ezaafe Wod e Be Barnaame:</strong>
+
+1- Nemaayew ee Profile Va Qaabeliyat ee Taqir ee Etelaa'aat ee Kaarbar Hast.
+
+2- Zakhire Kardan ee Ramz ee Kaarbaaraan.
+
 ------------------------------------------------------------------------
 <p align="center">
  <strong>
@@ -34,6 +40,7 @@ Dar Surat ee Har Gune Mowkel Be Email ee Mojud Dar Barnaame Payaam KHod Raa Ersa
 </p>
 
 This is a program for managing stock and cryptocurrency accounting. The program can manage your stock exchange and cryptocurrency buy/sell activities and calculate your profits and losses.
+A new feature added to the app is saving personal passwords for apps.
 
 To make a purchase, enter this invitation code: 1000000001
 
@@ -45,6 +52,12 @@ Before running the program, please install the following prerequisite. This prog
 If you have any problems, send a message to the email in the app or write your message in the links provided.
 
 <strong>Currently, the validity period of each energy is 5 months.</strong>
+
+<strong>New features added to the app:</strong>
+
+1- View profile and ability to change user information.
+
+2- Save user passwords.
 
 ---------------------------------------------------------
 
