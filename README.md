@@ -32,7 +32,7 @@ Dar Surat ee Har Gune Mowkel Be Email ee Mojud Dar Barnaame Payaam KHod Raa Ersa
 
 2- Zakhire Kardan ee Ramz ee Kaarbaraan. (1.8.9.9)
 
-3- Sueich Wodan Beyn ee Kaarbaraan Va Nemaayew ee Mojazaaye Etelaa'aat Aannhaa. (1.7.9.9)
+3- Sueich Wodan Beyn ee Kaarbaraan Va Nemaayew ee Mojazaaye Etelaa'aat ee Aannhaa. (1.7.9.9)
 
 ------------------------------------------------------------------------
 <p align="center">
