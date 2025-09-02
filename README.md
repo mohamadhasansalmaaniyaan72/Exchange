@@ -30,7 +30,7 @@ Dar Surat ee Har Gune Mowkel Be Email ee Mojud Dar Barnaame Payaam KHod Raa Ersa
 
 1- Nemaayew ee Profile Va Qaabeliyat ee Taqir ee Etelaa'aat ee Kaarbar. (1.8.9.9)
 
-2- Zakhire Kardan ee Ramz ee Kaarbaraan. (1.8.9.9)
+2- Zakhire Kardan ee Ramz ee Kaarbaraan (Modiriyat ee Ramz). (1.8.9.9)
 
 3- Sueich Wodan Beyn ee Kaarbaraan Va Nemaayew ee Mojazaaye Etelaa'aat ee Aannhaa. (1.7.9.9)
 
@@ -59,7 +59,7 @@ If you have any problems, send a message to the email in the app or write your m
 
 1- View profile and ability to change user information. (1.8.9.9)
 
-2- Save user passwords. (1.8.9.9)
+2- Save user passwords (Password Manager). (1.8.9.9)
 
 3- Switching between users and displaying that user's personal information separately. (1.7.9.9)
 
