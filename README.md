@@ -28,9 +28,11 @@ Dar Surat ee Har Gune Mowkel Be Email ee Mojud Dar Barnaame Payaam KHod Raa Ersa
 
 <strong>Vixegi haaye Jadid ee Ezaafe Wod e Be Barnaame:</strong>
 
-1- Nemaayew ee Profile Va Qaabeliyat ee Taqir ee Etelaa'aat ee Kaarbar Hast.
+1- Nemaayew ee Profile Va Qaabeliyat ee Taqir ee Etelaa'aat ee Kaarbar Hast. (1.8.9.9)
 
-2- Zakhire Kardan ee Ramz ee Kaarbaaraan.
+2- Zakhire Kardan ee Ramz ee Kaarbaraan. (1.8.9.9)
+
+3- Sueich Wodan Beyn ee Kaarbaraan Va Nemaayew ee Mojazaaye Etelaa'aat Aannhaa. (1.7.9.9)
 
 ------------------------------------------------------------------------
 <p align="center">
@@ -55,9 +57,11 @@ If you have any problems, send a message to the email in the app or write your m
 
 <strong>New features added to the app:</strong>
 
-1- View profile and ability to change user information.
+1- View profile and ability to change user information. (1.8.9.9)
 
-2- Save user passwords.
+2- Save user passwords. (1.8.9.9)
+
+3- Switching between users and displaying that user's personal information separately. (1.7.9.9)
 
 ---------------------------------------------------------
 
