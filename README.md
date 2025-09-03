@@ -28,11 +28,13 @@ Dar Surat ee Har Gune Mowkel Be Email ee Mojud Dar Barnaame Payaam KHod Raa Ersa
 
 <strong>⭐️⭐️Vixegi haaye Jadid Ke Be Barnaame Ezaafe Kardam:⭐️⭐️</strong>
 
-1- Nemaayew ee Profile Va Qaabeliyat ee Taqir ee Etelaa'aat ee Kaarbar. (1.8.9.9)
+1- Hal ee Mowkel ee Nemaayew ee Taarikh. (1.9.9.9)
 
-2- Zakhire Kardan ee Ramz ee Kaarbaraan (Modiriyat ee Ramz). (1.8.9.9)
+2- Nemaayew ee Profile Va Qaabeliyat ee Taqir ee Etelaa'aat ee Kaarbar. (1.8.9.9)
 
-3- Sueich Wodan Beyn ee Kaarbaraan Va Nemaayew ee Mojazaaye Etelaa'aat ee Aannhaa. (1.7.9.9)
+3- Zakhire Kardan ee Ramz ee Kaarbaraan (Modiriyat ee Ramz). (1.8.9.9)
+
+4- Sueich Wodan Beyn ee Kaarbaraan Va Nemaayew ee Mojazaaye Etelaa'aat ee Aannhaa. (1.7.9.9)
 
 ------------------------------------------------------------------------
 <p align="center">
@@ -57,17 +59,19 @@ If you have any problems, send a message to the email in the app or write your m
 
 <strong>⭐️⭐️New features I added to the app:⭐️⭐️</strong>
 
-1- View profile and ability to change user information. (1.8.9.9)
+1- Fix date display issue. (1.9.9.9)
 
-2- Save user passwords (Password Manager). (1.8.9.9)
+2- View profile and ability to change user information. (1.8.9.9)
 
-3- Switching between users and displaying that user's personal information separately. (1.7.9.9)
+3- Save user passwords (Password Manager). (1.8.9.9)
+
+4- Switching between users and displaying that user's personal information separately. (1.7.9.9)
 
 ---------------------------------------------------------
 
 Version (Noskhe): 1.6.9.9
 
-In-app update (Noskhe ye Update Darun Barnaame): 1.8.9.9
+In-app update (Noskhe ye Update Darun Barnaame): 1.9.9.9
 
 File Size (Hajm ee File): 94.255MB 
 
