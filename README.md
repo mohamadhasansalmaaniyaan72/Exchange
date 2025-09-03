@@ -67,7 +67,7 @@ If you have any problems, send a message to the email in the app or write your m
 
 Version (Noskhe): 1.6.9.9
 
-In-app update (Noskhe ye Update Darun Barnaame): 1.9.9.9
+In-app update (Noskhe ye Update Darun Barnaame): 1.8.9.9
 
 File Size (Hajm ee File): 94.255MB 
 
