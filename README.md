@@ -28,7 +28,7 @@ Dar Surat ee Har Gune Mowkel Be Email ee Mojud Dar Barnaame Payaam KHod Raa Ersa
 
 <strong>⭐️⭐️Vixegi haaye Jadid Ke Be Barnaame Ezaafe Kardam:⭐️⭐️</strong>
 
-1- Hale Mowkel ee Nemaayew ee Taarikh. (2.0.0.0)
+1- Hal ee Mowkel ee Nemaayew ee Taarikh. (2.0.0.0)
 
 2- Nemaayew ee Profile Va Qaabeliyat ee Taqir ee Etelaa'aat ee Kaarbar. (1.8.9.9)-(🛑Monqazi wod e)
 
