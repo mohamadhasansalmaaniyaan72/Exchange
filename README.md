@@ -76,7 +76,7 @@ File Size (Hajm ee File): 94.138MB
 
 <strong>Download:</strong>
 
-<a href="https://short-url.org/1dVR3"><kbd> <br> Exhcange-2.0.0.0 <br> </kbd></a>
+<a href="https://www.dropbox.com/scl/fi/2vyaya6is1l33vbg73g6w/Exchange.rar?rlkey=a0v2j52z60h0ku1jz4yrfpif4&st=jsingr0s&dl=1"><kbd> <br> Exhcange-2.0.0.0 <br> </kbd></a>
 
 <a href="https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.20-windows-x86-installer"><kbd> <br> Runtime-Desktop-7.0.20 <br> </kbd></a>
 
