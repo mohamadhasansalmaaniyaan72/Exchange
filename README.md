@@ -71,7 +71,7 @@ If you have any problems, send a message to the email in the app or write your m
 
 Version (Noskhe): 2.0.0.0
 
-File Size (Hajm ee File): 94.138MB 
+File Size (Hajm ee File): 94.161MB 
 
 
 <strong>Download:</strong>
