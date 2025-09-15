@@ -19,6 +19,8 @@ Va KHarid Va Foruw ee Ramz Arz Modiriyat Konad Va Sud Va Zarar ee Womaa Raa Moha
 
 Baraaye KHarid, Ein Code ee Da'vat Raa Vaared Konid: 1000000001
 
+Be Surat Mostaqel Va Startup Kaar Wod e Ast.
+
 System ee Piwnahaad i:
 Windows 8.1 Va Baalaa tar
 
@@ -47,6 +49,8 @@ This is a program for managing stock and cryptocurrency accounting. The program 
 A new feature added to the app is saving personal passwords for apps.
 
 To make a purchase, enter this invitation code: 1000000001
+
+It has been operating independently and as a startup.
 
 Recommended System: Windows 8.1 or higher
 
