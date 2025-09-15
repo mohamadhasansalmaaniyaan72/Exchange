@@ -17,7 +17,7 @@ Ein Barnaame Baraaye Hesaabdaari ye Burs Va Ramz Arz Hast.
 Ein Barnaame Mitavaanad KHarid Va Foruw ee Womaa Raa Dar Burs 
 Va KHarid Va Foruw ee Ramz Arz Modiriyat Konad Va Sud Va Zarar ee Womaa Raa Mohaasebe Konad. 
 
-⭐️🛑Ein Poroxe Be Surat Mostaqel Kaar Wod e Ast Va Dar Haal ee Tose-e Ast.🛑⭐️
+⭐️🛑Ein Poroxe Be Surat Mostaqel Kaar Wod e Ast Va Dar Haal ee Tose'e Ast.🛑⭐️
 
 Baraaye KHarid, Ein Code ee Da'vat Raa Vaared Konid: 1000000001
 
