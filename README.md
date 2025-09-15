@@ -15,11 +15,11 @@
 
 Ein Barnaame Baraaye Hesaabdaari ye Burs Va Ramz Arz Hast.
 Ein Barnaame Mitavaanad KHarid Va Foruw ee Womaa Raa Dar Burs 
-Va KHarid Va Foruw ee Ramz Arz Modiriyat Konad Va Sud Va Zarar ee Womaa Raa Mohaasebe Konad.
+Va KHarid Va Foruw ee Ramz Arz Modiriyat Konad Va Sud Va Zarar ee Womaa Raa Mohaasebe Konad. (⭐️Ein Poroxe Be Surat Mostaqel Dar Qaleeb ee Yek Startup Kaar Wod e Ast.⭐️)
 
 Baraaye KHarid, Ein Code ee Da'vat Raa Vaared Konid: 1000000001
 
-⭐️⭐️Ein Poroxe Be Surat Mostaqel Dar Qaleeb ee Yek Startup Kaar Wod e Ast.⭐️⭐️
+
 
 System ee Piwnahaad i:
 Windows 8.1 Va Baalaa tar
@@ -46,11 +46,11 @@ Dar Surat ee Har Gune Mowkel Be Email ee Mojud Dar Barnaame Payaam KHod Raa Ersa
 </p>
 
 This is a program for managing stock and cryptocurrency accounting. The program can manage your stock exchange and cryptocurrency buy/sell activities and calculate your profits and losses.
-A new feature added to the app is saving personal passwords for apps.
+A new feature added to the app is saving personal passwords for apps. (⭐️This project is operating independently in the form of a startup.⭐️)
 
 To make a purchase, enter this invitation code: 1000000001
 
-⭐️⭐️This project is operating independently in the form of a startup.⭐️⭐️
+
 
 Recommended System: Windows 8.1 or higher
 
