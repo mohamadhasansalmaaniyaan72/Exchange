@@ -32,7 +32,7 @@ Dar Surat ee Har Gune Mowkel Be Email ee Mojud Dar Barnaame Payaam KHod Raa Ersa
 
 <strong>⭐️⭐️Vixegi haaye Jadid Ke Be Barnaame Ezaafe Kardam:⭐️⭐️</strong>
 
-1- Hal ee Mowkel ee Nemaayew ee Taarikh. (2.0.0.0)
+1- Hal ee Mowkel ee Nemaayew ee Taarikh Va Mavaared Amniyanti. (2.0.0.0)
 
 2- Nemaayew ee Profile Va Qaabeliyat ee Taqir ee Etelaa'aat ee Kaarbar. (1.8.9.9)-(🛑Monqazi wod e)
 
@@ -67,7 +67,7 @@ If you have any problems, send a message to the email in the app or write your m
 
 <strong>⭐️⭐️New features I added to the app:⭐️⭐️</strong>
 
-1- Fix date display issue. (2.0.0.0)
+1- Fix date display and security issues. (2.0.0.0)
 
 2- View profile and ability to change user information. (1.8.9.9)-(🛑Expired)
 
