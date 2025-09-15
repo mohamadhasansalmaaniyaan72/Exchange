@@ -86,7 +86,9 @@ File Size (Hajm ee File): 94.161MB
 
 <a href="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/main/Exchange.rar"><kbd> <br> Exhcange-2.0.0.0 <br> </kbd></a>
 
-<a href="https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.20-windows-x86-installer"><kbd> <br> Runtime-Desktop-7.0.20 <br> </kbd></a>
+<a href="https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.20-windows-x86-installer"><kbd> <br> Runtime-Desktop-7.0.20 X86 <br> </kbd></a>
+
+<a href="https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.20-windows-x64-installer?cid=getdotnetcore"><kbd> <br> Runtime-Desktop-7.0.20 X64 <br> </kbd></a>
 
 <strong>Developer and support links (Link haaye Barnaame Nevis Va Powtibaan):</strong>
 
