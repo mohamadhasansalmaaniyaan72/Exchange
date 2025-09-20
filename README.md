@@ -84,7 +84,7 @@ File Size (Hajm ee File): 94.161MB
 
 <strong>Download:</strong>
 
-<a href="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/main/Exchange.rar"><kbd> <br> Exhcange-2.0.0.0 <br> </kbd></a>
+<a href="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/main/Exchange.rar"><kbd> <br> Exchange-2.0.0.0 <br> </kbd></a>
 
 <a href="https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.20-windows-x86-installer"><kbd> <br> Runtime-Desktop-7.0.20 X86 <br> </kbd></a>
 <a href="https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.20-windows-x64-installer?cid=getdotnetcore"><kbd> <br> Runtime-Desktop-7.0.20 X64 <br> </kbd></a>
