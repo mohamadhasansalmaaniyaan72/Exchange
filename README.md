@@ -32,7 +32,7 @@ Dar Surat ee Har Gune Mowkel Be Email ee Mojud Dar Barnaame Payaam KHod Raa Ersa
 
 <strong>⭐️⭐️Vixegi haaye Jadid Ke Be Barnaame Ezaafe Kardam:⭐️⭐️</strong>
 
-1- Hal ee Mowkel ee Nemaayew ee Taarikh Va Mavaared Amniyanti. (2.0.0.0)
+1- Hal ee Mowkel ee Nemaayew ee Taarikh Va Mavaared Amniyanti, Hal ee Mowkel UI Dar Win 8. (2.0.0.0)
 
 2- Nemaayew ee Profile Va Qaabeliyat ee Taqir ee Etelaa'aat ee Kaarbar. (1.8.9.9)-(🛑Monqazi wod e)
 
@@ -67,7 +67,7 @@ If you have any problems, send a message to the email in the app or write your m
 
 <strong>⭐️⭐️New features I added to the app:⭐️⭐️</strong>
 
-1- Fix date display and security issues. (2.0.0.0)
+1- Fix date display and security issues, fix UI issue in Windows 8. (2.0.0.0)
 
 2- View profile and ability to change user information. (1.8.9.9)-(🛑Expired)
 
@@ -79,12 +79,12 @@ If you have any problems, send a message to the email in the app or write your m
 
 Version (Noskhe): 2.0.0.0
 
-File Size (Hajm ee File): 94.161MB 
+File Size (Hajm ee File): 157.409MB 
 
 
 <strong>Download:</strong>
 
-<a href="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/main/Exchange.rar"><kbd> <br> Exchange-2.0.0.0 <br> </kbd></a>
+<a href="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/main/EXCHANGE-EKSCHENJ.rar"><kbd> <br> Exchange-2.0.0.0 <br> </kbd></a>
 
 <a href="https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.20-windows-x86-installer"><kbd> <br> Runtime-Desktop-7.0.20 X86 <br> </kbd></a>
 <a href="https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.20-windows-x64-installer?cid=getdotnetcore"><kbd> <br> Runtime-Desktop-7.0.20 X64 <br> </kbd></a>
@@ -117,6 +117,7 @@ File Size (Hajm ee File): 94.161MB
 </p>
 <p>
  <img style="width: 301px; height: 230px;" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/9.png?2025-08-28-22:516987465" />
+ <img style="width: 301px; height: 230px;" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/14.png?2025-10-02-1654465464984" />
 </p>
 </body>
 </html>
