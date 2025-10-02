@@ -32,7 +32,7 @@ Dar Surat ee Har Gune Mowkel Be Email ee Mojud Dar Barnaame Payaam KHod Raa Ersa
 
 <strong>⭐️⭐️Vixegi haaye Jadid Ke Be Barnaame Ezaafe Kardam:⭐️⭐️</strong>
 
-1- Hal ee Mowkel ee Nemaayew ee Taarikh Va Mavaared Amniyanti, Hal ee Mowkel UI Dar Win 8. (2.0.0.0)
+1- Hal ee Mowkel ee Nemaayew ee Taarikh Va Mavaared Amniyanti, Hal ee Mowkel UI Dar Win 8, Ezaafe Wodan ee Saabeqe KHarid, Taqir ee UI Ba'zi Qesmat haa. (2.0.0.0)
 
 2- Nemaayew ee Profile Va Qaabeliyat ee Taqir ee Etelaa'aat ee Kaarbar. (1.8.9.9)-(🛑Monqazi wod e)
 
@@ -67,7 +67,7 @@ If you have any problems, send a message to the email in the app or write your m
 
 <strong>⭐️⭐️New features I added to the app:⭐️⭐️</strong>
 
-1- Fix date display and security issues, fix UI issue in Windows 8. (2.0.0.0)
+1- Fixing the client’s date display and security issues, Fixing the client’s UI on Windows 8, Adding purchase history, Changing the UI in some sections. (2.0.0.0)
 
 2- View profile and ability to change user information. (1.8.9.9)-(🛑Expired)
 
