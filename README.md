@@ -38,7 +38,7 @@ Dar Surat ee Har Gune Mowkel Be Email ee Mojud Dar Barnaame Payaam KHod Raa Ersa
 
 3- Zakhire Kardan ee Ramz ee Kaarbaraan (Modiriyat ee Ramz). (1.8.9.9)-(🛑Monqazi wod e)
 
-4- Sueich Wodan Beyn ee Kaarbaraan Va Nemaayew ee Mojazaaye Etelaa'aat ee Aannhaa. (1.7.9.9)-(🛑Monqazi wod e)
+4- Sueich Wodan Beyn ee Kaarbaraan Va Nemaayew ee Mojazaaye Etelaa'aat ee Aanhaa. (1.7.9.9)-(🛑Monqazi wod e)
 
 ------------------------------------------------------------------------
 <p align="center">
