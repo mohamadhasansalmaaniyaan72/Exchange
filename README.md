@@ -67,9 +67,9 @@ If you have any problems, send a message to the email in the app or write your m
 
 <strong>⭐️⭐️New features I added to the app:⭐️⭐️</strong>
 
-1- Fixing the client’s date display and security issues, Fixing the client’s UI on Windows 8, Adding purchase history, Changing the UI in some sections, Adding the option for in-app payments with Tron. (2.0.0.0)
+1- Fixing the client’s date display and security issues, Fixing the client’s UI on Windows 8, Adding purchase history, CHanging the UI in some sections, Adding the option for in-app payments with Tron. (2.0.0.0)
 
-2- View profile and ability to change user information. (1.8.9.9)-(🛑Expired)
+2- View profile and ability to CHange user information. (1.8.9.9)-(🛑Expired)
 
 3- Save user passwords (Password Manager). (1.8.9.9)-(🛑Expired)
 
