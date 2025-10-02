@@ -32,7 +32,7 @@ Dar Surat ee Har Gune Mowkel Be Email ee Mojud Dar Barnaame Payaam KHod Raa Ersa
 
 <strong>⭐️⭐️Vixegi haaye Jadid Ke Be Barnaame Ezaafe Kardam:⭐️⭐️</strong>
 
-1- Hal ee Mowkel ee Nemaayew ee Taarikh Va Mavaared Amniyanti, Hal ee Mowkel UI Dar Windows(Vindoz) 8, Ezaafe Wodan ee Saabeqe KHarid, Taqir ee UI Ba'zi Qesmat haa, Ezaafe Wodan Emkaan ee Pardaakht ee Darun Barnaame-ei ye Tron. (2.0.0.0)
+1- Hal ee Mowkel ee Nemaayew ee Taarikh Va Mavaared Amniyanti, Hal ee Mowkel UI Dar Windows(Vindoz) 8, Ezaafe Wodan ee Saabeqe KHarid, Taqir ee UI Ba'zi Qesmat haa, Ezaafe Wodan ee Emkaan ee Pardaakht ee Darun Barnaame-ei ye Tron. (2.0.0.0)
 
 2- Nemaayew ee Profile Va Qaabeliyat ee Taqir ee Etelaa'aat ee Kaarbar. (1.8.9.9)-(🛑Monqazi)
 
