@@ -107,7 +107,7 @@ File Size (Hajm ee File): 147.672MB
 
 
 <p>
-  <img style="width: 300px; height: 230px;" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/2.png?2025-10-03-23:11" />
+  <img style="width: 300px; height: 230px;" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/2.png?2025-10-03-23:22" />
   <img style="width: 300px; height: 230px;" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/3.jpg?2025-08-27-124564" />
 </p>
 <p>
@@ -115,7 +115,7 @@ File Size (Hajm ee File): 147.672MB
   <img style="width: 300px; height: 230px;" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/5.jpg?2025-08-27-164564" />
 </p>
 <p>
- <img style="width: 301px; height: 230px;" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/8.png?2025-10-03-23:11" />
+ <img style="width: 301px; height: 230px;" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/8.png?2025-10-03-23:22" />
  <img style="width: 301px; height: 230px;" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/11.png?2025-08-28-22:516987465" />
 </p>
 <p>
