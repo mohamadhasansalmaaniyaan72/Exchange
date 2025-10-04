@@ -30,8 +30,6 @@ Dar Surat ee Har Gune Mowkel Be Email ee Mojud Dar Barnaame Payaam KHod Raa Ersa
 
 <strong>Dar Haal ee Haazer Modat ee E'tebaar ee Har Enerxi 5 Maah ee Ast.</strong>
 
-<strong>⭐️⭐️Vixegi haaye Jadid Ke Be Barnaame Ezaafe Kardam:⭐️⭐️</strong>
-
 <table>
  <tr>
   <td>Verxen</td>
@@ -90,8 +88,6 @@ Before running the program, please install the following prerequisite. This prog
 If you have any problems, send a message to the email in the app or write your message in the links provided.
 
 <strong>Currently, the validity period of each energy is 5 months.</strong>
-
-<strong>⭐️⭐️New features I added to the app:⭐️⭐️</strong>
 
 <table>
  <tr>
