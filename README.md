@@ -36,11 +36,9 @@ Dar Surat ee Har Gune Mowkel Be Email ee Mojud Dar Barnaame Payaam KHod Raa Ersa
 
 2- Hal ee Mowkel ee Nemaayew ee Taarikh Va Mavaared Amniyanti, Hal ee Mowkel UI Dar Windows(Vindoz) 8, Ezaafe Wodan ee Saabeqe KHarid, Taqir ee UI Ba'zi Qesmat haa, Ezaafe Wodan ee Emkaan ee Pardaakht ee Darun Barnaame-ei ye Tron. (2.0.0.0) -> (2.0.0.1)
 
-2- Nemaayew ee Profile Va Qaabeliyat ee Taqir ee Etelaa'aat ee Kaarbar. (1.8.9.9)-(🛑Monqazi)
+2- Nemaayew ee Profile Va Qaabeliyat ee Taqir ee Etelaa'aat ee Kaarbar, Zakhire Kardan ee Ramz ee Kaarbaraan (Modiriyat ee Ramz). (1.8.9.9)-(🛑Monqazi)
 
-3- Zakhire Kardan ee Ramz ee Kaarbaraan (Modiriyat ee Ramz). (1.8.9.9)-(🛑Monqazi)
-
-4- Sueich Wodan Beyn ee Kaarbaraan Va Nemaayew ee Mojazaaye Etelaa'aat ee Aanhaa. (1.7.9.9)-(🛑Monqazi)
+3- Sueich Wodan Beyn ee Kaarbaraan Va Nemaayew ee Mojazaaye Etelaa'aat ee Aanhaa. (1.7.9.9)-(🛑Monqazi)
 
 ------------------------------------------------------------------------
 <p align="center">
@@ -73,11 +71,9 @@ If you have any problems, send a message to the email in the app or write your m
 
 2- Fixing the client’s date display and security issues, Fixing the client’s UI on Windows(Vindoz) 8, Adding purchase history, CHanging the UI in some sections, Adding the option for in-app payments with Tron. (2.0.0.0) -> (2.0.0.1)
 
-2- View profile and ability to CHange user information. (1.8.9.9)-(🛑Expired)
+2- View profile and ability to CHange user information, Save user passwords (Password Manager). (1.8.9.9)-(🛑Expired)
 
-3- Save user passwords (Password Manager). (1.8.9.9)-(🛑Expired)
-
-4- Switching between users and displaying that user's personal information separately. (1.7.9.9)-(🛑Expired)
+3- Switching between users and displaying that user's personal information separately. (1.7.9.9)-(🛑Expired)
 
 ---------------------------------------------------------
 
