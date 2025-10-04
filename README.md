@@ -32,13 +32,39 @@ Dar Surat ee Har Gune Mowkel Be Email ee Mojud Dar Barnaame Payaam KHod Raa Ersa
 
 <strong>⭐️⭐️Vixegi haaye Jadid Ke Be Barnaame Ezaafe Kardam:⭐️⭐️</strong>
 
-1- Behbud ee UI. Hal ee Ba'zi Mowkelaat ee Runtime. (2.0.0.1)
-
-2- Hal ee Mowkel ee Nemaayew ee Taarikh Va Mavaared Amniyanti, Hal ee Mowkel UI Dar Windows(Vindoz) 8, Ezaafe Wodan ee Saabeqe KHarid, Taqir ee UI Ba'zi Qesmat haa, Ezaafe Wodan ee Emkaan ee Pardaakht ee Darun Barnaame-ei ye Tron. (2.0.0.0) -> (2.0.0.1)
-
-2- Nemaayew ee Profile Va Qaabeliyat ee Taqir ee Etelaa'aat ee Kaarbar, Zakhire Kardan ee Ramz ee Kaarbaraan (Modiriyat ee Ramz). (1.8.9.9)-(🛑Monqazi)
-
-3- Sueich Wodan Beyn ee Kaarbaraan Va Nemaayew ee Mojazaaye Etelaa'aat ee Aanhaa. (1.7.9.9)-(🛑Monqazi)
+<table>
+ <tr>
+  <td>Verxen</td>
+  <td>Vixegi</td>
+  <td>Haalat</td>
+ </tr>
+ <tr>
+  <td>
+   2.0.0.1
+  </td>
+  <td>Behbud ee UI. Hal ee Ba'zi Mowkelaat ee Runtime.</td>
+  <td>Fa'aal</td>
+ </tr>
+ <tr>
+  <td>2.0.0.0</td>
+  <td>Hal ee Mowkel ee Nemaayew ee Taarikh Va Mavaared Amniyanti, Hal ee Mowkel UI Dar Windows(Vindoz) 8, Ezaafe Wodan ee Saabeqe KHarid, Taqir ee UI Ba'zi Qesmat haa, Ezaafe Wodan ee Emkaan ee Pardaakht ee Darun Barnaame-ei ye Tron.</td>
+  <td>Fa'aal</td>
+ </tr>
+ <tr>
+  <td>1.8.9.9</td>
+  <td>Nemaayew ee Profile Va Qaabeliyat ee Taqir ee Etelaa'aat ee Kaarbar, Zakhire Kardan ee Ramz ee Kaarbaraan (Modiriyat ee Ramz).</td>
+  <td>Monqazi</td>
+ </tr>
+ <tr>
+  <td>
+   1.7.9.9
+  </td>
+  <td>
+   Sueich Wodan Beyn ee Kaarbaraan Va Nemaayew ee Mojazaaye Etelaa'aat ee Aanhaa.
+  </td>
+  <td>Monqazi</td>
+ </tr>
+</table>
 
 ------------------------------------------------------------------------
 <p align="center">
@@ -67,13 +93,40 @@ If you have any problems, send a message to the email in the app or write your m
 
 <strong>⭐️⭐️New features I added to the app:⭐️⭐️</strong>
 
-1- UI improvements, some runtime issues fixed. (2.0.0.1)
+<table>
+ <tr>
+  <td>Verxen</td>
+  <td>Vixegi</td>
+  <td>Haalat</td>
+ </tr>
+ <tr>
+  <td>
+   2.0.0.1
+  </td>
+  <td>UI improvements, some runtime issues fixed.</td>
+  <td>Active</td>
+ </tr>
+ <tr>
+  <td>2.0.0.0</td>
+  <td>Fixing the client’s date display and security issues, Fixing the client’s UI on Windows(Vindoz) 8, Adding purchase history, CHanging the UI in some sections, Adding the option for in-app payments with Tron.</td>
+  <td>Active</td>
+ </tr>
+ <tr>
+  <td>1.8.9.9</td>
+  <td>View profile and ability to CHange user information, Save user passwords (Password Manager).</td>
+  <td>Expired</td>
+ </tr>
+ <tr>
+  <td>
+   1.7.9.9
+  </td>
+  <td>
+   Switching between users and displaying that user's personal information separately.
+  </td>
+  <td>Expired</td>
+ </tr>
+</table>
 
-2- Fixing the client’s date display and security issues, Fixing the client’s UI on Windows(Vindoz) 8, Adding purchase history, CHanging the UI in some sections, Adding the option for in-app payments with Tron. (2.0.0.0) -> (2.0.0.1)
-
-2- View profile and ability to CHange user information, Save user passwords (Password Manager). (1.8.9.9)-(🛑Expired)
-
-3- Switching between users and displaying that user's personal information separately. (1.7.9.9)-(🛑Expired)
 
 ---------------------------------------------------------
 
