@@ -95,9 +95,9 @@ If you have any problems, send a message to the email in the app or write your m
 
 <table>
  <tr>
-  <td>Verxen</td>
-  <td>Vixegi</td>
-  <td>Haalat</td>
+  <td>Version</td>
+  <td>Features</td>
+  <td>Status</td>
  </tr>
  <tr>
   <td>
