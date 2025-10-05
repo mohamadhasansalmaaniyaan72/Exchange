@@ -40,7 +40,7 @@ Dar Surat ee Har Gune Mowkel Be Email ee Mojud Dar Barnaame Payaam KHod Raa Ersa
   <td>
    2.0.0.1
   </td>
-  <td>Behbud ee UI. Hal ee Ba'zi Mowkelaat ee Runtime.</td>
+  <td>Behbud ee UI. Hal ee Barkhi Az EIraadaat ee Runtime.</td>
   <td>Fa'aal</td>
  </tr>
  <tr>
