@@ -140,18 +140,18 @@ If you have any problems, send a message to the email in the app or write your m
 
 ---------------------------------------------------------
 
-Version (Noskhe): 2.0.0.0
+Setup version (Noskhe ye Nasbi): 2.0.0.2
 
-File Size (Hajm ee File): 157.409MB 
+File Size (Hajm ee File): 150.523MB 
 
 ---------------------------------------------------------
-Updated Version (Noskhe ye Beruz Wod e): (2.0.0.1)
+Updated version in the app (Noskhe ye Beruz Wod e Dar Barnaame): (2.0.0.2)
 
-File Size (Hajm ee File): 147.672MB
+File Size (Hajm ee File): 141.061MB
 
 <strong>Download:</strong>
 
-<a href="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/main/EXCHANGE-EKSCHENJ.rar"><kbd> <br> EXCHANGE(EKSCHENJ)-2.0.0.0 <br> </kbd></a>
+<a href="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/main/EXCHANGE-EKSCHENJ.rar"><kbd> <br> EXCHANGE(EKSCHENJ)-2.0.0.2 <br> </kbd></a>
 
 <a href="https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.20-windows-x86-installer"><kbd> <br> Runtime-Desktop-7.0.20 X86 <br> </kbd></a>
 <a href="https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.20-windows-x64-installer?cid=getdotnetcore"><kbd> <br> Runtime-Desktop-7.0.20 X64 <br> </kbd></a>
