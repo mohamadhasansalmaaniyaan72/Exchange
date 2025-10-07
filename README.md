@@ -32,9 +32,16 @@ Dar Surat ee Har Gune Mowkel Be Email ee Mojud Dar Barnaame Payaam KHod Raa Ersa
 
 <table>
  <tr>
-  <td>Verxen</td>
-  <td>Vixegi</td>
-  <td>Haalat</td>
+  <th>Verxen</th>
+  <th>Vixegi</th>
+  <th>Haalat</th>
+ </tr>
+<tr>
+  <td>
+   2.0.0.2
+  </td>
+  <td>Hal ee EIraad ee Nemaayew ee Adaad ee Kuchek, Ezaafe Wodan ee Stake Baraaye Ezaafe Kardan ee Mowaarekat haaei Ke Dar Entekhaab Naazer Daawt id (Be Surat ee Offline), Baraaye Ezaafe Kardan ee Paadaaw haa Mitavaan id Az Sahaam ee Jaayeze Ke Qablan Bud e Estefaade Kon id, Behbud ee UI. </td>
+  <td>Fa'aal</td>
  </tr>
  <tr>
   <td>
@@ -91,9 +98,16 @@ If you have any problems, send a message to the email in the app or write your m
 
 <table>
  <tr>
-  <td>Version</td>
-  <td>Features</td>
-  <td>Status</td>
+  <th>Version</th>
+  <th>Features</th>
+  <th>Status</th>
+ </tr>
+<tr>
+  <td>
+   2.0.0.2
+  </td>
+  <td>Fix for the issue of displaying small numbers, addition of staking for adding participations that are called in the “Select Voter” section (offline mode). To add rewards, you can now use the prize shares that were previously available, UI improvements. </td>
+  <td>Fa'aal</td>
  </tr>
  <tr>
   <td>
