@@ -106,7 +106,7 @@ If you have any problems, send a message to the email in the app or write your m
   <td>
    2.0.0.2
   </td>
-  <td>Fix for the issue of displaying small numbers, addition of staking for adding participations that are called in the “Select Voter” section (offline mode). To add rewards, you can now use the prize shares that were previously available, UI improvements. </td>
+  <td>Fix for the issue of displaying small numbers, addition of staking for adding participations that are called in the “Select Voter” section (offline mode). To add rewards, you can now use the Stock Bonus that were previously available, UI improvements. </td>
   <td>Active</td>
  </tr>
  <tr>
