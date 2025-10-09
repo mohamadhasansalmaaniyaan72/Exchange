@@ -28,7 +28,7 @@ Windows 8.1 Va Baalaa tar
 
 Dar Surat ee Har Gune Mowkel Be Email ee Mojud Dar Barnaame Payaam KHod Raa Ersaal Konid Yaa Payaam KHod Raa Dar Link haaye Eraa'e Wod e Benevis id.
 
-<strong>Dar Haal ee Haazer Modat ee E'tebaar ee Har Enerxi 6 Maah ee Ast. Mablaq ee Har Dore: 700TRX </strong>
+<strong>Dar Haal ee Haazer Modat ee E'tebaar ee Har Enerxi 6 Maah ee Ast. Mablaq ee Har Dore Zamaan i: 700TRX </strong>
 
 <table>
  <tr>
