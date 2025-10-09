@@ -28,7 +28,7 @@ Windows 8.1 Va Baalaa tar
 
 Dar Surat ee Har Gune Mowkel Be Email ee Mojud Dar Barnaame Payaam KHod Raa Ersaal Konid Yaa Payaam KHod Raa Dar Link haaye Eraa'e Wod e Benevis id.
 
-<strong>Dar Haal ee Haazer Modat ee E'tebaar ee Har Enerxi 6 Maah ee Ast.</strong>
+<strong>Dar Haal ee Haazer Modat ee E'tebaar ee Har Enerxi 6 Maah ee Ast. Mablaq ee Har Dore: 700TRX </strong>
 
 <table>
  <tr>
@@ -94,7 +94,7 @@ Before running the program, please install the following prerequisite. This prog
 
 If you have any problems, send a message to the email in the app or write your message in the links provided.
 
-<strong>Currently, the validity period of each energy is 6 months.</strong>
+<strong>Currently, the validity period of each energy is 6 months. Amount per time period: 700TRX </strong>
 
 <table>
  <tr>
