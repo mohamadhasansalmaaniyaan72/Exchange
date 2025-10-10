@@ -41,19 +41,19 @@ Dar Surat ee Har Gune Mowkel Be Email ee Mojud Dar Barnaame Payaam KHod Raa Ersa
    2.0.0.2
   </td>
   <td>Hal ee EIraad ee Nemaayew ee Adaad ee Kuchek, Ezaafe Wodan ee Stake Baraaye Ezaafe Kardan ee Mowaarekat haaei Ke Dar Entekhaab Naazer Daawt id (Be Surat ee Offline), Baraaye Ezaafe Kardan ee Paadaaw haa Mitavaan id Az Sahaam ee Jaayeze Ke Qablan Bud e Estefaade Kon id, Behbud ee UI. </td>
-  <td>Fa'aal</td>
+  <td>Motabar</td>
  </tr>
  <tr>
   <td>
    2.0.0.1
   </td>
   <td>Behbud ee UI. Hal ee Barkhi Az EIraadaat ee Runtime.</td>
-  <td>Fa'aal</td>
+  <td>Motabar</td>
  </tr>
  <tr>
   <td>2.0.0.0</td>
   <td>Hal ee Mowkel ee Nemaayew ee Taarikh Va Mavaared Amniyanti, Hal ee Mowkel UI Dar Windows(Vindoz) 8, Ezaafe Wodan ee Saabeqe KHarid, Taqir ee UI Ba'zi Qesmat haa, Ezaafe Wodan ee Emkaan ee Pardaakht ee Darun Barnaame-ei ye Tron.</td>
-  <td>Fa'aal</td>
+  <td>Motabar</td>
  </tr>
  <tr>
   <td>1.8.9.9</td>
