@@ -36,6 +36,13 @@ Dar Surat ee Har Gune Mowkel Be Email ee Mojud Dar Barnaame Payaam KHod Raa Ersa
   <th>Vixegi</th>
   <th>Haalat</th>
  </tr>
+ <tr>
+  <td>
+   2.0.0.3
+  </td>
+  <td>Hal ee Barkhi EIraadat. Behbud ee UI. </td>
+  <td>Motabar</td>
+ </tr>
 <tr>
   <td>
    2.0.0.2
@@ -101,6 +108,13 @@ If you have any problems, send a message to the email in the app or write your m
   <th>Version</th>
   <th>Features</th>
   <th>Status</th>
+ </tr>
+ <tr>
+  <td>
+   2.0.0.3
+  </td>
+  <td>Fixed some bugs. UI improvements.</td>
+  <td>Motabar</td>
  </tr>
 <tr>
   <td>
