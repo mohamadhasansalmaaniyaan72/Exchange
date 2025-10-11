@@ -159,9 +159,9 @@ Setup version (Noskhe ye Nasbi): 2.0.0.2
 File Size (Hajm ee File): 150.523MB 
 
 ---------------------------------------------------------
-Updated version in the app (Noskhe ye Beruz Wod e Dar Barnaame): (2.0.0.2)
+Updated version in the app (Noskhe ye Beruz Wod e Dar Barnaame): (2.0.0.3)
 
-File Size (Hajm ee File): 141.061MB
+File Size (Hajm ee File): 137MB
 
 <strong>Download:</strong>
 
