@@ -114,7 +114,7 @@ If you have any problems, send a message to the email in the app or write your m
    2.0.0.3
   </td>
   <td>Fixed some bugs. UI improvements.</td>
-  <td>Motabar</td>
+  <td>Active</td>
  </tr>
 <tr>
   <td>
