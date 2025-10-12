@@ -38,9 +38,16 @@ Dar Surat ee Har Gune Mowkel Be Email ee Mojud Dar Barnaame Payaam KHod Raa Ersa
  </tr>
  <tr>
   <td>
+   2.0.0.4
+  </td>
+  <td>Hal ee Mowkel ee Be Ruz Resaani. </td>
+  <td>Motabar</td>
+ </tr>
+ <tr>
+  <td>
    2.0.0.3
   </td>
-  <td>Hal ee Barkhi EIraadat. Behbud ee UI. </td>
+  <td>Hal ee Barkhi EIraadat. Behbud ee UI. (Agar Be Ruz Resaani Be Dalil ee Taqir Dar Saakhtaar ee System iye Windows(Vindoz) Anjaam Nawod, Dobaare Noskhe ye Nasbi raa Download Va Nasb Kon id.) </td>
   <td>Motabar</td>
  </tr>
 <tr>
@@ -111,9 +118,16 @@ If you have any problems, send a message to the email in the app or write your m
  </tr>
  <tr>
   <td>
+   2.0.0.4
+  </td>
+  <td>Fix the update problem. </td>
+  <td>Active</td>
+ </tr>
+ <tr>
+  <td>
    2.0.0.3
   </td>
-  <td>Fixed some bugs. UI improvements.</td>
+  <td>Fixed some bugs. UI improvements.(If the update cannot be performed due to changes in the Windows(Vindoz) system structure, please download and install the installation version again.) </td>
   <td>Active</td>
  </tr>
 <tr>
@@ -154,9 +168,9 @@ If you have any problems, send a message to the email in the app or write your m
 
 ---------------------------------------------------------
 
-Setup version (Noskhe ye Nasbi): 2.0.0.2
+Setup version (Noskhe ye Nasbi): 2.0.0.4
 
-File Size (Hajm ee File): 150.523MB 
+File Size (Hajm ee File): 150.642MB 
 
 ---------------------------------------------------------
 Updated version in the app (Noskhe ye Beruz Wod e Dar Barnaame): (2.0.0.3)
