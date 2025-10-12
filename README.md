@@ -170,7 +170,7 @@ If you have any problems, send a message to the email in the app or write your m
 
 Setup version (Noskhe ye Nasbi): 2.0.0.4
 
-File Size (Hajm ee File): 150.642MB 
+File Size (Hajm ee File): 150.636MB 
 
 ---------------------------------------------------------
 Updated version in the app (Noskhe ye Beruz Wod e Dar Barnaame): (2.0.0.3)
