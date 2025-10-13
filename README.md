@@ -127,7 +127,7 @@ If you have any problems, send a message to the email in the app or write your m
   <td>
    2.0.0.3
   </td>
-  <td>Fixed some bugs. UI improvements.(If the update cannot be performed due to changes in the Windows(Vindoz) system structure, please download and install the installation version again.) </td>
+  <td>Fixed some bugs. UI improvements.(If the update cannot be performed due to changes in the Windows(Vindoz) system structure, download and install the installation version again.) </td>
   <td>Active</td>
  </tr>
 <tr>
