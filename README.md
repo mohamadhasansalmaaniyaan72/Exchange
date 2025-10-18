@@ -1,21 +1,10 @@
-<html>
-<head>
- <meta name="google-site-verification" content="QQcEYioeoX5gd0q0uHdBjvMvkeZdhDQ0Hd7riNHNXjc" />
-</head>
+<html><head><meta name="google-site-verification" content="QQcEYioeoX5gd0q0uHdBjvMvkeZdhDQ0Hd7riNHNXjc" /></head>
 <body>
- <p align="center">
- <img width="500" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/1.png" />
-</p>
+ <p align="center"><img width="500" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/1.png" /></p>
 
-<p align="center">
- <strong>
-    EKSCHENJ:
- </strong>
-</p>
+<p align="center"><strong>EKSCHENJ: </strong></p>
 
-Ein Barnaame Baraaye Hesaabdaari ye Burs Va Ramz Arz Hast.
-Ein Barnaame Mitavaanad KHarid Va Foruw ee Womaa Raa Dar Burs 
-Va KHarid Va Foruw ee Ramz Arz Modiriyat Konad Va Sud Va Zarar ee Womaa Raa Mohaasebe Konad. 
+<p>Ein Barnaame Baraaye Hesaabdaari ye Burs Va Ramz Arz Hast.</p><p>Ein Barnaame Mitavaanad KHarid Va Foruw ee Womaa Raa Dar Burs Va KHarid Va Foruw ee Ramz Arz Modiriyat Konad Va Sud Va Zarar ee Womaa Raa Mohaasebe Konad. </p>
 
 ⭐️🛑Ein Poroxe Be Surat Mostaqel Kaar Wod e Ast Va Dar Haal ee Tose'e Ast.🛑⭐️
 
@@ -45,7 +34,7 @@ Dar Surat ee Har Gune Mowkel Be Email ee Mojud Dar Barnaame Payaam KHod Raa Ersa
   <p>Ezaafe Wodan ee PulBaaks, Dar EIn Bakhw Mitavaan id Daaraaei ye Digitaal ee KHod Raa EIjaad Kon id Va Enteqaal Bedahid, Dar Haal ee Haazer Faqat Az PulBaaks TRON-TRX Estefaade Miwavad.</p>
   <p>Ezaafe Wodan ee Qaabeliyat ee Nemaayew ee Tarakonew haaye Address haaei Ke Az KHod ee Barnaame ye EKSCHENJ-EXCHANGE Saakht e Wode-and. </p>
   <p>Ba'd Az EIjaad ee Address, Te'daad i Be Aan Address Vaariz Kon id Taa Address ee Mored ee Nazar Motabar Wavad.</p>
-  <p>EIn Emkaan Be Surat ee Service Base Ast Va Az Endpoint ee KHod Tron Service Gerefte Wod e Ast.</p>
+  <p>EIn Emkaan Be Surat ee Service Base Ast Va Az Endpoint ee KHod Tron Service Gerefte Wod e Ast.</p><p>Dar Haal ee Haazer Kaarmozd ee Taraakonew haa be Address ee TAm3ZryrafrCycWqz1pBdsSwv3mzFkXijo Vaariz Miwavand.</p>
     </td>
   <td>Motabar</td>
  </tr>
@@ -133,7 +122,7 @@ If you have any problems, send a message to the email in the app or write your m
   <td>
    2.0.0.5
   </td>
-  <td><p>UI improvements.</p> <p>Addition of the PulBox feature — in this section, you can create and transfer your own digital asset. Currently, only TRON-TRX PulBox are supported.</p> <p>Addition of the ability to display transactions of addresses created by the program’s own EKSCHENJ-EXCHANGE.</p> <p>After creating an address, deposit a small amount to it so that the address becomes valid.</p> <p>This feature is service-based and is obtained from the Tron Service endpoint.</p>
+  <td><p>UI improvements.</p> <p>Addition of the PulBox feature — in this section, you can create and transfer your own digital asset. Currently, only TRON-TRX PulBox are supported.</p> <p>Addition of the ability to display transactions of addresses created by the program’s own EKSCHENJ-EXCHANGE.</p> <p>After creating an address, deposit a small amount to it so that the address becomes valid.</p> <p>This feature is service-based and is obtained from the Tron Service endpoint.</p><p>Currently, transaction fees are deposited to the address TAm3ZryrafrCycWqz1pBdsSwv3mzFkXijo.</p>
   <td>Active</td>
  </tr>
  
