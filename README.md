@@ -40,7 +40,7 @@ Dar Surat ee Har Gune Mowkel Be Email ee Mojud Dar Barnaame Payaam KHod Raa Ersa
   <td>
    2.0.0.5
   </td>
-  <td>Behbud ee UI, Ezaafe Wodan ee PulBaaks (Dar EIn Bakhw Mitavaan id Daaraaei ye Digitaal ee KHod Raa EIjaad Kon id Va Enteqaal Bedahid), Taqiraat ee Amniyat i, Ezaafe Wodan ee Qaabeliyat ee Nemaayew ee Tarakonew haaye Address haaei Ke Az KHod ee Barnaame ye EKSCHENJ-EXCHANGE Saakht e Wode-and. Dar Haal ee Haazer Faqat Az PulBaaks TRX Estefaade Miwavad. </td>
+  <td>Behbud ee UI, Ezaafe Wodan ee PulBaaks (Dar EIn Bakhw Mitavaan id Daaraaei ye Digitaal ee KHod Raa EIjaad Kon id Va Enteqaal Bedahid), Taqiraat ee Amniyat i, Ezaafe Wodan ee Qaabeliyat ee Nemaayew ee Tarakonew haaye Address haaei Ke Az KHod ee Barnaame ye EKSCHENJ-EXCHANGE Saakht e Wode-and. Dar Haal ee Haazer Faqat Az PulBaaks TRX Estefaade Miwavad. (Ba'd Az EIjaad ee Address Te'daad i Be Aan Address Vaariz Kon id Taa Address ee Mored ee Nazar Motabar Wavad.) </td>
   <td>Motabar</td>
  </tr>
  <tr>
@@ -127,7 +127,7 @@ If you have any problems, send a message to the email in the app or write your m
   <td>
    2.0.0.5
   </td>
-  <td>UI improvements, addition of PulBox feature (in this section, you can create and transfer your own digital asset), security enhancements, and addition of the ability to display transactions of addresses created by the program’s own EKSCHENJ-EXCHANGE. Currently only PulBox TRX is used. </td>
+  <td>UI improvements, addition of PulBox feature (in this section, you can create and transfer your own digital asset), security enhancements, and addition of the ability to display transactions of addresses created by the program’s own EKSCHENJ-EXCHANGE. Currently only PulBox TRX is used. (After creating the address, deposit an amount to that address to verify its validity.) </td>
   <td>Active</td>
  </tr>
  
