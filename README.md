@@ -40,7 +40,13 @@ Dar Surat ee Har Gune Mowkel Be Email ee Mojud Dar Barnaame Payaam KHod Raa Ersa
   <td>
    2.0.0.5
   </td>
-  <td>Behbud ee UI, Ezaafe Wodan ee PulBaaks (Dar EIn Bakhw Mitavaan id Daaraaei ye Digitaal ee KHod Raa EIjaad Kon id Va Enteqaal Bedahid), Taqiraat ee Amniyat i, Ezaafe Wodan ee Qaabeliyat ee Nemaayew ee Tarakonew haaye Address haaei Ke Az KHod ee Barnaame ye EKSCHENJ-EXCHANGE Saakht e Wode-and. Dar Haal ee Haazer Faqat Az PulBaaks TRX Estefaade Miwavad. (Ba'd Az EIjaad ee Address Te'daad i Be Aan Address Vaariz Kon id Taa Address ee Mored ee Nazar Motabar Wavad.) </td>
+  <td>
+  <p>Behbud ee UI.</p>
+  <p>Ezaafe Wodan ee PulBaaks, Dar EIn Bakhw Mitavaan id Daaraaei ye Digitaal ee KHod Raa EIjaad Kon id Va Enteqaal Bedahid, Dar Haal ee Haazer Faqat Az PulBaaks TRON-TRX Estefaade Miwavad.</p>
+  <p>Ezaafe Wodan ee Qaabeliyat ee Nemaayew ee Tarakonew haaye Address haaei Ke Az KHod ee Barnaame ye EKSCHENJ-EXCHANGE Saakht e Wode-and. </p>
+  <p>Ba'd Az EIjaad ee Address, Te'daad i Be Aan Address Vaariz Kon id Taa Address ee Mored ee Nazar Motabar Wavad.</p>
+  <p>EIn Emkaan Be Surat ee Service Base Ast Va Az Endpoint ee KHod Tron Service Gerefte Wod e Ast.</p>
+    </td>
   <td>Motabar</td>
  </tr>
  <tr>
@@ -54,14 +60,14 @@ Dar Surat ee Har Gune Mowkel Be Email ee Mojud Dar Barnaame Payaam KHod Raa Ersa
   <td>
    2.0.0.3
   </td>
-  <td>Hal ee Barkhi EIraadat. Behbud ee UI. (Agar Be Ruz Resaani Be Dalil ee Taqir Dar Saakhtaar ee System iye Windows(Vindoz) Anjaam Nawod, Dobaare Noskhe ye Nasbi raa Download Va Nasb Kon id.) </td>
+  <td><p>Hal ee Barkhi EIraadat.</p> <p>Behbud ee UI.</p> <p>(Agar Be Ruz Resaani Be Dalil ee Taqir Dar Saakhtaar ee System iye Windows(Vindoz) Anjaam Nawod, Dobaare Noskhe ye Nasbi raa Download Va Nasb Kon id.) </p></td>
   <td>Motabar</td>
  </tr>
 <tr>
   <td>
    2.0.0.2
   </td>
-  <td>Hal ee EIraad ee Nemaayew ee Adaad ee Kuchek, Ezaafe Wodan ee Stake Baraaye Ezaafe Kardan ee Mowaarekat haaei Ke Dar Entekhaab Naazer Daawt id (Be Surat ee Offline), Baraaye Ezaafe Kardan ee Paadaaw haa Mitavaan id Az Sahaam ee Jaayeze Ke Qablan Bud e Estefaade Kon id, Behbud ee UI. </td>
+  <td><p>Hal ee EIraad ee Nemaayew ee Adaad ee Kuchek.</p> <p>Ezaafe Wodan ee Stake Baraaye Ezaafe Kardan ee Mowaarekat haaei Ke Dar Entekhaab Naazer Daawt id (Be Surat ee Offline).</p> <p>Baraaye Ezaafe Kardan ee Paadaaw haa Mitavaan id Az Sahaam ee Jaayeze Ke Qablan Bud e Estefaade Kon id.</p> <p>Behbud ee UI.</p> </td>
   <td>Motabar</td>
  </tr>
  <tr>
@@ -73,12 +79,12 @@ Dar Surat ee Har Gune Mowkel Be Email ee Mojud Dar Barnaame Payaam KHod Raa Ersa
  </tr>
  <tr>
   <td>2.0.0.0</td>
-  <td>Hal ee Mowkel ee Nemaayew ee Taarikh Va Mavaared Amniyanti, Hal ee Mowkel UI Dar Windows(Vindoz) 8, Ezaafe Wodan ee Saabeqe KHarid, Taqir ee UI Ba'zi Qesmat haa, Ezaafe Wodan ee Emkaan ee Pardaakht ee Darun Barnaame-ei ye Tron.</td>
+  <td><p>Hal ee Mowkel ee Nemaayew ee Taarikh Va Mavaared Amniyant i.</p> <p>Hal ee Mowkel UI Dar Windows(Vindoz) 8.</p> <p>Ezaafe Wodan ee Saabeqe KHarid.</p> <p>Taqir ee UI Ba'zi Qesmat haa.</p> <p>Ezaafe Wodan ee Emkaan ee Pardaakht ee Darun Barnaame-ei ye Tron.</p></td>
   <td>Motabar</td>
  </tr>
  <tr>
   <td>1.8.9.9</td>
-  <td>Nemaayew ee Profile Va Qaabeliyat ee Taqir ee Etelaa'aat ee Kaarbar, Zakhire Kardan ee Ramz ee Kaarbaraan (Modiriyat ee Ramz).</td>
+  <td><p>Nemaayew ee Profile Va Qaabeliyat ee Taqir ee Etelaa'aat ee Kaarbar.</p> <p>Zakhire Kardan ee Ramz ee Kaarbaraan (Modiriyat ee Ramz).</p></td>
   <td>Monqazi</td>
  </tr>
  <tr>
@@ -86,7 +92,7 @@ Dar Surat ee Har Gune Mowkel Be Email ee Mojud Dar Barnaame Payaam KHod Raa Ersa
    1.7.9.9
   </td>
   <td>
-   Sueich Wodan Beyn ee Kaarbaraan Va Nemaayew ee Mojazaaye Etelaa'aat ee Aanhaa.
+   <p>Sueich Wodan Beyn ee Kaarbaraan Va Nemaayew ee Mojazaaye Etelaa'aat ee Aanhaa.</p>
   </td>
   <td>Monqazi</td>
  </tr>
@@ -127,7 +133,7 @@ If you have any problems, send a message to the email in the app or write your m
   <td>
    2.0.0.5
   </td>
-  <td>UI improvements, addition of PulBox feature (in this section, you can create and transfer your own digital asset), security enhancements, and addition of the ability to display transactions of addresses created by the program’s own EKSCHENJ-EXCHANGE. Currently only PulBox TRX is used. (After creating the address, deposit an amount to that address to verify its validity.) </td>
+  <td><p>UI improvements.</p> <p>Addition of the PulBox feature — in this section, you can create and transfer your own digital asset. Currently, only TRON-TRX PulBox are supported.</p> <p>Addition of the ability to display transactions of addresses created by the program’s own EKSCHENJ-EXCHANGE.</p> <p>After creating an address, deposit a small amount to it so that the address becomes valid.</p> <p>This feature is service-based and is obtained from the Tron Service endpoint.</p>
   <td>Active</td>
  </tr>
  
@@ -142,7 +148,7 @@ If you have any problems, send a message to the email in the app or write your m
   <td>
    2.0.0.3
   </td>
-  <td>Fixed some bugs. UI improvements.(If the update cannot be performed due to changes in the Windows(Vindoz) system structure, download and install the installation version again.) </td>
+  <td><p>Fixed some issues.</p> <p>UI improvements.</p> <p>(If the update could not be completed due to structural changes in the Windows system, please download and install the installation version again.)</p> </td>
   <td>Active</td>
  </tr>
 <tr>
@@ -161,12 +167,12 @@ If you have any problems, send a message to the email in the app or write your m
  </tr>
  <tr>
   <td>2.0.0.0</td>
-  <td>Fixing the client’s date display and security issues, Fixing the client’s UI on Windows(Vindoz) 8, Adding purchase history, CHanging the UI in some sections, Adding the option for in-app payments with Tron.</td>
+  <td><p>Fixed issues with date display and security-related items.</p> <p>Fixed UI issues on Windows 8(Vindoz 8).</p> <p>Added purchase history.</p> <p>Updated the UI in some sections.</p> <p>Added in-app payment support for Tron.</p></td>
   <td>Active</td>
  </tr>
  <tr>
   <td>1.8.9.9</td>
-  <td>View profile and ability to CHange user information, Save user passwords (Password Manager).</td>
+  <td><p>View profile and ability to change user information.</p> <p>Added password saving feature (Password Manager - RamzBiz).</p></td>
   <td>Expired</td>
  </tr>
  <tr>
