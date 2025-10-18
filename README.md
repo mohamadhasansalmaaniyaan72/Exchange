@@ -127,7 +127,7 @@ If you have any problems, send a message to the email in the app or write your m
   <td>
    2.0.0.5
   </td>
-  <td>UI improvements, addition of PullBox feature (in this section, you can create and transfer your own digital asset), security enhancements, and addition of the ability to display transactions of addresses created by the program’s own EKSCHENJ-EXCHANGE.</td>
+  <td>UI improvements, addition of PulBox feature (in this section, you can create and transfer your own digital asset), security enhancements, and addition of the ability to display transactions of addresses created by the program’s own EKSCHENJ-EXCHANGE.</td>
   <td>Active</td>
  </tr>
  
