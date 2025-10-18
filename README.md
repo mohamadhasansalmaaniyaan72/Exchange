@@ -73,7 +73,7 @@ Dar Surat ee Har Gune Mowkel Be Email ee Mojud Dar Barnaame Payaam KHod Raa Ersa
  </tr>
  <tr>
   <td>1.8.9.9</td>
-  <td><p>Nemaayew ee Profile Va Qaabeliyat ee Taqir ee Etelaa'aat ee Kaarbar.</p> <p>Zakhire Kardan ee Ramz ee Kaarbaraan (Modiriyat ee Ramz).</p></td>
+  <td><p>Nemaayew ee Profile Va Qaabeliyat ee Taqir ee Etelaa'aat ee Kaarbar.</p> <p>Zakhire Kardan ee Ramz ee Kaarbaraan (Modiriyat ee Ramz-RamzBiz).</p></td>
   <td>Monqazi</td>
  </tr>
  <tr>
