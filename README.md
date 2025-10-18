@@ -38,6 +38,13 @@ Dar Surat ee Har Gune Mowkel Be Email ee Mojud Dar Barnaame Payaam KHod Raa Ersa
  </tr>
  <tr>
   <td>
+   2.0.0.5
+  </td>
+  <td>Behbud ee UI, Ezaafe Wodan ee PulBaak (Dar EIn Bakhw Mitavaan id Daaraaei ye Digitaal ee KHod Raa EIjaad Kon id Va Enteqaal Bedahid), Taqiraat ee Amniyat i, Ezaafe Wodan ee Qaabeliyat ee Nemaayew ee Tarakonew haaye Address haaei Ke Az KHod ee Barnaame ye EKSCHENJ-EXCHANGE Saakht e Wode-and. </td>
+  <td>Motabar</td>
+ </tr>
+ <tr>
+  <td>
    2.0.0.4
   </td>
   <td>Hal ee Mowkel ee Be Ruz Resaani. </td>
@@ -116,6 +123,14 @@ If you have any problems, send a message to the email in the app or write your m
   <th>Features</th>
   <th>Status</th>
  </tr>
+<tr>
+  <td>
+   2.0.0.5
+  </td>
+  <td>UI improvements, addition of PullBack feature (in this section, you can create and transfer your own digital asset), security enhancements, and addition of the ability to display transactions of addresses created by the program’s own EKSCHENJ-EXCHANGE.</td>
+  <td>Active</td>
+ </tr>
+ 
  <tr>
   <td>
    2.0.0.4
@@ -173,9 +188,9 @@ Setup version (Noskhe ye Nasbi): 2.0.0.4
 File Size (Hajm ee File): 150.636MB 
 
 ---------------------------------------------------------
-Updated version in the app (Noskhe ye Beruz Wod e Dar Barnaame): (2.0.0.3)
+Updated version in the app (Noskhe ye Beruz Wod e Dar Barnaame): (2.0.0.5)
 
-File Size (Hajm ee File): 137MB
+File Size (Hajm ee File): 138MB
 
 <strong>Download:</strong>
 
@@ -220,7 +235,11 @@ File Size (Hajm ee File): 137MB
  <img style="width: 301px; height: 230px;" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/17.png?2025-10-11-22:52" />
 </p>
 <p>
- <img style="width: 301px; height: 230px;" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/18.png?2025-10-07-2003" />
+ <img style="width: 301px; height: 230px;" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/18.png?2025-10-07-546546" />
+ <img style="width: 301px; height: 230px;" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/16.png?2025-10-18-454654" />
+</p>
+<p>
+ <img style="width: 301px; height: 230px;" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/19.png?2025-10-18-546546" />
 </p>
 </body>
 </html>
