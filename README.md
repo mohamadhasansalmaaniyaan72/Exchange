@@ -1,23 +1,12 @@
 <html><head><meta name="google-site-verification" content="QQcEYioeoX5gd0q0uHdBjvMvkeZdhDQ0Hd7riNHNXjc" /></head>
 <body>
- <p align="center"><img width="500" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/1.png" /></p>
+ <p align="center"><img width="500" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/1.png"/></p>
 
-<p align="center"><strong>EKSCHENJ: </strong></p>
+<p align="center"><strong>EKSCHENJ:</strong></p>
 
-<p>Ein Barnaame Baraaye Hesaabdaari ye Burs Va Ramz Arz Hast. Ein Barnaame Mitavaanad KHarid Va Foruw ee Womaa Raa Dar Burs Va KHarid Va Foruw ee Ramz Arz Modiriyat Konad Va Sud Va Zarar ee Womaa Raa Mohaasebe Konad. </p>
+<p>EIn Barnaame Baraaye Hesaabdaari ye Burs Va Ramz Arz Hast Va Mitavaanad KHarid Va Foruw ee Womaa Raa Dar Burs Va KHarid Va Foruw ee Ramz Arz Modiriyat Konad Va Sud Va Zarar ee Womaa Raa Mohaasebe Konad. </p>
 
-⭐️🛑Ein Poroxe Be Surat Mostaqel Kaar Wod e Ast Va Dar Haal ee Tose'e Ast.🛑⭐️
-
-Baraaye KHarid, Ein Code ee Da'vat Raa Vaared Konid: 1000000001
-
-
-
-System ee Piwnahaad i:
-Windows 8.1 Va Baalaa tar
-
-Dar Surat ee Har Gune Mowkel Be Email ee Mojud Dar Barnaame Payaam KHod Raa Ersaal Konid Yaa Payaam KHod Raa Dar Link haaye Eraa'e Wod e Benevis id.
-
-<strong>Dar Haal ee Haazer Modat ee E'tebaar ee Har Enerxi 6 Maah ee Ast. Mablaq ee Har Dore Zamaan i: 700TRX </strong>
+<p>⭐️🛑EIn Poroxe Be Surat Mostaqel Kaar Wod e Ast Va Dar Haal ee Gostarew Ast.🛑⭐️</p><p>Baraaye KHarid, Ein Code ee Da'vat Raa Vaared Konid: <strong>1000000001</strong></p><p>System ee Piwnahaad i:<strong> Windows(Vindoz) 8.0 Va Baalaa tar</strong></p><p>Dar Surat ee Har Gune Mowkel Be Email ee Mojud Dar Barnaame Payaam KHod Raa Ersaal Konid Yaa Payaam KHod Raa Dar Link haaye Eraa'e Wod e Benevis id.</p> <p><strong>Dar Haal ee Haazer Modat ee Etebaar ee Har Enerxi 6 Maah Ast. Mablaq ee Har Dore Zamaan i: 700TRX </strong></p>
 
 <table>
  <tr>
@@ -30,11 +19,7 @@ Dar Surat ee Har Gune Mowkel Be Email ee Mojud Dar Barnaame Payaam KHod Raa Ersa
    2.0.0.5
   </td>
   <td>
-  <p>Behbud ee UI.</p>
-  <p>Ezaafe Wodan ee PulBaaks, Dar EIn Bakhw Mitavaan id Daaraaei ye Digitaal ee KHod Raa EIjaad Kon id Va Enteqaal Bedahid, Dar Haal ee Haazer Faqat Az PulBaaks TRON-TRX Estefaade Miwavad.</p>
-  <p>Ezaafe Wodan ee Qaabeliyat ee Nemaayew ee Tarakonew haaye Address haaei Ke Az KHod ee Barnaame ye EKSCHENJ-EXCHANGE Saakht e Wode-and. </p>
-  <p>Ba'd Az EIjaad ee Address, Te'daad i Be Aan Address Vaariz Kon id Taa Address ee Mored ee Nazar Motabar Wavad.</p>
-  <p>EIn Emkaan Be Surat ee Service Base Ast Va Az Endpoint ee KHod Tron Service Gerefte Wod e Ast.</p><p>Dar Haal ee Haazer Kaarmozd ee Taraakonew haa be Address ee TAm3ZryrafrCycWqz1pBdsSwv3mzFkXijo Vaariz Miwavand.</p>
+  <p>Behbud ee UI.</p> <p>Ezaafe Wodan ee PulBaaks, Dar EIn Bakhw Mitavaan id Daaraaei ye Digitaal ee KHod Raa EIjaad Kon id Va Enteqaal Bedahid, Dar Haal ee Haazer Faqat Az PulBaaks TRON-TRX Estefaade Miwavad.</p><p>Ezaafe Wodan ee Qaabeliyat ee Nemaayew ee Tarakonew haaye Address haaei Ke Az KHod ee Barnaame ye EKSCHENJ-EXCHANGE Saakht e Wode-and. </p><p>Ba'd Az EIjaad ee Address, Te'daad i Be Aan Address Vaariz Kon id Taa Address ee Mored ee Nazar Motabar Wavad.</p><p>EIn Emkaan Be Surat ee Service Base Ast Va Az Endpoint ee KHod Tron Service Gerefte Wod e Ast.</p><p>Dar Haal ee Haazer Kaarmozd ee Taraakonew haa be Address ee TAm3ZryrafrCycWqz1pBdsSwv3mzFkXijo Vaariz Miwavand.</p>
     </td>
   <td>Motabar</td>
  </tr>
@@ -94,23 +79,13 @@ Dar Surat ee Har Gune Mowkel Be Email ee Mojud Dar Barnaame Payaam KHod Raa Ersa
  </strong>
 </p>
 
-This is a program for managing stock and cryptocurrency accounting. The program can manage your stock exchange and cryptocurrency buy/sell activities and calculate your profits and losses.
-A new feature added to the app is saving personal passwords for apps. 
-
-⭐️🛑This project is operating independently and is currently in development.🛑⭐️
-
-To make a purchase, enter this invitation code: 1000000001
-
-
-
-Recommended System: Windows 8.1 or higher
+<p>This is a program for managing stock and cryptocurrency accounting. The program can manage your stock exchange and cryptocurrency buy/sell activities and calculate your profits and losses.
+A new feature added to the app is saving personal passwords for apps. </p> <p>⭐️🛑This project operates independently and is currently under development.🛑⭐️</p>
+<p>To make a purchase, enter this invitation code: <strong>1000000001</strong></p> <p>Recommended System: <strong>Windows(Vindoz) 8.0 or higher</strong></p>
 
 Before running the program, please install the following prerequisite. This program uses .NET Core to run:
-
-
-If you have any problems, send a message to the email in the app or write your message in the links provided.
-
-<strong>Currently, the validity period of each energy is 6 months. Amount per time period: 700TRX </strong>
+<p>If you have any problems, send a message to the email in the app or write your message in the links provided.</p>
+<p><strong>Currently, the validity period of each energy is 6 months. Amount per time period: 700TRX </strong></p>
 
 <table>
  <tr>
@@ -178,14 +153,10 @@ If you have any problems, send a message to the email in the app or write your m
 
 ---------------------------------------------------------
 
-Setup version (Noskhe ye Nasbi): 2.0.0.4
-
-File Size (Hajm ee File): 150.636MB 
+<p>Setup version (Noskhe ye Nasbi): <strong>2.0.0.4</strong></p> <p>File Size (Hajm ee File): <strong>150.636MB</strong></p>
 
 ---------------------------------------------------------
-Updated version in the app (Noskhe ye Beruz Wod e Dar Barnaame): (2.0.0.5)
-
-File Size (Hajm ee File): 138MB
+<p>Updated version in the app (Noskhe ye Beruz Wod e Dar Barnaame): <strong>2.0.0.5</strong></p> <p>File Size (Hajm ee File): <strong>138MB</strong></p>
 
 <strong>Download:</strong>
 
