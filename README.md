@@ -53,7 +53,7 @@
  </tr>
  <tr>
   <td>2.0.0.0</td>
-  <td><p>Hal ee Mowkel ee Nemaayew ee Taarikh Va Mavaared Amniyant i.</p> <p>Hal ee Mowkel UI Dar Windows(Vindoz) 8.</p> <p>Ezaafe Wodan ee Saabeqe KHarid.</p> <p>Taqir ee UI Ba'zi Bakhw haa.</p> <p>Ezaafe Wodan ee Emkaan ee Pardaakht ee Darun Barnaame-ei ye TRON-TRX.</p></td>
+  <td><p>Hal ee Mowkel ee Nemaayew ee Taarikh Va Mavaared Amniyant i.</p> <p>Hal ee Mowkel UI Dar Windows 8(Vindoz 8).</p> <p>Ezaafe Wodan ee Saabeqe KHarid.</p> <p>Taqir ee UI Barkhi Az Bakhw haa.</p> <p>Ezaafe Wodan ee Emkaan ee Pardaakht ee Darun Barnaame-ei ye TRON-TRX.</p></td>
   <td>Motabar</td>
  </tr>
  <tr>
