@@ -19,7 +19,7 @@
    2.0.0.5
   </td>
   <td>
-  <p>Behbud ee UI.</p> <p>Ezaafe Wodan ee PulBaaks, Dar EIn Bakhw Mitavaan id Daaraaei ye Digitaal ee KHod Raa EIjaad Kon id Va Enteqaal Bedahid, Dar Haal ee Haazer Faqat Az PulBaaks TRON-TRX Estefaade Miwavad.</p><p>Ezaafe Wodan ee Qaabeliyat ee Nemaayew ee Tarakonew haaye Address haaei Ke Az KHod ee Barnaame ye EKSCHENJ-EXCHANGE Saakht e Wode-and. </p><p>Ba'd Az EIjaad ee Address, Te'daad i Be Aan Address Vaariz Kon id Taa Address ee Mored ee Nazar Motabar Wavad.</p><p>EIn Emkaan Be Surat ee Service Base Ast Va Az Endpoint ee KHod Tron Service Gerefte Wod e Ast.</p><p>Dar Haal ee Haazer Kaarmozd ee Taraakonew haa be Address ee TAm3ZryrafrCycWqz1pBdsSwv3mzFkXijo Vaariz Miwavand.</p>
+  <p>Behbud ee UI.</p> <p>Ezaafe Wodan ee PulBaaks, Dar EIn Bakhw Mitavaan id Daaraaei ye Digitaal ee KHod Raa EIjaad Kon id Va Enteqaal Bedahid, Dar Haal ee Haazer Faqat Az PulBaaks TRON-TRX Estefaade Miwavad.</p><p>Ezaafe Wodan ee Qaabeliyat ee Nemaayew ee Tarakonew haaye Address haaei Ke Az KHod ee Barnaame ye EKSCHENJ-EXCHANGE Saakht e Wode-and. </p><p>Ba'd Az EIjaad ee Address, Te'daad i Be Aan Address Vaariz Kon id Taa Address ee Mored ee Nazar Motabar Wavad.</p><p>EIn Emkaan Be Surat ee Service Base Ast Va Az Endpoint ee KHod Tron Service Gerefte Wod e Ast.</p><p> Kaarmozd ee Taraakonew haa be Address ee <strong>TAm3ZryrafrCycWqz1pBdsSwv3mzFkXijo</strong> Vaariz Miwavand.</p>
     </td>
   <td>Motabar</td>
  </tr>
@@ -53,7 +53,7 @@
  </tr>
  <tr>
   <td>2.0.0.0</td>
-  <td><p>Hal ee Mowkel ee Nemaayew ee Taarikh Va Mavaared Amniyant i.</p> <p>Hal ee Mowkel UI Dar Windows(Vindoz) 8.</p> <p>Ezaafe Wodan ee Saabeqe KHarid.</p> <p>Taqir ee UI Ba'zi Qesmat haa.</p> <p>Ezaafe Wodan ee Emkaan ee Pardaakht ee Darun Barnaame-ei ye Tron.</p></td>
+  <td><p>Hal ee Mowkel ee Nemaayew ee Taarikh Va Mavaared Amniyant i.</p> <p>Hal ee Mowkel UI Dar Windows(Vindoz) 8.</p> <p>Ezaafe Wodan ee Saabeqe KHarid.</p> <p>Taqir ee UI Ba'zi Qesmat haa.</p> <p>Ezaafe Wodan ee Emkaan ee Pardaakht ee Darun Barnaame-ei ye TRON-TRX.</p></td>
   <td>Motabar</td>
  </tr>
  <tr>
@@ -97,7 +97,7 @@ Before running the program, please install the following prerequisite. This prog
   <td>
    2.0.0.5
   </td>
-  <td><p>UI improvements.</p> <p>Addition of the PulBox feature — in this section, you can create and transfer your own digital asset. Currently, only TRON-TRX PulBox are supported.</p> <p>Addition of the ability to display transactions of addresses created by the program’s own EKSCHENJ-EXCHANGE.</p> <p>After creating an address, deposit a small amount to it so that the address becomes valid.</p> <p>This feature is service-based and is obtained from the Tron Service endpoint.</p><p>Currently, transaction fees are deposited to the address TAm3ZryrafrCycWqz1pBdsSwv3mzFkXijo.</p>
+  <td><p>UI improvements.</p> <p>Addition of the PulBox feature — in this section, you can create and transfer your own digital asset. Currently, only TRON-TRX PulBox are supported.</p> <p>Addition of the ability to display transactions of addresses created by the program’s own EKSCHENJ-EXCHANGE.</p> <p>After creating an address, deposit a small amount to it so that the address becomes valid.</p> <p>This feature is service-based and is obtained from the Tron Service endpoint.</p><p>transaction fees are deposited to the address <strong>TAm3ZryrafrCycWqz1pBdsSwv3mzFkXijo</strong>.</p>
   <td>Active</td>
  </tr>
  
