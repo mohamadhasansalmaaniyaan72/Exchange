@@ -82,8 +82,6 @@
 <p>This is a program for managing stock and cryptocurrency accounting. The program can manage your stock exchange and cryptocurrency buy/sell activities and calculate your profits and losses.
 A new feature added to the app is saving personal passwords for apps. </p> <p>⭐️🛑This project operates independently and is currently under development.🛑⭐️</p>
 <p>To make a purchase, enter this invitation code: <strong>1000000001</strong></p> <p>Recommended System: <strong>Windows(Vindoz) 8.0 or higher</strong></p>
-
-Before running the program, please install the following prerequisite. This program uses .NET Core to run:
 <p>If you have any problems, send a message to the email in the app or write your message in the links provided.</p>
 <p><strong>Currently, the validity period of each energy is 6 months. Amount per time period: 700TRX </strong></p>
 
