@@ -34,7 +34,7 @@
   <td>
    2.0.0.3
   </td>
-  <td><p>Hal ee Barkhi EIraadat.</p> <p>Behbud ee UI.</p> <p>(Agar Be Ruz Resaani Be Dalil ee Taqir Dar Saakhtaar ee System iye Windows(Vindoz) Anjaam Nawod, Dobaare Noskhe ye Nasbi raa Download Va Nasb Kon id.) </p></td>
+  <td><p>Hal ee Barkhi EIraadat.</p> <p>Behbud ee UI.</p> <p>(Agar Beruz Resaani Be Dalil ee Taqir Dar Saakhtaar ee System iye Windows(Vindoz) Anjaam Nawod, Dobaare Noskhe ye Nasbi raa Download Va Nasb Kon id.) </p></td>
   <td>Motabar</td>
  </tr>
 <tr>
