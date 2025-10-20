@@ -14,6 +14,15 @@
   <th>Vixegi</th>
   <th>Haalat</th>
  </tr>
+<tr>
+  <td>
+   2.0.0.6
+  </td>
+  <td>
+  <p>Behine Wodan ee Barnaame.</p> <p>Behbud ee UI.</p>
+    </td>
+  <td>Motabar</td>
+ </tr>
  <tr>
   <td>
    2.0.0.5
@@ -93,12 +102,20 @@ A new feature added to the app is saving personal passwords for apps. </p> <p>�
  </tr>
 <tr>
   <td>
+   2.0.0.6
+  </td>
+  <td>
+  <p>Program Optimization.</p> <p>UI Improvement.</p>
+    </td>
+  <td>Active</td>
+ </tr>
+<tr>
+  <td>
    2.0.0.5
   </td>
   <td><p>UI improvements.</p> <p>Addition of the PulBox feature — in this section, you can create and transfer your own digital asset. only TRON-TRX PulBox are supported.</p> <p>Addition of the ability to display transactions of addresses created by the program’s own EKSCHENJ-EXCHANGE.</p> <p>After creating an address, deposit a small amount to it so that the address becomes valid.</p> <p>This feature is service-based and is obtained from the TRON-TRX Service endpoint.</p><p>transaction fees are deposited to the address <strong>TAm3ZryrafrCycWqz1pBdsSwv3mzFkXijo</strong>.</p>
   <td>Active</td>
  </tr>
- 
  <tr>
   <td>
    2.0.0.4
@@ -151,26 +168,26 @@ A new feature added to the app is saving personal passwords for apps. </p> <p>�
 
 ---------------------------------------------------------
 
-<p>Setup version (Noskhe ye Nasbi): <strong>2.0.0.4</strong></p> <p>File Size (Hajm ee File): <strong>150.636MB</strong></p>
+<p>Setup version (Noskhe ye Nasbi): <strong>2.0.0.6</strong></p> <p>File Size (Hajm ee File): <strong>151.401MB</strong></p>
 
 ---------------------------------------------------------
-<p>Updated version in the app (Noskhe ye Beruz Wod e Dar Barnaame): <strong>2.0.0.5</strong></p> <p>File Size (Hajm ee File): <strong>138MB</strong></p>
+<p>Updated version in the app (Noskhe ye Beruz Wod e Dar Barnaame): <strong>2.0.0.6</strong></p> <p>File Size (Hajm ee File): <strong>142.033MB</strong></p>
 
 <strong>Download:</strong>
 
-<a href="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/main/EKSCHENJ-EXCHANGE.rar"><kbd> <br> EXCHANGE(EKSCHENJ) <br> </kbd></a>
+<a href="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/main/EXCHANGE-EKSCHENJ.rar"><kbd> <br> EXCHANGE(EKSCHENJ) <br> </kbd></a>
 
 <a href="https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.20-windows-x86-installer"><kbd> <br> Runtime-Desktop-7.0.20 X86 <br> </kbd></a>
 <a href="https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.20-windows-x64-installer?cid=getdotnetcore"><kbd> <br> Runtime-Desktop-7.0.20 X64 <br> </kbd></a>
 
 <strong>Developer and support links (Link haaye Barnaame Nevis Va Powtibaan):</strong>
-
-<a href="https://github.com/mohamadhasansalmaaniyaan72/Portfolio-Nemune-Kaar-haa-"><kbd> <br> Main <br> </kbd></a>
+<p>
+ <a href="https://github.com/mohamadhasansalmaaniyaan72/Portfolio-Nemune-Kaar-haa-"><kbd> <br> Main <br> </kbd></a>
 <a href="https://x.com/salmaaniyaan72/status/1912920912770261313"><kbd> <br> X <br> </kbd></a>
 <a href="https://Twitter.com/salmaaniyaan72/status/1912920912770261313"><kbd> <br> Twitter <br> </kbd></a>
 <a href="https://www.facebook.com/share/p/1G2jCtZ1tF/"><kbd> <br> Facebook <br> </kbd></a>
 <a href="https://www.youtube.com/watch?v=n9qx_lEy00U"><kbd> <br> Youtube <br> </kbd></a>
-
+</p>
 
 <p>
   <img style="width: 300px; height: 230px;" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/2.png?2025-10-03-23:22" />
