@@ -36,7 +36,7 @@
   <td>
    2.0.0.4
   </td>
-  <td>Hal ee Mowkel ee Be Ruz Resaani. </td>
+  <td>Hal ee Mowkel ee Beruz Resaani. </td>
   <td>Motabar</td>
  </tr>
  <tr>
