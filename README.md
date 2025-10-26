@@ -116,7 +116,7 @@ A new feature added to the app is saving personal passwords for apps. </p> <p>�
    2.0.0.7
   </td>
   <td>
-  <p>Program Optimization.</p> <p>UI Enhancements.</p> <p>Transaction Notifications.</p> <p>Security Updates for PulBaaks.</p> <p>Saving Addresses for Transfers.</p> <p>Handling PulBaaks Transaction Errors — if the transaction fee is sent to another address, it cannot be reversed and must be followed up elsewhere (Service-based).</p>
+  <p>Program Optimization.</p> <p>UI Enhancements.</p> <p>Transaction Notifications.</p> <p>Security Updates for PulBox.</p> <p>Saving Addresses for Transfers.</p> <p>Handling PulBaaks Transaction Errors — if the transaction fee is sent to another address, it cannot be reversed and must be followed up elsewhere (Service-based).</p>
     </td>
   <td>Active</td>
  </tr>
