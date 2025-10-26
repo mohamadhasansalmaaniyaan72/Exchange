@@ -19,7 +19,7 @@
    2.0.0.7
   </td>
   <td>
-  <p>Behine Wodan ee Barnaame.</p> <p>Behbud ee UI.</p> <p>Etelaa Resaani ye Taraakonew haa.</p> <p>Taqiraat ee Amniyati ye PulBaaks.</p> <p>Zakhire Address haa Baraaye Enteqaal.</p> <p>Handle Kardan ee KHataa ye PulBaaks Dar Taraakonew haa, Agar Kaarmozd ee Taraakonew i Be Address ee Digar i Ersaal Bewe Qaabel Bargawt Nist Va Az Jaaye Dige Baayad Peygiri Wavad (Service Base Hast).</p>
+  <p>Behine Wodan ee Barnaame.</p> <p>Behbud ee UI.</p> <p>Etelaa Resaani Taraakonew ee PulBaaks Dar Email Va Barnaame.</p> <p>Taqiraat ee Amniyati ye PulBaaks.</p> <p>Zakhire Address haa Baraaye Enteqaal.</p> <p>Handle Kardan ee KHataa ye PulBaaks Dar Taraakonew haa, Agar Kaarmozd ee Taraakonew i Be Address ee Digar i Ersaal Bewe Qaabel Bargawt Nist Va Az Jaaye Dige Baayad Peygiri Wavad (Service Base Hast).</p>
     </td>
   <td>Motabar</td>
  </tr>
@@ -116,7 +116,7 @@ A new feature added to the app is saving personal passwords for apps. </p> <p>�
    2.0.0.7
   </td>
   <td>
-  <p>Program Optimization.</p> <p>UI Enhancements.</p> <p>Transaction Notifications.</p> <p>Security Updates for PulBox.</p> <p>Saving Addresses for Transfers.</p> <p>Handling PulBaaks Transaction Errors — if the transaction fee is sent to another address, it cannot be reversed and must be followed up elsewhere (Service-based).</p>
+  <p>Program Optimization.</p> <p>UI Enhancements.</p> <p>PulBox transaction notifications in email and app.</p> <p>Security Updates for PulBox.</p> <p>Saving Addresses for Transfers.</p> <p>Handling PulBaaks Transaction Errors — if the transaction fee is sent to another address, it cannot be reversed and must be followed up elsewhere (Service-based).</p>
     </td>
   <td>Active</td>
  </tr>
