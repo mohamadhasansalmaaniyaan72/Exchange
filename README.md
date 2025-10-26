@@ -191,9 +191,6 @@ A new feature added to the app is saving personal passwords for apps. </p> <p>�
 
 <p>Setup version (Noskhe ye Nasbi): <strong>2.0.0.7</strong></p> <p>File Size (Hajm ee File): <strong>151.838MB</strong></p>
 
----------------------------------------------------------
-<p>Updated version in the app (Noskhe ye Beruz Wod e Dar Barnaame): <strong>2.0.0.6</strong></p> <p>File Size (Hajm ee File): <strong>142.033MB</strong></p>
-
 <strong>Download:</strong>
 
 <a href="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/main/EXCHANGE-EKSCHENJ.rar"><kbd> <br> EXCHANGE(EKSCHENJ) <br> </kbd></a>
