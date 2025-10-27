@@ -126,9 +126,8 @@ A new feature added to the app is saving personal passwords for apps. </p> <p>тн
   <td>
   <p>Troubleshooting the program.</p>
     </td>
-  <td>Motabar</td>
+  <td>Active</td>
  </tr>
-
 <tr>
   <td>
    2.0.0.7
