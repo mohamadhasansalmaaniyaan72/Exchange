@@ -15,6 +15,14 @@
   <th>Haalat</th>
  </tr>
 <tr>
+<td>
+   2.0.0.8
+  </td>
+  <td>
+  <p>Hal ee EIraadaat Barnaame.</p>
+    </td>
+  <td>Motabar</td>
+ </tr>
   <td>
    2.0.0.7
   </td>
@@ -109,6 +117,16 @@ A new feature added to the app is saving personal passwords for apps. </p> <p>тн
   <th>Version</th>
   <th>Features</th>
   <th>Status</th>
+ </tr>
+
+ <tr>
+<td>
+   2.0.0.8
+  </td>
+  <td>
+  <p>Troubleshooting the program.</p>
+    </td>
+  <td>Motabar</td>
  </tr>
 
 <tr>
