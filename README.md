@@ -119,7 +119,6 @@ A new feature added to the app is saving personal passwords for apps. </p> <p>тн
   <th>Features</th>
   <th>Status</th>
  </tr>
- <tr>
 <tr>
 <td>
    <p>2.0.2.9</p><p>2.0.1.9</p><p>2.0.0.9</p><p>2.0.0.8</p>
