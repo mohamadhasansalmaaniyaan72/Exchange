@@ -13,6 +13,7 @@
   <th>Verxen</th>
   <th>Vixegi</th>
   <th>Haalat</th>
+  <th>File Tip</th>
  </tr>
 <tr>
 <td>
@@ -22,6 +23,7 @@
   <p>Hal ee EIraadaat Barnaame.</p>
     </td>
   <td>Motabar</td>
+ <td>Beruz Resaani Darun Barnaame</td>
  </tr>
 <tr>
   <td>
@@ -31,8 +33,8 @@
   <p>Behine Wodan ee Barnaame.</p> <p>Behbud ee UI.</p> <p>Etelaa Resaani Taraakonew ee PulBaaks Dar Email Va Barnaame.</p> <p>Taqiraat ee Amniyati ye PulBaaks.</p> <p>Zakhire Address haa Baraaye Enteqaal.</p> <p>Handle Kardan ee KHataa ye PulBaaks Dar Taraakonew haa, Agar Kaarmozd ee Taraakonew i Be Address ee Digar i Ersaal Bewe Qaabel Bargawt Nist Va Az Jaaye Dige Baayad Peygiri Wavad (Service Base Hast).</p>
     </td>
   <td>Motabar</td>
+ <td>Nasbi</td>
  </tr>
- 
 <tr>
   <td>
    2.0.0.6
@@ -41,6 +43,7 @@
   <p>Behine Wodan ee Barnaame.</p> <p>Behbud ee UI.</p>
     </td>
   <td>Monqazi</td>
+ <td>Nasbi</td>
  </tr>
  <tr>
   <td>
@@ -50,6 +53,7 @@
   <p>Behbud ee UI.</p> <p>Ezaafe Wodan ee PulBaaks, Dar EIn Bakhw Mitavaan id Daaraaei ye Digitaal ee KHod Raa EIjaad Kon id Va Enteqaal Bedahid, Faqat Az PulBaaks TRON-TRX Estefaade Miwavad.</p><p>Ezaafe Wodan ee Qaabeliyat ee Nemaayew ee Tarakonew haaye Address haaei Ke Az KHod ee Barnaame ye EKSCHENJ-EXCHANGE Saakht e Wode-and. </p><p>Pas Az EIjaad ee Address, Tedaad i Be Aan Address Vaariz Kon id Taa Address ee Mored ee Nazar Motabar Wavad.</p><p>EIn Emkaan Be Surat ee Service Base Ast Va Az Endpoint ee KHod TRON-TRX Service Gerefte Wod e Ast.</p><p> Kaarmozd ee Taraakonew haa be Address ee <strong>TAm3ZryrafrCycWqz1pBdsSwv3mzFkXijo</strong> Vaariz Miwavand.</p>
     </td>
   <td>Monqazi</td>
+  <td>Beruz Resaani Darun Barnaame</td>
  </tr>
  <tr>
   <td>
@@ -57,6 +61,7 @@
   </td>
   <td>Hal ee Mowkel ee Beruz Resaani. </td>
   <td>Monqazi</td>
+  <td>Nasbi</td>
  </tr>
  <tr>
   <td>
@@ -64,6 +69,7 @@
   </td>
   <td><p>Hal ee Barkhi EIraadat.</p> <p>Behbud ee UI.</p> <p>(Agar Beruz Resaani Be Dalil ee Taqir Dar Saakhtaar ee System iye Windows(Vindoz) Anjaam Nawod, Dobaare Noskhe ye Nasbi raa Download Va Nasb Kon id.) </p></td>
   <td>Monqazi</td>
+  <td>Beruz Resaani Darun Barnaame</td>
  </tr>
 <tr>
   <td>
@@ -71,6 +77,7 @@
   </td>
   <td><p>Hal ee EIraad ee Nemaayew ee Adaad ee Kuchek.</p> <p>Ezaafe Wodan ee Stake Baraaye Ezaafe Kardan ee Mowaarekat haaei Ke Dar Entekhaab Naazer Daawt id (Be Surat ee Offline).</p> <p>Baraaye Ezaafe Kardan ee Paadaaw haa Mitavaan id Az Sahaam ee Jaayeze Ke Qablan Bud e Estefaade Kon id.</p> <p>Behbud ee UI.</p> </td>
   <td>Monqazi</td>
+ <td>Nasbi</td>
  </tr>
  <tr>
   <td>
@@ -78,16 +85,19 @@
   </td>
   <td>Behbud ee UI. Hal ee Barkhi Az EIraadaat ee Runtime.</td>
   <td>Monqazi</td>
+  <td>Beruz Resaani Darun Barnaame</td>
  </tr>
  <tr>
   <td>2.0.0.0</td>
   <td><p>Hal ee Mowkel ee Nemaayew ee Taarikh Va Mavaared Amniyant i.</p> <p>Hal ee Mowkel UI Dar Windows 8(Vindoz 8).</p> <p>Ezaafe Wodan ee Saabeqe KHarid.</p> <p>Taqir ee UI Barkhi Az Bakhw haa.</p> <p>Ezaafe Wodan ee Emkaan ee Pardaakht ee Darun Barnaame-ei ye TRON-TRX.</p></td>
   <td>Monqazi</td>
+  <td>Nasbi</td>
  </tr>
  <tr>
   <td>1.8.9.9</td>
   <td><p>Nemaayew ee Profile Va Qaabeliyat ee Taqir ee Etelaa'aat ee Kaarbar.</p> <p>Zakhire Kardan ee Ramz ee Kaarbaraan (Modiriyat ee Ramz-RamzBiz).</p></td>
   <td>Monqazi</td>
+  <td>Beruz Resaani Darun Barnaame</td>
  </tr>
  <tr>
   <td>
@@ -97,6 +107,7 @@
    <p>Sueich Wodan Beyn ee Kaarbaraan Va Nemaayew ee Mojazaaye Etelaa'aat ee Aanhaa.</p>
   </td>
   <td>Monqazi</td>
+  <td>Beruz Resaani Darun Barnaame</td>
  </tr>
 </table>
 
@@ -118,6 +129,7 @@ A new feature added to the app is saving personal passwords for apps. </p> <p>‚≠
   <th>Version</th>
   <th>Features</th>
   <th>Status</th>
+  <th>File Type</th>
  </tr>
 <tr>
 <td>
@@ -126,7 +138,7 @@ A new feature added to the app is saving personal passwords for apps. </p> <p>‚≠
   <td>
   <p>Troubleshooting the program.</p>
     </td>
-  <td>Active</td>
+  <td>Active</td><td>In-app update</td>
  </tr>
 <tr>
   <td>
@@ -135,7 +147,7 @@ A new feature added to the app is saving personal passwords for apps. </p> <p>‚≠
   <td>
   <p>Program Optimization.</p> <p>UI Enhancements.</p> <p>PulBox transaction notifications in email and app.</p> <p>Security Updates for PulBox.</p> <p>Saving Addresses for Transfers.</p> <p>Handling PulBox Transaction Errors ‚Äî if the transaction fee is sent to another address, it cannot be reversed and must be followed up elsewhere (Service-based).</p>
     </td>
-  <td>Active</td>
+  <td>Active</td><td>Installation file</td>
  </tr>
  
 <tr>
@@ -145,52 +157,52 @@ A new feature added to the app is saving personal passwords for apps. </p> <p>‚≠
   <td>
   <p>Program Optimization.</p> <p>UI Improvement.</p>
     </td>
-  <td>Expired</td>
+  <td>Expired</td><td>Installation file</td>
  </tr>
 <tr>
   <td>
    2.0.0.5
   </td>
   <td><p>UI improvements.</p> <p>Addition of the PulBox feature ‚Äî in this section, you can create and transfer your own digital asset. only TRON-TRX PulBox are supported.</p> <p>Addition of the ability to display transactions of addresses created by the program‚Äôs own EKSCHENJ-EXCHANGE.</p> <p>After creating an address, deposit a small amount to it so that the address becomes valid.</p> <p>This feature is service-based and is obtained from the TRON-TRX Service endpoint.</p><p>transaction fees are deposited to the address <strong>TAm3ZryrafrCycWqz1pBdsSwv3mzFkXijo</strong>.</p>
-  <td>Expired</td>
+  <td>Expired</td><td>In-app update</td>
  </tr>
  <tr>
   <td>
    2.0.0.4
   </td>
   <td>Fix the update problem. </td>
-  <td>Expired</td>
+  <td>Expired</td><td>Installation file</td>
  </tr>
  <tr>
   <td>
    2.0.0.3
   </td>
   <td><p>Fixed some issues.</p> <p>UI improvements.</p> <p>(If the update could not be completed due to structural changes in the Windows system, please download and install the installation version again.)</p> </td>
-  <td>Expired</td>
+  <td>Expired</td><td>In-app update</td>
  </tr>
 <tr>
   <td>
    2.0.0.2
   </td>
   <td>Fix for the issue of displaying small numbers, addition of staking for adding participations that are called in the ‚ÄúSelect Voter‚Äù section (offline mode). To add rewards, you can now use the Stock Bonus that were previously available, UI improvements. </td>
-  <td>Expired</td>
+  <td>Expired</td><td>Installation file</td>
  </tr>
  <tr>
   <td>
    2.0.0.1
   </td>
   <td>UI improvements, some runtime issues fixed.</td>
-  <td>Expired</td>
+  <td>Expired</td><td>In-app update</td>
  </tr>
  <tr>
   <td>2.0.0.0</td>
   <td><p>Fixed issues with date display and security-related items.</p> <p>Fixed UI issues on Windows 8(Vindoz 8).</p> <p>Added purchase history.</p> <p>Updated the UI in some sections.</p> <p>Added in-app payment support for TRON-TRX.</p></td>
-  <td>Expired</td>
+  <td>Expired</td><td>Installation file</td>
  </tr>
  <tr>
   <td>1.8.9.9</td>
   <td><p>View profile and ability to change user information.</p> <p>Added password saving feature (Password Manager - RamzBiz).</p></td>
-  <td>Expired</td>
+  <td>Expired</td><td>In-app update</td>
  </tr>
  <tr>
   <td>
@@ -199,7 +211,7 @@ A new feature added to the app is saving personal passwords for apps. </p> <p>‚≠
   <td>
    Switching between users and displaying that user's personal information separately.
   </td>
-  <td>Expired</td>
+  <td>Expired</td><td>In-app update</td>
  </tr>
 </table>
 
