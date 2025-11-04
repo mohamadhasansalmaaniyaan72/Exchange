@@ -148,8 +148,8 @@ A new feature added to the app is saving personal passwords for apps. </p> <p>тн
   <td>
   <p>Solve program errors.</p><p>Solve fees and transactions.</p><p>Solving the problem of displaying errors in PulBox.</p>
     </td>
-  <td>Motabar</td>
- <td>Beruz Resaani Darun Barnaame</td>
+  <td>Active</td>
+ <td>In-app update</td>
  </tr>
 <tr>
 <tr>
