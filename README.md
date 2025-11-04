@@ -17,6 +17,16 @@
  </tr>
 <tr>
 <td>
+   <p>2.0.3.9</p>
+  </td>
+  <td>
+  <p>Hal ee EIraadaat Barnaame.</p><p>Hal ee Kaarmozd haa Va Taraakonew haa.</p><p>Hal ee Mowkel ee Nemaayew KHataa haa Dar PulBaaks.</p>
+    </td>
+  <td>Motabar</td>
+ <td>Beruz Resaani Darun Barnaame</td>
+ </tr>
+<tr>
+<td>
    <p>2.0.2.9</p><p>2.0.1.9</p><p>2.0.0.9</p><p>2.0.0.8</p>
   </td>
   <td>
@@ -131,6 +141,17 @@ A new feature added to the app is saving personal passwords for apps. </p> <p>�
   <th>Status</th>
   <th>File Type</th>
  </tr>
+ <tr>
+<td>
+   <p>2.0.3.9</p>
+  </td>
+  <td>
+  <p>Solve program errors.</p><p>Solve fees and transactions.</p><p>Solving the problem of displaying errors in PulBox.</p>
+    </td>
+  <td>Motabar</td>
+ <td>Beruz Resaani Darun Barnaame</td>
+ </tr>
+<tr>
 <tr>
 <td>
    <p>2.0.2.9</p><p>2.0.1.9</p><p>2.0.0.9</p><p>2.0.0.8</p>
@@ -218,11 +239,11 @@ A new feature added to the app is saving personal passwords for apps. </p> <p>�
 
 ---------------------------------------------------------
 
-<p>Setup version (Noskhe ye Nasbi): <strong>2.0.0.7</strong></p> <p>File Size (Hajm ee File): <strong>151.838MB</strong></p>
+<p>Setup version (Noskhe ye Nasbi): <strong>2.0.3.9</strong></p> <p>File Size (Hajm ee File): <strong>151.904MB</strong></p>
 
 <strong>Download:</strong>
 
-<a href="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/main/EKSCHENJ-EXCHANGE.rar"><kbd> <br> EXCHANGE(EKSCHENJ) <br> </kbd></a>
+<a href="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/main/EXCHANGE-EKSCHENJ.rar"><kbd> <br> EXCHANGE(EKSCHENJ) <br> </kbd></a>
 
 <a href="https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.20-windows-x86-installer"><kbd> <br> Runtime-Desktop-7.0.20 X86 <br> </kbd></a>
 <a href="https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.20-windows-x64-installer?cid=getdotnetcore"><kbd> <br> Runtime-Desktop-7.0.20 X64 <br> </kbd></a>
@@ -268,6 +289,7 @@ A new feature added to the app is saving personal passwords for apps. </p> <p>�
 </p>
 <p>
  <img style="width: 301px; height: 230px;" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/19.png?2025-10-18-546546" />
+ <img style="width: 301px; height: 230px;" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/7.png?2025-11-04-546546" />
 </p>
 </body>
 </html>
