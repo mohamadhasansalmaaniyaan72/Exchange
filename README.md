@@ -23,7 +23,7 @@
   <p>Hal ee EIraadaat Barnaame.</p><p>Hal ee Kaarmozd haa Va Taraakonew haa.</p><p>Hal ee Mowkel ee Nemaayew KHataa haa Dar PulBaaks.</p>
     </td>
   <td>Motabar</td>
- <td>Beruz Resaani Darun Barnaame</td>
+ <td>Beruz Resaani Darun Barnaame / Nasbi</td>
  </tr>
 <tr>
 <td>
@@ -141,24 +141,22 @@ A new feature added to the app is saving personal passwords for apps. </p> <p>тн
   <th>Status</th>
   <th>File Type</th>
  </tr>
- <tr>
+<tr>
 <td>
    <p>2.0.3.9</p>
   </td>
   <td>
   <p>Solve program errors.</p><p>Solve fees and transactions.</p><p>Solving the problem of displaying errors in PulBox.</p>
-    </td>
-  <td>Active</td>
- <td>In-app update</td>
+  </td>
+<td>Active</td><td>In-app update/Installation file</td>
  </tr>
-<tr>
 <tr>
 <td>
    <p>2.0.2.9</p><p>2.0.1.9</p><p>2.0.0.9</p><p>2.0.0.8</p>
   </td>
   <td>
   <p>Troubleshooting the program.</p>
-    </td>
+  </td>
   <td>Active</td><td>In-app update</td>
  </tr>
 <tr>
