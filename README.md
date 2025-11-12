@@ -6,7 +6,7 @@
 
 <p>EIn Barnaame Baraaye Hesaabdaari ye Burs Va Ramz Arz Hast Va Mitavaanad KHarid Va Foruw ee Womaa Raa Dar Burs Va KHarid Va Foruw ee Ramz Arz Modiriyat Konad Va Sud Va Zarar ee Womaa Raa Mohaasebe Konad. </p>
 
-<p>⭐️🛑EIn Poroxe Be Surat Mostaqel Kaar Wod e Ast Va Dar Haal ee Gostarew Ast.🛑⭐️</p><p>Baraaye KHarid, Ein Code ee Da'vat Raa Vaared Konid: <strong>1000000001</strong></p><p>System ee Piwnahaad i:<strong> Windows(Vindoz) 8.0 Va Baalaa tar</strong></p><p>Dar Surat ee Har Gune Mowkel Be Email ee Mojud Dar Barnaame Payaam KHod Raa Ersaal Konid Yaa Payaam KHod Raa Dar Link haaye Eraa'e Wod e Benevis id.</p> <p><strong>Dar Haal ee Haazer Modat ee Etebaar ee Har Enerxi 6 Maah Ast. Mablaq ee Har Dore Zamaan i: 700TRX </strong></p>
+<p>Baraaye KHarid, Ein Code ee Da'vat Raa Vaared Konid: <strong>1000000001</strong></p><p>System ee Piwnahaad i:<strong> Windows(Vindoz) 8.0 Va Baalaa tar</strong></p><p>Dar Surat ee Har Gune Mowkel Be Email ee Mojud Dar Barnaame Payaam KHod Raa Ersaal Konid Yaa Payaam KHod Raa Dar Link haaye Eraa'e Wod e Benevis id.</p> <p><strong>Dar Haal ee Haazer Modat ee Etebaar ee Har Enerxi 6 Maah Ast. Mablaq ee Har Dore Zamaan i: 700TRX </strong></p>
 
 <table>
  <tr>
@@ -129,7 +129,7 @@
 </p>
 
 <p>This is a program for managing stock and cryptocurrency accounting. The program can manage your stock exchange and cryptocurrency buy/sell activities and calculate your profits and losses.
-A new feature added to the app is saving personal passwords for apps. </p> <p>⭐️🛑This project operates independently and is currently under development.🛑⭐️</p>
+A new feature added to the app is saving personal passwords for apps. </p>
 <p>To make a purchase, enter this invitation code: <strong>1000000001</strong></p> <p>Recommended System: <strong>Windows(Vindoz) 8.0 or higher</strong></p>
 <p>If you have any problems, send a message to the email in the app or write your message in the links provided.</p>
 <p><strong>Currently, the validity period of each energy is 6 months. Amount per time period: 700TRX </strong></p>
