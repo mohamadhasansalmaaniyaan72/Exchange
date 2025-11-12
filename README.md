@@ -4,7 +4,7 @@
 
 <p align="center"><strong>EKSCHENJ:</strong></p>
 
-<p>EIn Barnaame Baraaye Hesaabdaari ye Burs Va Ramz Arz Hast Va Mitavaanad KHarid Va Foruw ee Womaa Raa Dar Burs Va KHarid Va Foruw ee Ramz Arz Modiriyat Konad Va Sud Va Zarar ee Womaa Raa Mohaasebe Konad. </p>
+<p>EIn Barnaame Baraaye Hesaabdaari ye Burs Va Ramz Arz Hast Va Mitavaanad KHarid Va Foruw ee Womaa Raa Dar Burs Va KHarid Va Foruw ee Ramz Arz Modiriyat Konad Va Sud Va Zarar ee Womaa Raa Mohaasebe Konad. Dar EIn Poroxe Mavaared ee Digar i Ezaafe Wod e Ast Ke Dar Jadval ee Paaein Tozih Daade Wod e Ast. EIn Poroxe Be Surat ee Mostaqel Kaar Wod e Ast. </p>
 
 <p>Baraaye KHarid, Ein Code ee Da'vat Raa Vaared Konid: <strong>1000000001</strong></p><p>System ee Piwnahaad i:<strong> Windows(Vindoz) 8.0 Va Baalaa tar</strong></p><p>Dar Surat ee Har Gune Mowkel Be Email ee Mojud Dar Barnaame Payaam KHod Raa Ersaal Konid Yaa Payaam KHod Raa Dar Link haaye Eraa'e Wod e Benevis id.</p> <p><strong>Dar Haal ee Haazer Modat ee Etebaar ee Har Enerxi 6 Maah Ast. Mablaq ee Har Dore Zamaan i: 700TRX </strong></p>
 
@@ -128,8 +128,7 @@
  </strong>
 </p>
 
-<p>This is a program for managing stock and cryptocurrency accounting. The program can manage your stock exchange and cryptocurrency buy/sell activities and calculate your profits and losses.
-A new feature added to the app is saving personal passwords for apps. </p>
+<p>This program is for cryptocurrency and stock accounting and can manage the buying and selling of assets in the stock market and cryptocurrency market, as well as calculate the profit and loss of the assets. Additional features are included in this project, which are explained in the table below. This project operates independently.</p>
 <p>To make a purchase, enter this invitation code: <strong>1000000001</strong></p> <p>Recommended System: <strong>Windows(Vindoz) 8.0 or higher</strong></p>
 <p>If you have any problems, send a message to the email in the app or write your message in the links provided.</p>
 <p><strong>Currently, the validity period of each energy is 6 months. Amount per time period: 700TRX </strong></p>
