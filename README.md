@@ -233,11 +233,11 @@
 
 ---------------------------------------------------------
 
-<p>Setup version (Noskhe ye Nasbi): <strong>2.0.3.9</strong></p> <p>File Size (Hajm ee File): <strong>151.904MB</strong></p>
+<p>Setup version (Noskhe ye Nasbi): <strong>2.0.4.9</strong></p> <p>File Size (Hajm ee File): <strong>152,704MB</strong></p>
 
 <strong>Download:</strong>
 
-<a href="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/main/EXCHANGE-EKSCHENJ.rar"><kbd> <br> EXCHANGE(EKSCHENJ) <br> </kbd></a>
+<a href="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/main/EKSCHENJ-EXCHANGE.rar"><kbd> <br> EXCHANGE(EKSCHENJ) <br> </kbd></a>
 
 <a href="https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.20-windows-x86-installer"><kbd> <br> Runtime-Desktop-7.0.20 X86 <br> </kbd></a>
 <a href="https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.20-windows-x64-installer?cid=getdotnetcore"><kbd> <br> Runtime-Desktop-7.0.20 X64 <br> </kbd></a>
