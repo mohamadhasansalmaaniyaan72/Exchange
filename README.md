@@ -232,6 +232,7 @@
 
 
 ---------------------------------------------------------
+Qabl Az KHarid Payaam Be Email Mored ee Nazar Ersaal Konid. Send a message to the provided email before purchasing. mh.salmanian@yahoo.com
 
 <p>Setup version (Noskhe ye Nasbi): <strong>2.0.4.9</strong></p> <p>File Size (Hajm ee File): <strong>152,704MB</strong></p>
 
