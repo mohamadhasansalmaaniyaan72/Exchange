@@ -235,7 +235,7 @@
 Send a message to the provided email before purchasing.<br/>
 Qabl Az KHarid Payaam Be Email Mored ee Nazar Ersaal Konid.<br/> <strong> mh.salmanian@yahoo.com</strong>
 
-<p>Setup version (Noskhe ye Nasbi): <strong>2.0.4.9</strong></p> <p>File Size (Hajm ee File): <strong>152,704MB</strong></p>
+<p>CHanging... (Dar Haal ee Taqiraat...)</p>
 
 <strong>Download program prerequisites (Download ee Piw Niyaaz ee Barnaame):</strong>
 
