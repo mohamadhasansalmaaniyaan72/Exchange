@@ -3,7 +3,7 @@
  <p align="center"><img width="500" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/1.png"/></p>
 
 <p align="center"><strong>EKSCHENJ:</strong></p>
-<p>EIn Barnaame Baraaye Hesaabdaari ye Burs Va Ramz Arz Hast Va Mitavaanad KHarid Va Foruw ee Womaa Raa Dar Burs Va KHarid Va Foruw ee Ramz Arz Modiriyat Konad Va Sud Va Zarar ee Womaa Raa Mohaasebe Konad. Dar EIn Poroxe Mavaared ee Digar i Ezaafe Wod e Ast Ke Dar Jadval ee Paaein Tozih Daade Wod e Ast. EIn Poroxe Be Surat ee Mostaqel Kaar Wod e Ast. </p><p>Baraaye KHarid, Ein Code ee Davat Raa Vaared Konid: <strong>1000000001</strong></p><p>System ee Piwnahaad i:<strong> Windows(Vindoz) 8.0 Va Baalaa tar</strong></p><p>Dar Surat ee Har Gune Mowkel Be Email ee Mojud Dar Barnaame Payaam KHod Raa Ersaal Konid Yaa Payaam KHod Raa Dar Link haaye Eraa'e Wod e Benevis id.</p> <p><strong>Dar Haal ee Haazer Modat ee Etebaar ee Har Enerxi 6 Maah Ast. Mablaq ee Har Dore Zamaan i: 700TRX </strong></p>
+<p>EIn Barnaame Baraaye Hesaabdaari ye Burs Va Ramz Arz Hast Va Mitavaanad KHarid Va Foruw ee Womaa Raa Dar Burs Va KHarid Va Foruw ee Ramz Arz Modiriyat Konad Va Sud Va Zarar ee Womaa Raa Mohaasebe Konad. Dar EIn Poroxe Mavaared ee Digar i Ezaafe Wod e Ast Ke Dar Jadval ee Paaein Tozih Daade Wod e Ast. EIn Poroxe Be Surat ee Mostaqel Kaar Wod e Ast. </p><p>Baraaye KHarid, Ein Code-ee Davat Raa Vaared Konid: <strong>1000000001</strong></p><p>System ee Piwnahaad i:<strong> Windows(Vindoz) 8.0 Va Baalaa tar</strong></p><p>Dar Surat ee Har Gune Mowkel Be Email ee Mojud Dar Barnaame Payaam KHod Raa Ersaal Konid Yaa Payaam KHod Raa Dar Link haaye Eraa'e Wod e Benevis id.</p> <p><strong>Dar Haal ee Haazer Modat ee Etebaar ee Har Enerxi 6 Maah Ast. Mablaq ee Har Dore Zamaan i: 700TRX </strong></p>
 
 <table>
  <tr>
@@ -285,6 +285,6 @@ Qabl Az KHarid Payaam Be Email Mored ee Nazar Ersaal Konid.<br/> <strong> mh.sal
  <img style="width: 301px; height: 230px;" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/19.png?2025-10-18-546546" />
  <img style="width: 301px; height: 230px;" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/7.png?2025-11-04-546546" />
 </p>
-<p align="center">From (Aaqaaz): 2025 CN.EA (1404 KH-I)</p>
+<p align="center"><strong>From (Aaqaaz): 2025 CN.EA (1404 KH-I)</strong></p>
 </body>
 </html>
