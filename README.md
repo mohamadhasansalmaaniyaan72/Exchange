@@ -285,5 +285,6 @@ Qabl Az KHarid Payaam Be Email Mored ee Nazar Ersaal Konid.<br/> <strong> mh.sal
  <img style="width: 301px; height: 230px;" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/19.png?2025-10-18-546546" />
  <img style="width: 301px; height: 230px;" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/7.png?2025-11-04-546546" />
 </p>
+<p align="center">From (Aaqaaz): 2025 CN.EA (1404 KH-I)</p>
 </body>
 </html>
