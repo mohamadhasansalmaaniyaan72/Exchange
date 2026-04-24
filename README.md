@@ -235,8 +235,6 @@
 Send a message to the provided email before purchasing.<br/>
 Qabl Az KHarid Payaam Be Email Mored ee Nazar Ersaal Konid.<br/> <strong> mh.salmanian@yahoo.com</strong>
 
-<p>CHanging... (Dar Haal ee Taqiraat...)</p>
-
 <strong>Download program prerequisites (Download ee Piw Niyaaz ee Barnaame):</strong>
 
 <a href="https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.20-windows-x86-installer"><kbd> <br> Runtime-Desktop-7.0.20 X86 <br> </kbd></a>
