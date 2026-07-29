@@ -41,8 +41,6 @@
   <td>
   <p>Behine Wodan ee Barnaame.</p> <p>Behbud ee UI.</p>
     </td>
-  <td>Monqazi</td>
- <td>Nasbi</td>
  </tr>
  <tr>
   <td>
@@ -155,7 +153,6 @@
    2.0.0.4
   </td>
   <td>Fix the update problem. </td>
-  <td>Expired</td><td>Installation file</td>
  </tr>
  <tr>
   <td>
@@ -168,7 +165,6 @@
    2.0.0.2
   </td>
   <td>Fix for the issue of displaying small numbers, addition of staking for adding participations that are called in the “Select Voter” section (offline mode). To add rewards, you can now use the Stock Bonus that were previously available, UI improvements. </td>
-  <td>Expired</td><td>Installation file</td>
  </tr>
  <tr>
   <td>
@@ -179,7 +175,6 @@
  <tr>
   <td>2.0.0.0</td>
   <td><p>Fixed issues with date display and security-related items.</p> <p>Fixed UI issues on Windows 8(Vindoz 8).</p> <p>Added purchase history.</p> <p>Updated the UI in some sections.</p> <p>Added in-app payment support for TRON-TRX.</p></td>
-  <td>Expired</td><td>Installation file</td>
  </tr>
  <tr>
   <td>1.8.9.9</td>
