@@ -114,7 +114,7 @@
    <p>2.0.3.9</p>
   </td>
   <td>
-  <p>Solve program errors.</p><p>Solve fees and transactions.</p><p>Solving the problem of displaying errors in PulBox.</p>
+  <p>Solve program errors.</p><p>Solve fees and transactions.</p><p>Solving the problem of displaying errors in Money Box.</p>
   </td>
  </tr>
 <tr>
@@ -130,7 +130,7 @@
    2.0.0.7
   </td>
   <td>
-  <p>Program Optimization.</p> <p>UI Enhancements.</p> <p>PulBox transaction notifications in email and app.</p> <p>Security Updates for PulBox.</p> <p>Saving Addresses for Transfers.</p> <p>Handling PulBox Transaction Errors — if the transaction fee is sent to another address, it cannot be reversed and must be followed up elsewhere (Service-based).</p>
+  <p>Program Optimization.</p> <p>UI Enhancements.</p> <p>Money Box transaction notifications in email and app.</p> <p>Security Updates for Money Box.</p> <p>Saving Addresses for Transfers.</p> <p>Handling Money Box Transaction Errors — if the transaction fee is sent to another address, it cannot be reversed and must be followed up elsewhere (Service-based).</p>
     </td>
  </tr>
  
@@ -146,7 +146,7 @@
   <td>
    2.0.0.5
   </td>
-  <td><p>UI improvements.</p> <p>Addition of the PulBox feature — in this section, you can create and transfer your own digital asset. only TRON-TRX PulBox are supported.</p> <p>Addition of the ability to display transactions of addresses created by the program’s own EKSCHENJ-EXCHANGE.</p> <p>After creating an address, deposit a small amount to it so that the address becomes valid.</p> <p>This feature is service-based and is obtained from the TRON-TRX Service endpoint.</p><p>transaction fees are deposited to the address <strong>TAm3ZryrafrCycWqz1pBdsSwv3mzFkXijo</strong>.</p>
+  <td><p>UI improvements.</p> <p>Addition of the Money Box feature — in this section, you can create and transfer your own digital asset. only TRON-TRX Money Box are supported.</p> <p>Addition of the ability to display transactions of addresses created by the program’s own EKSCHENJ-EXCHANGE.</p> <p>After creating an address, deposit a small amount to it so that the address becomes valid.</p> <p>This feature is service-based and is obtained from the TRON-TRX Service endpoint.</p><p>transaction fees are deposited to the address <strong>TAm3ZryrafrCycWqz1pBdsSwv3mzFkXijo</strong>.</p>
  </tr>
  <tr>
   <td>
