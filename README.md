@@ -216,7 +216,7 @@ Or (Yaa)<br/>
 <a href="https://drive.usercontent.google.com/download?id=1efElDbWi85yz-2mwojMWU6W-jXw1wLhp&export=view&authuser=0"><kbd> <br> Runtime-Desktop-7.0.20 X86 <br> </kbd></a>
 <a href="https://drive.usercontent.google.com/download?id=1Q-8DI15oet-vdgyGyJwtsiCDooFx3osX&export=view&authuser=0"><kbd> <br> Runtime-Desktop-7.0.20 X64 <br> </kbd></a>
 
-<strong>Developer and support links (Link haaye Barnaame Nevis Va Powtibaan):</strong>
+<strong>🌟Developer and support links (Link haaye Barnaame Nevis Va Powtibaan):</strong>
 <p>
  <a href="https://github.com/mohamadhasansalmaaniyaan72/Portfolio-Nemune-Kaar-haa-"><kbd> <br> Main <br> </kbd></a>
 <a href="https://x.com/salmaaniyaan72/status/1912920912770261313"><kbd> <br> X <br> </kbd></a>
