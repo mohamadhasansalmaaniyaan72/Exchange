@@ -1,6 +1,6 @@
 <html><head><meta name="google-site-verification" content="QQcEYioeoX5gd0q0uHdBjvMvkeZdhDQ0Hd7riNHNXjc" /></head>
 <body>
- <p align="center"><img width="500" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/1.png"/></p>
+ <p align="center"><img width="500" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan"  src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/1.png" loading="lazy"/></p>
 
 <p align="center"><strong>EKSCHENJ:</strong></p>
 <p align="justify">EIn Barnaame Be Surat ee Yekpaarche Mibaawad Va Dar Aan Mitavaanid Hesaabdaari ye Burs Va Ramz Arz KHod Raa Anjaam Dahid, Daaraaei Digitaal TRX KHod Raa Dar Barnaame Negahdaari Konid <strong>Be Surat ee Offline</strong>, Negahdaari ye Ramz haaye Barnaame Va Site haaye KHod Raa Nagahdaari Konid (RamzBiz Va RamzBiz-V2), Hamchenin Gozine haaei Mesl ee KHandan ee QrCode(RamzCode), Saakht ee QrCode(RamzCode), Feworde Saazi ye Tasaavir Va Taarikh ee Mahsulaat Va Aqlaam ee Digar Ke Daaraaye Taarikh ee Enqezaa Hastand Raa Sabt Nemaaeid Va Mavaared ee Digar...<p>System ee Piwnahaad i:<strong> Windows(Vindoz) 8.0 Va Baalaa tar</strong></p><p>Dar Surat ee Har Gune Mowkel Be Email ee Mojud Dar Barnaame Payaam KHod Raa Ersaal Konid Yaa Payaam KHod Raa Dar Link haaye Eraa'e Wod e Benevis id.</p> <p><strong>Dar Haal ee Haazer Modat ee Etebaar ee Har Enerxi 6 Maah Ast.<br/> Mablaq ee Avaliye: 700TRX, Mablaq ee Har Dore: 50TRX </strong></p>
@@ -209,38 +209,38 @@ Or (Yaa)<br/>
 </p>
 
 <p>
-  <img style="width: 300px; height: 230px;" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/2.png?2026-08-20" />
-  <img style="width: 301px; height: 230px;" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/8.png?2026-08-20" />
+  <img style="width: 300px; height: 230px;" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" loading="lazy" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/2.png?2026-08-20" />
+  <img style="width: 301px; height: 230px;" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" loading="lazy" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/8.png?2026-08-20" />
 </p>
 <p>
-  <img style="width: 301px; height: 230px;" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/14.png?2026-08-06-12:15" />
-   <img style="width: 301px; height: 230px;" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/11.png?2026-08-06-12:15" />
+  <img style="width: 301px; height: 230px;" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" loading="lazy" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/14.png?2026-08-06-12:15" />
+   <img style="width: 301px; height: 230px;" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" loading="lazy" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/11.png?2026-08-06-12:15" />
 
 </p>
 <p>
- <img style="width: 301px; height: 230px;" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/6.png?2025-10-03-23:25" />
- <img style="width: 301px; height: 230px;" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/15.png?2025-10-02" />
+ <img style="width: 301px; height: 230px;" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" loading="lazy" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/6.png?2025-10-03-23:25" />
+ <img style="width: 301px; height: 230px;" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" loading="lazy" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/15.png?2025-10-02" />
 </p>
 <p>
-  <img style="width: 301px; height: 230px;" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/10.png?2025-10-03-23:30" />
-<img style="width: 300px; height: 230px;" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/4.png?2025-10-03-23:25" />
+  <img style="width: 301px; height: 230px;" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" loading="lazy" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/10.png?2025-10-03-23:30" />
+<img style="width: 300px; height: 230px;" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" loading="lazy" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/4.png?2025-10-03-23:25" />
 </p>
 <p>
-    <img style="width: 300px; height: 230px;" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/3.png?2025-10-07-124564" />
-  <img style="width: 300px; height: 230px;" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/5.png?2025-10-11-23:20" />
+    <img style="width: 300px; height: 230px;" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" loading="lazy" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/3.png?2025-10-07-124564" />
+  <img style="width: 300px; height: 230px;" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" loading="lazy" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/5.png?2025-10-11-23:20" />
 
 </p>
 <p>
-  <img style="width: 301px; height: 230px;" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/9.png?2025-10-11-23:05" />
- <img style="width: 301px; height: 230px;" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/17.png?2025-10-11-22:52" />
+  <img style="width: 301px; height: 230px;" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" loading="lazy" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/9.png?2025-10-11-23:05" />
+ <img style="width: 301px; height: 230px;" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" loading="lazy" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/17.png?2025-10-11-22:52" />
 </p>
 <p>
- <img style="width: 301px; height: 230px;" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/18.png?2025-10-07-546546" />
- <img style="width: 301px; height: 230px;" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/16.png?2025-10-26-454654" />
+ <img style="width: 301px; height: 230px;" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" loading="lazy" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/18.png?2025-10-07-546546" />
+ <img style="width: 301px; height: 230px;" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" loading="lazy" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/16.png?2025-10-26-454654" />
 </p>
 <p>
- <img style="width: 301px; height: 230px;" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/19.png?2025-10-18-546546" />
- <img style="width: 301px; height: 230px;" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/7.png?2025-11-04-546546" />
+ <img style="width: 301px; height: 230px;" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" loading="lazy" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/19.png?2025-10-18-546546" />
+ <img style="width: 301px; height: 230px;" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" loading="lazy" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/7.png?2025-11-04-546546" />
 </p>
 <p align="center"><strong>From (Aaqaaz): 2025 CN.EA (1404 KH-i)</strong></p>
 </body>
