@@ -95,7 +95,7 @@
 ------------------------------------------------------------------------
 <p align="center"><strong>EXCHANGE:</strong></p>
 
-<p align="justify">This application is an integrated all-in-one platform that allows you to manage your stock market and cryptocurrency accounts. You can also store your TRX digital assets offline within the application, securely save passwords for your applications and websites (RamzBiz Va RamzBiz-V2), scan and generate QrCodes(RamzCode), compress images, and register and manage products, items, and other records that have expiration dates, along with many other features...</p>
+<p align="justify">This application is an integrated all-in-one platform that allows you to manage your stock market and cryptocurrency accounts. You can also store your TRX digital assets offline within the application, securely save passwords for your applications and websites (RamzBiz and RamzBiz-V2), scan and generate QrCodes(RamzCode), compress images, and register and manage products, items, and other records that have expiration dates, along with many other features...</p>
 <p>Recommended System: <strong>Windows(Vindoz) 8.0 or higher</strong></p>
 <p>If you have any problems, send a message to the email in the app or write your message in the links provided.</p>
 <p><strong>Currently, the validity period of each energy is 6 months.<br/> Initial amount: 700TRX, Amount per period: 50TRX </strong></p>
