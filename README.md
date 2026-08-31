@@ -3,7 +3,16 @@
  <p align="center"><img width="500" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan"  src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/1.png" loading="lazy"/></p>
 
 <p align="center"><strong>EKSCHENJ:</strong></p>
-<p align="justify">EIn Barnaame Be Surat ee Yekpaarche Mibaawad Va Dar Aan Mitavaanid Hesaabdaari ye Burs Va Ramz Arz KHod Raa Anjaam Dahid, Daaraaei ye Digitaal TRX KHod Raa Dar Barnaame Negahdaari Konid <strong>Be Surat ee Offline</strong>, Ramz ee Daaraaei Dar Ekhtiyaar ee KHod ee Womaast, Negahdaari ye Ramz haaye Barnaame Va Site haaye KHod Raa Nagahdaari Konid (RamzBiz Va RamzBiz-V2), Hamchenin Gozine haaei Mesl ee KHandan ee QrCode(RamzCode), Saakht ee QrCode(RamzCode), Feworde Saazi ye Tasaavir Va Taarikh ee Mahsulaat Va Aqlaam ee Digar Ke Daaraaye Taarikh ee Enqezaa Hastand Raa Sabt Nemaaeid Va Mavaared ee Digar...<p>System ee Piwnahaad i:<strong> Windows(Vindoz) 8.0 Va Baalaa tar</strong></p><p>Dar Surat ee Har Gune Mowkel Be Email ee Mojud Dar Barnaame Payaam KHod Raa Ersaal Konid Yaa Payaam KHod Raa Dar Link haaye Eraa'e Wod e Benevis id.</p> <p><strong>Dar Haal ee Haazer Modat ee Etebaar ee Har Enerxi 6 Maah Ast.<br/> Mablaq ee Avaliye: 700TRX, Mablaq ee Har Dore: 50TRX </strong></p>
+<p align="justify">⚡️<strong>EIn Barnaame Be Surat ee Yekpaarche Mibaawad Va Dar Aan Mitavaanid:</strong>
+ <p>1. Hesaabdaari ye Burs Va Ramz Arz KHod Raa Anjaam Dahid.</p>
+ <p>2. Daaraaei ye Digitaal TRX KHod Raa Dar Barnaame Negahdaari Konid <strong>Be Surat ee Offline</strong>, Ramz ee Daaraaei Dar Ekhtiyaar ee KHod ee Womaast, Enteqaal Daaraaei Be Aadres ee Digar.</p>
+ <p>3. Negahdaari ye Ramz haaye Barnaame Va Site haaye KHod Raa Nagahdaari Konid (RamzBiz Va RamzBiz-V2). </p>
+ <p>4. Feworde Saazi ye Tasaavir. </p>
+ <p>5. Saakht ee QrCode(RamzCode).</p>
+ <p>6. KHandan ee QrCode(RamzCode).</p>
+ <p>7. Sabt ee Mahsulaat Va Aqlaam i Ke Daaraaye Taarikh ee Enqezaa Hastand Va Mavaared Digar...</p>
+<hr/>
+ <p>⚡️System ee Piwnahaad i:<strong> Windows(Vindoz) 8.0 Va Baalaa tar</strong></p> <p>☄️Dar Haal ee Haazer Modat ee Etebaar ee Har Enerxi <strong>6</strong> Maah Ast.<br/> <strong>Mablaq ee Avaliye: 700TRX, Mablaq ee Har Dore: 50TRX </strong></p>
 
 <table>
  <tr>
@@ -95,10 +104,18 @@
 ------------------------------------------------------------------------
 <p align="center"><strong>EXCHANGE:</strong></p>
 
-<p align="justify">This is an all-in-one application that allows you to manage your stock market and cryptocurrency accounting in one place. You can also store and manage your TRX digital assets in the application <strong>completely offline</strong>, Your asset passvords and private information remain entirely under your control. The application also allows you to securely store passwords for your applications and websites using (RamzBiz and RamzBiz-V2). Additionally, it provides features such as QrCode(RamzCode) scanning , QrCode(RamzCode) generation (RamzCode), image compression, and the ability to register and track the expiration dates of products and other items that have expiration dates, along with many other features....</p>
-<p>Recommended System: <strong>Windows(Vindoz) 8.0 or higher</strong></p>
-<p>If you have any problems, send a message to the email in the app or write your message in the links provided.</p>
-<p><strong>Currently, the validity period of each energy is 6 months.<br/> Initial amount: 700TRX, Amount per period: 50TRX </strong></p>
+<p align="justify">⚡️<strong>This application is an all-in-one solution that allows you to:</strong></p>
+<p>1. Manage your stock market and cryptocurrency accounting.</p>
+<p>2. Store your TRX digital assets within the application offline. Your asset password remains under your own control, and you can transfer your assets to another address.</p>
+<p>3. Securely store and manage passwords for your applications and websites using (RamzBiz and RamzBiz-V2).</p>
+<p>4. Compress images.</p>
+<p>5. Create QR Codes (RamzCode).</p>
+<p>6. Scan and read QR Codes (RamzCode).</p>
+<p>7. Register and manage products and other items that have an expiration date, along with many other features...</p>
+
+<hr/>
+<p>⚡️<strong>Recommended System:</strong> Windows(Vindoz) 8.0 or higher</p>
+<p>☄️Currently, the validity period of each energy is <strong>6</strong> months.<br/> <strong> Initial amount: 700TRX, Amount per period: 50TRX </strong></p>
 
 <table>
  <tr>
