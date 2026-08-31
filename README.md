@@ -3,7 +3,7 @@
  <p align="center"><img width="500" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan" src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/1.png"/></p>
 
 <p align="center"><strong>EKSCHENJ:</strong></p>
-<p>EIn Barnaame Baraaye Hesaabdaari ye Burs Va Ramz Arz Hast Va Mitavaanad KHarid Va Foruw ee Womaa Raa Dar Burs Va KHarid Va Foruw ee Ramz Arz Modiriyat Konad Va Sud Va Zarar ee Womaa Raa Mohaasebe Konad. Dar EIn Poroxe Mavaared ee Digar i Ezaafe Wod e Ast Ke Dar Jadval ee Paaein Tozih Daade Wod e Ast. EIn Poroxe Be Surat ee Mostaqel Kaar Wod e Ast. </p><p>System ee Piwnahaad i:<strong> Windows(Vindoz) 8.0 Va Baalaa tar</strong></p><p>Dar Surat ee Har Gune Mowkel Be Email ee Mojud Dar Barnaame Payaam KHod Raa Ersaal Konid Yaa Payaam KHod Raa Dar Link haaye Eraa'e Wod e Benevis id.</p> <p><strong>Dar Haal ee Haazer Modat ee Etebaar ee Har Enerxi 6 Maah Ast.<br/> Mablaq ee Avaliye: 700TRX, Mablaq ee Har Dore: 50TRX </strong></p>
+<p align="justify">EIn Barnaame Be Surat ee Yekparche Mibaawad Va Dar Aan Mitavanid Hesaabdaari ye Burs Va Ramz Arz KHod Raa Anjaam Dahid, Daaraaei Digitaal TRX KHod Raa Dar Barnaame Negahdaari Konid <strong>Be Surat ee Offline</strong>, Negahdaari ye Ramz haaye Barnaame Va Site haaye KHod Raa Nagah Daari Konid, Hamchenin Gozine haaei Mesl ee KHandan ee QrCode(RamzCode), Saakht ee QrCode(RamzCode), Feworde Saazi ye Tasaavir Va Taarikh ee Mahsulaat Va Aqlaam ee Digar Ke Daaraaye Taarikh ee Enqezaa Hastand Raa Sabt Nemaaeid Va Mavaared ee Digar...<p>System ee Piwnahaad i:<strong> Windows(Vindoz) 8.0 Va Baalaa tar</strong></p><p>Dar Surat ee Har Gune Mowkel Be Email ee Mojud Dar Barnaame Payaam KHod Raa Ersaal Konid Yaa Payaam KHod Raa Dar Link haaye Eraa'e Wod e Benevis id.</p> <p><strong>Dar Haal ee Haazer Modat ee Etebaar ee Har Enerxi 6 Maah Ast.<br/> Mablaq ee Avaliye: 700TRX, Mablaq ee Har Dore: 50TRX </strong></p>
 
 <table>
  <tr>
@@ -93,13 +93,9 @@
 </table>
 
 ------------------------------------------------------------------------
-<p align="center">
- <strong>
-    EXCHANGE:
- </strong>
-</p>
+<p align="center"><strong>EXCHANGE:</strong></p>
 
-<p>This program is for cryptocurrency and stock accounting and can manage the buying and selling of assets in the stock market and cryptocurrency market, as well as calculate the profit and loss of the assets. Additional features are included in this project, which are explained in the table below. This project operates independently.</p>
+<p align="justify">This application is an integrated all-in-one platform that allows you to manage your stock market and cryptocurrency accounts. You can also store your TRX digital assets offline within the application, securely save passwords for your applications and websites, scan and generate QrCodes(RamzCode), compress images, and register and manage products, items, and other records that have expiration dates, along with many other features...</p>
 <p>Recommended System: <strong>Windows(Vindoz) 8.0 or higher</strong></p>
 <p>If you have any problems, send a message to the email in the app or write your message in the links provided.</p>
 <p><strong>Currently, the validity period of each energy is 6 months.<br/> Initial amount: 700TRX, Amount per period: 50TRX </strong></p>
