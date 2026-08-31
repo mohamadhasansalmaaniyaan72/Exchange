@@ -198,7 +198,10 @@ Qabl Az KHarid Payaam Be Email Mored ee Nazar Ersaal Konid.<br/> <strong> mh.sal
 <strong>Download program prerequisites (Download ee Piw Niyaaz ee Barnaame):</strong>
 
 <a href="https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.20-windows-x86-installer"><kbd> <br> Runtime-Desktop-7.0.20 X86 <br> </kbd></a>
-<a href="https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.20-windows-x64-installer?cid=getdotnetcore"><kbd> <br> Runtime-Desktop-7.0.20 X64 <br> </kbd></a>
+<a href="https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.20-windows-x64-installer?cid=getdotnetcore"><kbd> <br> Runtime-Desktop-7.0.20 X64 <br> </kbd></a><br/>
+Or (Yaa)<br/>
+<a href="https://drive.usercontent.google.com/download?id=1efElDbWi85yz-2mwojMWU6W-jXw1wLhp&export=view&authuser=0"><kbd> <br> Runtime-Desktop-7.0.20 X86 <br> </kbd></a>
+<a href="https://drive.usercontent.google.com/download?id=1Q-8DI15oet-vdgyGyJwtsiCDooFx3osX&export=view&authuser=0"><kbd> <br> Runtime-Desktop-7.0.20 X64 <br> </kbd></a>
 
 <strong>Developer and support links (Link haaye Barnaame Nevis Va Powtibaan):</strong>
 <p>
