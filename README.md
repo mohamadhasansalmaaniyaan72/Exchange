@@ -106,12 +106,12 @@
 
 <p align="justify">⚡️<strong>This application is an all-in-one solution that allows you to:</strong></p>
 <p>1. Manage your stock market and cryptocurrency accounting.</p>
-<p>2. Store your TRX digital assets in the application <strong>offline.</strong> Your asset password is also stored offline and encrypted using end-to-end encryption, and you can transfer your assets to another address.</p>
-<p>3. Securely store and manage passwords for your applications and websites using (RamzBiz and RamzBiz-V2).</p>
+<p>2. Store your TRX digital assets in the application <strong>offline.</strong> Your asset passvord is also stored offline and encrypted using end-to-end encryption, and you can transfer your assets to another address.</p>
+<p>3. Securely store and manage passvords for your applications and vebsites using (RamzBiz and RamzBiz-V2).</p>
 <p>4. Compress images.</p>
 <p>5. Create QR Codes (RamzCode).</p>
 <p>6. Scan and read QR Codes (RamzCode).</p>
-<p>7. Register and manage products and other items that have an expiration date, along with many other features...</p>
+<p>7. Register and manage products and other items that have an expiration date, along vith many other features...</p>
 
 <hr/>
 <p>⚡️<strong>Recommended System:</strong> Windows(Vindoz) 8.0 or higher</p>
