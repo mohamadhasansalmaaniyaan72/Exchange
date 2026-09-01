@@ -6,7 +6,7 @@
 <p align="justify">⚡️<strong>EIn Barnaame Be Surat ee Yekpaarche Mibaawad Va Dar Aan Mitavaanid:</strong>
  <p>1. Hesaabdaari ye Burs Va Ramz Arz KHod Raa Anjaam Dahid.</p>
  <p>2. Daaraaei ye Digitaal TRX KHod Raa Dar Barnaame Negahdaari Konid <strong>Be Surat ee Offline</strong>, Ramz ee Daaraaei Be Surat ee Offline Va Encrypt Wod e (End-to-End) Zakhire Miwavad, Enteqaal Daaraaei Be Aadres ee Digar.</p>
- <p>3. Negahdaari ye Ramz haaye Barnaame Va Site haaye KHod Raa Nagahdaari Konid (RamzBiz Va RamzBiz-V2). </p>
+ <p>3. Negahdaari ye Ramz haaye Barnaame Va Site, Negahdaari ye Ramz haaye Vorud ee 2 Marhale-ei (RamzBiz Va RamzBiz-V2). </p>
  <p>4. Feworde Saazi ye Tasaavir. </p>
  <p>5. Saakht ee QrCode(RamzCode).</p>
  <p>6. KHaandan ee QrCode(RamzCode).</p>
@@ -107,7 +107,7 @@
 <p align="justify">⚡️<strong>This application is an all-in-one solution that allows you to:</strong></p>
 <p>1. Manage your stock market and cryptocurrency accounting.</p>
 <p>2. Store your TRX digital assets in the application <strong>offline.</strong> Your asset passvord is also stored offline and encrypted using end-to-end encryption, and you can transfer your assets to another address.</p>
-<p>3. Securely store and manage passvords for your applications and vebsites using (RamzBiz and RamzBiz-V2).</p>
+<p>3. Store passwords for applications and websites, and store two-factor authentication (2FA) login codes (RamzBiz and RamzBiz-V2).</p>
 <p>4. Compress images.</p>
 <p>5. Create QR Codes (RamzCode).</p>
 <p>6. Scan and read QR Codes (RamzCode).</p>
