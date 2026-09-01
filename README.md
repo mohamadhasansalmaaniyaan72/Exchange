@@ -5,7 +5,7 @@
 <p align="center"><strong>EKSCHENJ:</strong></p>
 <p align="justify">⚡️<strong>EIn Barnaame Be Surat ee Yekpaarche Mibaawad Va Dar Aan Mitavaanid:</strong>
  <p>1. Hesaabdaari ye Burs Va Ramz Arz KHod Raa Anjaam Dahid.</p>
- <p>2. Daaraaei ye Digitaal TRX KHod Raa Dar Barnaame Negahdaari Konid <strong>Be Surat ee Offline</strong>, Ramz ee Daaraaei Be Surat ee Offline Va Encrypt Wod e (End-to-End) Zakhire Miwavad, Enteqaal Daaraaei Be Aadres ee Digar.</p>
+ <p>2. Daaraaei ye Dijitaal TRX KHod Raa Dar Barnaame Negahdaari Konid <strong>Be Surat ee Offline</strong>, Ramz ee Daaraaei Be Surat ee Offline Va Encrypt Wod e (End-to-End) Zakhire Miwavad, Enteqaal Daaraaei Be Aadres ee Digar.</p>
  <p>3. Negahdaari ye Ramz haaye Barnaame Va Site, Negahdaari ye Ramz haaye Vorud ee 2 Marhale-ei (RamzBiz Va RamzBiz-V2). </p>
  <p>4. Feworde Saazi ye Tasaavir. </p>
  <p>5. Saakht ee QrCode(RamzCode).</p>
