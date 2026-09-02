@@ -10,7 +10,7 @@
  <p>4. Feworde Saazi ye Tasaavir. </p>
  <p>5. Saakht ee QrCode(RamzCode).</p>
  <p>6. KHaandan ee QrCode(RamzCode).</p>
- <p>7. Sabt ee Mahsulaat Va Aqlaam i Ke Daaraaye Taarikh ee Enqezaa Hastand Va Mavaared Digar...</p>
+ <p>7. Sabt ee Mahsulaat Va Aqlaam i Ke Daaraaye Taarikh ee Enqezaa Hastand Va Mavaared ee Digar...</p>
 <hr/>
  <p>⚡️System ee Piwnahaad i:<strong> Windows(Vindoz) 8.0 Va Baalaa tar</strong></p> <p>☄️Dar Haal ee Haazer Modat ee Etebaar ee Har Enerxi <strong>6</strong> Maah Ast.<br/> <strong>Mablaq ee Avaliye: 700TRX, Mablaq ee Har Dore: 50TRX </strong></p>
 
