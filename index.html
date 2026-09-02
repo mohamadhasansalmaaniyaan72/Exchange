@@ -1,57 +1,413 @@
-<html><head>
- <meta charset="UTF-8">
- <meta name="viewport" content="width=device-width, initial-scale=1.0">
- <title>EXHCNAGE - EKSCHENJ</title>
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<style>
-        body {
+    <title>EXHCNAGE - EKSCHENJ</title>
+
+    <meta name="description"
+          content="EKSCHENJ - An all-in-one application for accounting, digital asset management, password management, QR codes, image compression and more.">
+
+    <style>
+        * {
+            box-sizing: border-box;
             margin: 0;
-            min-height: 100vh;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            background: #f2f2f2;
-            font-family: Arial, sans-serif;
+            padding: 0;
         }
+
+        body {
+            min-height: 100vh;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
+                         Roboto, Arial, sans-serif;
+
+            background:
+                radial-gradient(circle at top left, #243b55, transparent 40%),
+                radial-gradient(circle at bottom right, #141e30, transparent 45%),
+                #0b1120;
+
+            color: #e5e7eb;
+            padding: 40px 20px;
+        }
+
+        .container {
+            width: 100%;
+            max-width: 950px;
+            margin: auto;
+        }
+
+        /* Main Card */
 
         .card {
-            width: 90%;
-            max-width: 900px;
-            padding: 30px;
-            background: white;
-            border-radius: 16px;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.12);
-            box-sizing: border-box;
+            background: rgba(17, 24, 39, 0.88);
+            border: 1px solid rgba(255, 255, 255, 0.10);
+            border-radius: 24px;
+            padding: 45px;
+            box-shadow:
+                0 25px 70px rgba(0, 0, 0, 0.45),
+                inset 0 1px 0 rgba(255, 255, 255, 0.05);
+
+            backdrop-filter: blur(15px);
+            -webkit-backdrop-filter: blur(15px);
+        }
+
+        /* Header */
+
+        .header {
+            text-align: center;
+            margin-bottom: 45px;
+        }
+
+        .logo {
+            width: 85px;
+            height: 85px;
+            margin: 0 auto 20px;
+
+            display: flex;
+            align-items: center;
+            justify-content: center;
+
+            border-radius: 22px;
+
+            background: linear-gradient(
+                135deg,
+                #3b82f6,
+                #8b5cf6
+            );
+
+            font-size: 38px;
+            font-weight: 800;
+
+            box-shadow:
+                0 15px 35px rgba(59, 130, 246, 0.30);
+        }
+
+        h1 {
+            font-size: clamp(32px, 6vw, 52px);
+            letter-spacing: 2px;
+            margin-bottom: 10px;
+            color: #ffffff;
+        }
+
+        .subtitle {
+            color: #9ca3af;
+            font-size: 16px;
+        }
+
+        /* Section */
+
+        .section {
+            margin-bottom: 40px;
+        }
+
+        .section-title {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+
+            font-size: 24px;
+            color: #ffffff;
+
+            margin-bottom: 18px;
+        }
+
+        .section-title span {
+            font-size: 28px;
+        }
+
+        .intro {
+            line-height: 1.9;
+            color: #cbd5e1;
+            margin-bottom: 22px;
+        }
+
+        /* Features */
+
+        .features {
+            display: grid;
+            gap: 12px;
+        }
+
+        .feature {
+            display: flex;
+            align-items: flex-start;
+            gap: 14px;
+
+            padding: 16px 18px;
+
+            border-radius: 14px;
+
+            background: rgba(255, 255, 255, 0.045);
+            border: 1px solid rgba(255, 255, 255, 0.06);
+
+            transition: all 0.25s ease;
+        }
+
+        .feature:hover {
+            transform: translateY(-2px);
+
+            background: rgba(255, 255, 255, 0.075);
+
+            border-color: rgba(59, 130, 246, 0.35);
+        }
+
+        .number {
+            min-width: 30px;
+            height: 30px;
+
+            display: flex;
+            align-items: center;
+            justify-content: center;
+
+            border-radius: 9px;
+
+            background: rgba(59, 130, 246, 0.15);
+            color: #60a5fa;
+
+            font-weight: 700;
+            font-size: 14px;
+        }
+
+        .feature-text {
+            line-height: 1.7;
+            color: #d1d5db;
+        }
+
+        .highlight {
+            color: #60a5fa;
+            font-weight: 700;
+        }
+
+        /* Divider */
+
+        .divider {
+            height: 1px;
+            background: rgba(255, 255, 255, 0.08);
+            margin: 45px 0;
+        }
+
+        /* English */
+
+        .english {
+            direction: ltr;
+            text-align: left;
+        }
+
+        /* Footer */
+
+        footer {
+            text-align: center;
+            margin-top: 30px;
+            color: #6b7280;
+            font-size: 14px;
+        }
+
+        /* Mobile */
+
+        @media (max-width: 650px) {
+
+            body {
+                padding: 20px 12px;
+            }
+
+            .card {
+                padding: 28px 20px;
+                border-radius: 18px;
+            }
+
+            .logo {
+                width: 70px;
+                height: 70px;
+                font-size: 30px;
+            }
+
+            .section-title {
+                font-size: 21px;
+            }
+
+            .feature {
+                padding: 14px;
+            }
         }
     </style>
-
 </head>
+
 <body>
- <div class="card">
- <p align="center"><img width="500" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan"  src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/1.png" loading="lazy"/></p>
 
-<p align="center"><strong>EKSCHENJ:</strong></p>
-<p align="justify">⚡️<strong>EIn Barnaame Be Surat ee Yekpaarche Mibaawad Va Dar Aan Mitavaanid:</strong>
- <p>1. Hesaabdaari ye Burs Va Ramz Arz KHod Raa Anjaam Dahid.</p>
- <p>2. Daaraaei ye Dijitaal TRX KHod Raa Dar Barnaame Negahdaari Konid <strong>Be Surat ee Offline</strong>, Ramz ee Daaraaei Be Surat ee Offline Va Encrypt Wod e (End-to-End) Zakhire Miwavad, Enteqaal Daaraaei Be Aadres ee Digar.</p>
- <p>3. Negahdaari ye Ramz haaye Barnaame Va Site, Negahdaari ye Ramz haaye Vorud ee 2 Marhale-ei (RamzBiz Va RamzBiz-V2). </p>
- <p>4. Feworde Saazi ye Tasaavir. </p>
- <p>5. Saakht ee QrCode(RamzCode).</p>
- <p>6. KHaandan ee QrCode(RamzCode).</p>
- <p>7. Sabt ee Mahsulaat Va Aqlaam i Ke Daaraaye Taarikh ee Enqezaa Hastand Va Mavaared ee Digar...</p>
-<hr/>
-<p align="center"><strong>EXCHANGE:</strong></p>
+<div class="container">
 
-<p align="justify">⚡️<strong>This application is an all-in-one solution that allows you to:</strong></p>
-<p>1. Manage your stock market and cryptocurrency accounting.</p>
-<p>2. Store your TRX digital assets in the application <strong>offline.</strong> Your asset passvord is also stored offline and encrypted using end-to-end encryption, and you can transfer your assets to another address.</p>
-<p>3. Store passwords for applications and websites, and store two-factor authentication (2FA) login codes (RamzBiz and RamzBiz-V2).</p>
-<p>4. Compress images.</p>
-<p>5. Create QR Codes (RamzCode).</p>
-<p>6. Scan and read QR Codes (RamzCode).</p>
-<p>7. Register and manage products and other items that have an expiration date, along vith many other features...</p>
+    <main class="card">
 
-Official Page (Safhe ye Rasmi): <a href="https://github.com/mohamadhasansalmaaniyaan72/Exchange">EXCHANGE - EKSCHENJ </a>
- </div>
+        <!-- Header -->
+
+        <header class="header">
+
+            <div class="logo">
+                <img width="250" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan"  src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/1.png" loading="lazy"/>
+            </div>
+
+            <h1>EKSCHENJ</h1>
+
+        </header>
+
+
+        <!-- Persian -->
+
+        <section class="section">
+
+            <h2 class="section-title">
+                <span>🇮🇷</span>
+                EKSCHENJ
+            </h2>
+
+            <p class="intro">
+                ⚡️EIn Barnaame Be Surat ee Yekpaarche Mibaawad Va Dar Aan Mitavaanid:
+            </p>
+
+            <div class="features">
+
+                <div class="feature">
+                    <div class="number">1</div>
+                    <div class="feature-text">
+                        Hesaabdaari ye Burs Va Ramz Arz KHod Raa Anjaam Dahid.
+                    </div>
+                </div>
+
+                <div class="feature">
+                    <div class="number">2</div>
+                    <div class="feature-text">
+                        Daaraaei ye Dijitaal TRX KHod Raa Dar Barnaame Negahdaari Konid Be Surat ee Offline, Ramz ee Daaraaei Be Surat ee Offline Va Encrypt Wod e (End-to-End) Zakhire Miwavad, Enteqaal Daaraaei Be Aadres ee Digar.
+                    </div>
+                </div>
+
+                <div class="feature">
+                    <div class="number">3</div>
+                    <div class="feature-text">
+                        Negahdaari ye Ramz haaye Barnaame Va Site, Negahdaari ye Ramz haaye Vorud ee 2 Marhale-ei (RamzBiz Va RamzBiz-V2).
+                    </div>
+                </div>
+
+                <div class="feature">
+                    <div class="number">4</div>
+                    <div class="feature-text">
+                        Feworde Saazi ye Tasaavir.
+                    </div>
+                </div>
+
+                <div class="feature">
+                    <div class="number">5</div>
+                    <div class="feature-text">
+                        Saakht ee QrCode(RamzCode).
+                    </div>
+                </div>
+
+                <div class="feature">
+                    <div class="number">6</div>
+                    <div class="feature-text">
+                        KHaandan ee QrCode(RamzCode).
+                    </div>
+                </div>
+
+                <div class="feature">
+                    <div class="number">7</div>
+                    <div class="feature-text">
+                        Sabt ee Mahsulaat Va Aqlaam i Ke Daaraaye Taarikh ee Enqezaa Hastand Va Mavaared ee Digar...
+                    </div>
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <div class="divider"></div>
+
+
+        <!-- English -->
+
+        <section class="section english">
+
+            <h2 class="section-title">
+                <span>🇬🇧</span>
+                EXCHANGE
+            </h2>
+
+            <p class="intro">
+                ⚡️ This application is an all-in-one solution that allows you to:
+            </p>
+
+            <div class="features">
+
+                <div class="feature">
+                    <div class="number">1</div>
+                    <div class="feature-text">
+                        Manage your stock market and cryptocurrency accounting.
+                    </div>
+                </div>
+
+                <div class="feature">
+                    <div class="number">2</div>
+                    <div class="feature-text">
+                        Store your TRX digital assets in the application
+                        <span class="highlight">offline</span>.
+                        Your asset password is also stored offline and encrypted
+                        using <span class="highlight">end-to-end encryption</span>,
+                        and you can transfer your assets to another address.
+                    </div>
+                </div>
+
+                <div class="feature">
+                    <div class="number">3</div>
+                    <div class="feature-text">
+                        Store passwords for applications and websites,
+                        as well as two-factor authentication (2FA) login codes
+                        (RamzBiz and RamzBiz-V2).
+                    </div>
+                </div>
+
+                <div class="feature">
+                    <div class="number">4</div>
+                    <div class="feature-text">
+                        Compress images.
+                    </div>
+                </div>
+
+                <div class="feature">
+                    <div class="number">5</div>
+                    <div class="feature-text">
+                        Create QR Codes (RamzCode).
+                    </div>
+                </div>
+
+                <div class="feature">
+                    <div class="number">6</div>
+                    <div class="feature-text">
+                        Scan and read QR Codes (RamzCode).
+                    </div>
+                </div>
+
+                <div class="feature">
+                    <div class="number">7</div>
+                    <div class="feature-text">
+                        Register and manage products and other items
+                        that have an expiration date, along with many
+                        other features...
+                    </div>
+                </div>
+
+            </div>
+
+        </section>
+
+    </main>
+
+    <footer>
+        From (Aaqaaz): 2025 CN.EA (1404 KH-i)
+    </footer>
+
+</div>
+
 </body>
 </html>
+```
