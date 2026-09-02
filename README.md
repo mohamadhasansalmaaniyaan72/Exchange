@@ -1,6 +1,6 @@
 <html><head><meta name="google-site-verification" content="QQcEYioeoX5gd0q0uHdBjvMvkeZdhDQ0Hd7riNHNXjc" /></head>
 <body>
- <p align="center"><img width="500" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan"  src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/1.png" loading="lazy"/></p>
+ <p align="center"><img width="250" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan"  src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/1.png" loading="lazy"/></p>
 
 <p align="center"><strong>EKSCHENJ:</strong></p>
 <p align="justify">⚡️<strong>EIn Barnaame Be Surat ee Yekpaarche Mibaawad Va Dar Aan Mitavaanid:</strong>
