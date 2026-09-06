@@ -56,7 +56,7 @@
    2.0.0.5
   </td>
   <td>
-  <p>Behbud ee UI.</p> <p>Ezaafe Wodan ee PulBaaks, Dar EIn Bakhw Mitavaan id Daaraaei ye Digitaal ee KHod Raa EIjaad Kon id Va Enteqaal Bedahid, Faqat Az PulBaaks TRON-TRX Estefaade Miwavad.</p><p>Ezaafe Wodan ee Qaabeliyat ee Nemaayew ee Tarakonew haaye Address haaei Ke Az KHod ee Barnaame ye EKSCHENJ-EXCHANGE Saakht e Wode-and. </p><p>Pas Az EIjaad ee Address, Tedaad i Be Aan Address Vaariz Kon id Taa Address ee Mored ee Nazar Motabar Wavad.</p><p>EIn Emkaan Be Surat ee Service Base Ast Va Az Endpoint ee KHod TRON-TRX Service Gerefte Wod e Ast.</p><p> Kaarmozd ee Taraakonew haa be Address ee <strong>TAm3ZryrafrCycWqz1pBdsSwv3mzFkXijo</strong> Vaariz Miwavand.</p>
+  <p>Behbud ee UI.</p> <p>Ezaafe Wodan ee PulBaaks, Dar EIn Bakhw Mitavaan id Daaraaei ye Digitaal ee KHod Raa EIjaad Kon id Va Enteqaal Bedahid, Faqat Az PulBaaks TRON-TRX Estefaade Miwavad.</p><p>Ezaafe Wodan ee Qaabeliyat ee Nemaayew ee Tarakonew haaye Address haaei Ke Az KHod ee Barnaame ye EKSCHENJ-EXCHANGE Saakht e Wode-and. </p><p>Pas Az EIjaad ee Address, Tedaad i Be Aan Address Vaariz Kon id Taa Address ee Mored ee Nazar Motabar Wavad.</p><p>EIn Emkaan Be Surat ee Service Base Ast Va Az Endpoint ee KHod TRON-TRX Service Gerefte Wod e Ast.</p><p> Address ee Vaariz <strong>TAm3ZryrafrCycWqz1pBdsSwv3mzFkXijo</strong> Mibaawad.</p>
     </td>
  </tr>
  <tr>
@@ -159,7 +159,7 @@
   <td>
    2.0.0.5
   </td>
-  <td><p>UI improvements.</p> <p>Addition of the Money Box feature — in this section, you can create and transfer your own digital asset. only TRON-TRX Money Box are supported.</p> <p>Addition of the ability to display transactions of addresses created by the program’s own EKSCHENJ-EXCHANGE.</p> <p>After creating an address, deposit a small amount to it so that the address becomes valid.</p> <p>This feature is service-based and is obtained from the TRON-TRX Service endpoint.</p><p>transaction fees are deposited to the address <strong>TAm3ZryrafrCycWqz1pBdsSwv3mzFkXijo</strong>.</p>
+  <td><p>UI improvements.</p> <p>Addition of the Money Box feature — in this section, you can create and transfer your own digital asset. only TRON-TRX Money Box are supported.</p> <p>Addition of the ability to display transactions of addresses created by the program’s own EKSCHENJ-EXCHANGE.</p> <p>After creating an address, deposit a small amount to it so that the address becomes valid.</p> <p>This feature is service-based and is obtained from the TRON-TRX Service endpoint.</p><p>The deposit address is <strong>TAm3ZryrafrCycWqz1pBdsSwv3mzFkXijo</strong>.</p>
  </tr>
  <tr>
   <td>
