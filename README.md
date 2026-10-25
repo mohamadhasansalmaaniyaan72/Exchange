@@ -12,7 +12,7 @@
  <p>6. KHaandan ee QrCode(RamzCode).</p>
  <p>7. Sabt ee Mahsulaat Va Aqlaam i Ke Daaraaye Taarikh ee Enqezaa Hastand Va Mavaared ee Digar...</p>
 <hr/>
- <p>⚡️<strong>System ee Piwnahaad i:</strong> Windows(Vindoz) 8.0 Va Baalaa tar</p> <p>☄️Dar Haal ee Haazer Modat ee Etebaar ee Har Enerxi <strong>6</strong> Maah Ast.<br/> <strong>Mablaq ee Avaliye: 700TRX, Mablaq ee Har Dore: 60TRX </strong></p>
+ <p>⚡️<strong>System ee Piwnahaad i:</strong> Windows(Vindoz) 8.0 Va Baalaa tar</p> <p>☄️Dar Haal ee Haazer Modat ee Etebaar ee Har Enerxi <strong>6</strong> Maah Ast.<br/> <strong>Mablaq ee Avaliye: 750TRX, Mablaq ee Har Dore: 60TRX </strong></p>
 
 <table>
  <tr>
@@ -115,7 +115,7 @@
 
 <hr/>
 <p>⚡️<strong>Recommended System:</strong> Windows(Vindoz) 8.0 or higher</p>
-<p>☄️Currently, the validity period of each energy is <strong>6</strong> months.<br/> <strong> Initial amount: 700TRX, Amount per period: 60TRX </strong></p>
+<p>☄️Currently, the validity period of each energy is <strong>6</strong> months.<br/> <strong> Initial amount: 750TRX, Amount per period: 60TRX </strong></p>
 
 <table>
  <tr>
