@@ -3,10 +3,10 @@
  <p align="center"><img width="250" alt="Github_Exchange_Ekschenj_Mohamad Hasan Salmaaniyaan"  src="https://github.com/mohamadhasansalmaaniyaan72/Exchange/releases/download/assets/1.png" loading="lazy"/></p>
 
 <p align="center"><strong>EKSCHENJ:</strong></p>
-<p align="justify">⚡️<strong>EIn Barnaame Be Surat ee Yekpaarche Mibaawad Va Dar Aan Mitavaanid:</strong>
+<p align="justify">⚡️<strong>EIn Narm Afzaar Be Surat ee Yekpaarche Mibaawad Va Dar Aan Mitavaanid:</strong>
  <p>1. Hesaabdaari ye Burs Va Ramz Arz KHod Raa Anjaam Dahid.</p>
- <p>2. Daaraaei ye Dijitaal TRX KHod Raa Dar Barnaame Negahdaari Konid <strong>Be Surat ee Offline</strong>, Ramz ee Daaraaei Be Surat ee Offline Va Encrypt Wod e (End-to-End) Zakhire Miwavad, Enteqaal Daaraaei Be Aadres ee Digar.</p>
- <p>3. Negahdaari ye Ramz haaye Barnaame Va Site, Negahdaari ye Ramz haaye Vorud ee 2 Marhale-ei (RamzBiz Va RamzBiz-V2). </p>
+ <p>2. Daaraaei ye Dijitaal TRX KHod Raa Dar Narm Afzaar Negahdaari Konid <strong>Be Surat ee Offline</strong>, Ramz ee Daaraaei Be Surat ee Offline Va Encrypt Wod e (End-to-End) Zakhire Miwavad, Enteqaal Daaraaei Be Aadres ee Digar.</p>
+ <p>3. Negahdaari ye Ramz haaye Narm Afzaar Va Site, Negahdaari ye Ramz haaye Vorud ee 2 Marhale-ei (RamzBiz Va RamzBiz-V2). </p>
  <p>4. Feworde Saazi ye Tasaavir. </p>
  <p>5. Saakht ee QrCode(RamzCode).</p>
  <p>6. KHaandan ee QrCode(RamzCode).</p>
@@ -24,7 +24,7 @@
    <p>2.0.3.9</p>
   </td>
   <td>
-  <p>Hal ee EIraadaat Barnaame.</p><p>Hal ee Kaarmozd haa Va Taraakonew haa.</p><p>Hal ee Mowkel ee Nemaayew KHataa haa Dar PulBaaks.</p>
+  <p>Hal ee EIraadaat Narm Afzaar.</p><p>Hal ee Kaarmozd haa Va Taraakonew haa.</p><p>Hal ee Mowkel ee Nemaayew KHataa haa Dar PulBaaks.</p>
     </td>
  </tr>
 <tr>
@@ -32,7 +32,7 @@
    <p>2.0.2.9</p><p>2.0.1.9</p><p>2.0.0.9</p><p>2.0.0.8</p>
   </td>
   <td>
-  <p>Hal ee EIraadaat Barnaame.</p>
+  <p>Hal ee EIraadaat Narm Afzaar.</p>
     </td>
  </tr>
 <tr>
@@ -40,7 +40,7 @@
    2.0.0.7
   </td>
   <td>
-  <p>Behine Wodan ee Barnaame.</p> <p>Behbud ee UI.</p> <p>Etelaa Resaani Taraakonew ee PulBaaks Dar Email Va Barnaame.</p> <p>Taqiraat ee Amniyati ye PulBaaks.</p> <p>Zakhire Address haa Baraaye Enteqaal.</p> <p>Handle Kardan ee KHataa ye PulBaaks Dar Taraakonew haa, Agar Kaarmozd ee Taraakonew i Be Address ee Digar i Ersaal Bewe Qaabel Bargawt Nist Va Az Jaaye Dige Baayad Peygiri Wavad (Service Base Hast).</p>
+  <p>Behine Wodan ee Narm Afzaar.</p> <p>Behbud ee UI.</p> <p>Etelaa Resaani Taraakonew ee PulBaaks Dar Email Va Narm Afzaar.</p> <p>Taqiraat ee Amniyati ye PulBaaks.</p> <p>Zakhire Address haa Baraaye Enteqaal.</p> <p>Handle Kardan ee KHataa ye PulBaaks Dar Taraakonew haa, Agar Kaarmozd ee Taraakonew i Be Address ee Digar i Ersaal Bewe Qaabel Bargawt Nist Va Az Jaaye Dige Baayad Peygiri Wavad (Service Base Hast).</p>
     </td>
  </tr>
 <tr>
@@ -48,7 +48,7 @@
    2.0.0.6
   </td>
   <td>
-  <p>Behine Wodan ee Barnaame.</p> <p>Behbud ee UI.</p>
+  <p>Behine Wodan ee Narm Afzaar.</p> <p>Behbud ee UI.</p>
     </td>
  </tr>
  <tr>
@@ -56,7 +56,7 @@
    2.0.0.5
   </td>
   <td>
-  <p>Behbud ee UI.</p> <p>Ezaafe Wodan ee PulBaaks, Dar EIn Bakhw Mitavaan id Daaraaei ye Digitaal ee KHod Raa EIjaad Kon id Va Enteqaal Bedahid, Faqat Az PulBaaks TRON-TRX Estefaade Miwavad.</p><p>Ezaafe Wodan ee Qaabeliyat ee Nemaayew ee Tarakonew haaye Address haaei Ke Az KHod ee Barnaame ye EKSCHENJ-EXCHANGE Saakht e Wode-and. </p><p>Pas Az EIjaad ee Address, Tedaad i Be Aan Address Vaariz Kon id Taa Address ee Mored ee Nazar Motabar Wavad.</p><p>EIn Emkaan Be Surat ee Service Base Ast Va Az Endpoint ee KHod TRON-TRX Service Gerefte Wod e Ast.</p><p> <p>Aadres ee Pardaakht Baraaye Sefaarew ee Barnaame <strong>TAm3ZryrafrCycWqz1pBdsSwv3mzFkXijo</strong> Mibaawad.</p></p>
+  <p>Behbud ee UI.</p> <p>Ezaafe Wodan ee PulBaaks, Dar EIn Bakhw Mitavaan id Daaraaei ye Digitaal ee KHod Raa EIjaad Kon id Va Enteqaal Bedahid, Faqat Az PulBaaks TRON-TRX Estefaade Miwavad.</p><p>Ezaafe Wodan ee Qaabeliyat ee Nemaayew ee Tarakonew haaye Address haaei Ke Az KHod ee Narm Afzaar ye EKSCHENJ-EXCHANGE Saakht e Wode-and. </p><p>Pas Az EIjaad ee Address, Tedaad i Be Aan Address Vaariz Kon id Taa Address ee Mored ee Nazar Motabar Wavad.</p><p>EIn Emkaan Be Surat ee Service Base Ast Va Az Endpoint ee KHod TRON-TRX Service Gerefte Wod e Ast.</p><p> <p>Aadres ee Pardaakht Baraaye Sefaarew ee Narm Afzaar <strong>TAm3ZryrafrCycWqz1pBdsSwv3mzFkXijo</strong> Mibaawad.</p></p>
     </td>
  </tr>
  <tr>
@@ -85,7 +85,7 @@
  </tr>
  <tr>
   <td>2.0.0.0</td>
-  <td><p>Hal ee Mowkel ee Nemaayew ee Taarikh Va Mavaared Amniyant i.</p> <p>Hal ee Mowkel UI Dar Windows 8(Vindoz 8).</p> <p>Ezaafe Wodan ee Saabeqe KHarid.</p> <p>Taqir ee UI Barkhi Az Bakhw haa.</p> <p>Ezaafe Wodan ee Emkaan ee Pardaakht ee Darun Barnaame-ei ye TRON-TRX.</p></td>
+  <td><p>Hal ee Mowkel ee Nemaayew ee Taarikh Va Mavaared Amniyant i.</p> <p>Hal ee Mowkel UI Dar Windows 8(Vindoz 8).</p> <p>Ezaafe Wodan ee Saabeqe KHarid.</p> <p>Taqir ee UI Barkhi Az Bakhw haa.</p> <p>Ezaafe Wodan ee Emkaan ee Pardaakht ee Darun Narm Afzaar-ei ye TRON-TRX.</p></td>
  </tr>
  <tr>
   <td>1.8.9.9</td>
@@ -208,7 +208,7 @@
 Send a message to the provided email before purchasing.<br/>
 Qabl Az KHarid Payaam Be Email Mored ee Nazar Ersaal Konid.<br/> <strong> mh.salmanian@yahoo.com</strong>
 
-<strong>Download program prerequisites (Download ee Piw Niyaaz ee Barnaame):</strong>
+<strong>Download program prerequisites (Download ee Piw Niyaaz ee Narm Afzaar):</strong>
 
 <a href="https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.20-windows-x86-installer"><kbd> <br> Runtime-Desktop-7.0.20 X86 <br> </kbd></a>
 <a href="https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.20-windows-x64-installer?cid=getdotnetcore"><kbd> <br> Runtime-Desktop-7.0.20 X64 <br> </kbd></a><br/>
@@ -216,7 +216,7 @@ Or (Yaa)<br/>
 <a href="https://drive.usercontent.google.com/download?id=1efElDbWi85yz-2mwojMWU6W-jXw1wLhp&export=view&authuser=0"><kbd> <br> Runtime-Desktop-7.0.20 X86 <br> </kbd></a>
 <a href="https://drive.usercontent.google.com/download?id=1Q-8DI15oet-vdgyGyJwtsiCDooFx3osX&export=view&authuser=0"><kbd> <br> Runtime-Desktop-7.0.20 X64 <br> </kbd></a>
 
-<strong>🌟Developer and support links (Link haaye Barnaame Nevis Va Powtibaan):</strong>
+<strong>🌟Developer and support links (Link haaye Narm Afzaar Nevis Va Powtibaan):</strong>
 <p>
 <a href="https://github.com/mohamadhasansalmaaniyaan72/Portfolio-Nemune-Kaar-haa-"><kbd> <br> Main <br> </kbd></a>
 <a href="https://x.com/salmaaniyaan72/status/1912920912770261313"><kbd> <br> X <br> </kbd></a>
